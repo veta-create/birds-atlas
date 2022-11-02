@@ -1,7 +1,8 @@
 import puppeteer from "puppeteer";
 import fs from "fs"
 //audio
-let scrapeAudioBird = async () => {
+let file = JSON.parse(fs.readFileSync("./birdsJSON.json"));
+let scrapeAudioBird = async (birdName) => {
   const browser = await puppeteer.launch({
     headless: false,
   });
@@ -11,7 +12,14 @@ let scrapeAudioBird = async () => {
   });
 
   await page.waitForSelector("input[type=text]");
-  await page.$eval("input[type=text]", (el) => el.value = "Ciconia nigra");
+  // await page.$eval("input[type=text]", (el) => el.value = birdName);
+  await page.$eval(
+    "input[type=text]",
+    (el, birdName) => {
+      return (el.value = birdName);
+    },
+    birdName
+  );
   await page.waitForSelector("input[type=submit]");
   await page.click("input[type=submit]");
   await page.waitForSelector(".results");
@@ -21,6 +29,9 @@ let scrapeAudioBird = async () => {
   await browser.close();
 };
 
-scrapeAudioBird()
+for (let i = 0; i < file.birds.length; i++) {
+    await scrapeAudioBird(file.birds[i].nameInLatin);
+}
+
 
 
