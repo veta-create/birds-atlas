@@ -1,5 +1,5 @@
-import puppeteer from "puppeteer";
-import fs from "fs";
+const fs = require('fs');
+const puppeteer = require('puppeteer');
 
 let file = JSON.parse(fs.readFileSync("./birdsJSON.json"));
 

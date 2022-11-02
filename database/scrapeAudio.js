@@ -1,5 +1,6 @@
-import puppeteer from "puppeteer";
-import fs from "fs"
+const fs = require('fs');
+const puppeteer = require('puppeteer');
+
 //audio
 let file = JSON.parse(fs.readFileSync("./birdsJSON.json"));
 let scrapeAudioBird = async (birdName) => {

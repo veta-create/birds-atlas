@@ -1,6 +1,7 @@
-import puppeteer from "puppeteer";
-import fs from "fs";
-import fetch from "node-fetch";
+const fs = require('fs');
+const puppeteer = require('puppeteer');
+const fetch = require('node-fetch');
+
 let file = JSON.parse(fs.readFileSync("./birdsJSON.json"));
 
 //получает наименование на русском, возвращает транслитом, с маленькой буквы, заменив пробелы на тире

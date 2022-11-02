@@ -1,4 +1,4 @@
-import fs from "fs";
+const fs = require('fs');
 const srcFolder = "./birdsData";
 let file = JSON.parse(fs.readFileSync("./birdsJSON.json"));
 
