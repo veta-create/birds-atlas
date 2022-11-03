@@ -23,13 +23,13 @@
                 "Белые аисты являются очень яркими птицами, и поэтому они часто попадаются на глаза человека в местах их обитания. Аисты нередко страдают при соприкосновении с линиями электропередач и при этом гибнут. Кроме этого, они часто попадают в руки человека, когда не могут добраться до места зимовок. Птицы ослабевают, а затем, с наступлением холодов, замерзают. Такие птицы являются частыми гостями сельских подворий, где добросердечные люди их кормят, передерживают, дожидаясь весны, чтобы выпустить их обратно на волю. Однако травмированных птиц нередко приходится оперировать в реабилитационных центрах, а затем проводить лечебные работы, направленные на восстановление функций травмированных органов. Для того чтобы привлечь внимание населения к попавшим в беду аистам, Российская Ассоциация любителей птиц выбрала аиста птицей 2014 года."
             ],
             "imagesPaths": [
-                "./birdsData/aist-belyy/images/aist-belyy-1.jpeg",
-                "./birdsData/aist-belyy/images/aist-belyy-2.jpeg",
-                "./birdsData/aist-belyy/images/aist-belyy-3.jpeg",
-                "./birdsData/aist-belyy/images/aist-belyy-4.jpeg",
-                "./birdsData/aist-belyy/images/aist-belyy-5.jpeg"
+                "/birdsData/aist-belyy/images/aist-belyy-1.jpeg",
+                "/birdsData/aist-belyy/images/aist-belyy-2.jpeg",
+                "/birdsData/aist-belyy/images/aist-belyy-3.jpeg",
+                "/birdsData/aist-belyy/images/aist-belyy-4.jpeg",
+                "/birdsData/aist-belyy/images/aist-belyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/aist-belyy/audio/aist-belyy.mp3"
+            "audioPath": "/birdsData/aist-belyy/audio/aist-belyy.mp3"
         },
         {
             "id": "Aist chernyy",
@@ -48,13 +48,13 @@
                 "В зоопарках были попытки скрестить чёрного и белого аистов. Нередки случаи, когда самец чёрного аиста, находясь в одном вольере с самкой белого аиста, начинает за ней ухаживать. Однако вывести гибридных птенцов этим двум видам невозможно из-за сильного различия в брачных ритуалах."
             ],
             "imagesPaths": [
-                "./birdsData/aist-chernyy/images/aist-chernyy-1.jpeg",
-                "./birdsData/aist-chernyy/images/aist-chernyy-2.jpeg",
-                "./birdsData/aist-chernyy/images/aist-chernyy-3.jpeg",
-                "./birdsData/aist-chernyy/images/aist-chernyy-4.jpeg",
-                "./birdsData/aist-chernyy/images/aist-chernyy-5.jpeg"
+                "/birdsData/aist-chernyy/images/aist-chernyy-1.jpeg",
+                "/birdsData/aist-chernyy/images/aist-chernyy-2.jpeg",
+                "/birdsData/aist-chernyy/images/aist-chernyy-3.jpeg",
+                "/birdsData/aist-chernyy/images/aist-chernyy-4.jpeg",
+                "/birdsData/aist-chernyy/images/aist-chernyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/aist-chernyy/audio/aist-chernyy.mp3"
+            "audioPath": "/birdsData/aist-chernyy/audio/aist-chernyy.mp3"
         },
         {
             "id": "Baklan bolshoy",
@@ -66,13 +66,13 @@
                 "Создать страницу «Баклан большой» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/baklan-bolshoy/images/baklan-bolshoy-1.jpeg",
-                "./birdsData/baklan-bolshoy/images/baklan-bolshoy-2.jpeg",
-                "./birdsData/baklan-bolshoy/images/baklan-bolshoy-3.jpeg",
-                "./birdsData/baklan-bolshoy/images/baklan-bolshoy-4.jpeg",
-                "./birdsData/baklan-bolshoy/images/baklan-bolshoy-5.jpeg"
+                "/birdsData/baklan-bolshoy/images/baklan-bolshoy-1.jpeg",
+                "/birdsData/baklan-bolshoy/images/baklan-bolshoy-2.jpeg",
+                "/birdsData/baklan-bolshoy/images/baklan-bolshoy-3.jpeg",
+                "/birdsData/baklan-bolshoy/images/baklan-bolshoy-4.jpeg",
+                "/birdsData/baklan-bolshoy/images/baklan-bolshoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/baklan-bolshoy/audio/baklan-bolshoy.mp3"
+            "audioPath": "/birdsData/baklan-bolshoy/audio/baklan-bolshoy.mp3"
         },
         {
             "id": "Bekas",
@@ -85,13 +85,13 @@
                 "Населяет болота, сырые луга, топкие берега водоёмов и тундру. Гнездится в субарктическом и умеренном климате Евразии, а также за пределами материков в Исландии, на Британских, Азорских и Фарерских островах. Зимует в Южной Европе, тропической Азии, Африке. Гнездо устраивает на земле в небольшом углублении. Питается водными беспозвоночными. Объект спортивной охоты."
             ],
             "imagesPaths": [
-                "./birdsData/bekas/images/bekas-1.jpeg",
-                "./birdsData/bekas/images/bekas-2.jpeg",
-                "./birdsData/bekas/images/bekas-3.jpeg",
-                "./birdsData/bekas/images/bekas-4.jpeg",
-                "./birdsData/bekas/images/bekas-5.jpeg"
+                "/birdsData/bekas/images/bekas-1.jpeg",
+                "/birdsData/bekas/images/bekas-2.jpeg",
+                "/birdsData/bekas/images/bekas-3.jpeg",
+                "/birdsData/bekas/images/bekas-4.jpeg",
+                "/birdsData/bekas/images/bekas-5.jpeg"
             ],
-            "audioPath": "./birdsData/bekas/audio/bekas.mp3"
+            "audioPath": "/birdsData/bekas/audio/bekas.mp3"
         },
         {
             "id": "Berkut",
@@ -151,13 +151,13 @@
                 "Ещё одно примечательное изображение золотого орла имеется на флаге Казахстана. Хотя в описании к флагу название беркут не упоминается, в пояснении к государственным символам подчёркивается, что беркут «занимает особое место в миропонимании кочевников», а «его изображение в гербах и флагах народов и этнических групп, населявших Казахстан, имеет давнюю традицию».  Из российский регионов золотой беркут присутствует на гербе и флаге Белорецкого района Башкортостана  и на флаге города Дальнереченска Приморского края . Из казахстанских регионов пара беркутов изображены на гербе города Костанай ."
             ],
             "imagesPaths": [
-                "./birdsData/berkut/images/berkut-1.jpeg",
-                "./birdsData/berkut/images/berkut-2.jpeg",
-                "./birdsData/berkut/images/berkut-3.jpeg",
-                "./birdsData/berkut/images/berkut-4.jpeg",
-                "./birdsData/berkut/images/berkut-5.jpeg"
+                "/birdsData/berkut/images/berkut-1.jpeg",
+                "/birdsData/berkut/images/berkut-2.jpeg",
+                "/birdsData/berkut/images/berkut-3.jpeg",
+                "/birdsData/berkut/images/berkut-4.jpeg",
+                "/birdsData/berkut/images/berkut-5.jpeg"
             ],
-            "audioPath": "./birdsData/berkut/audio/berkut.mp3"
+            "audioPath": "/birdsData/berkut/audio/berkut.mp3"
         },
         {
             "id": "Voron",
@@ -216,13 +216,13 @@
                 "В геральдике во́рон — символ предусмотрительности и долголетия."
             ],
             "imagesPaths": [
-                "./birdsData/voron/images/voron-1.jpeg",
-                "./birdsData/voron/images/voron-2.jpeg",
-                "./birdsData/voron/images/voron-3.jpeg",
-                "./birdsData/voron/images/voron-4.jpeg",
-                "./birdsData/voron/images/voron-5.jpeg"
+                "/birdsData/voron/images/voron-1.jpeg",
+                "/birdsData/voron/images/voron-2.jpeg",
+                "/birdsData/voron/images/voron-3.jpeg",
+                "/birdsData/voron/images/voron-4.jpeg",
+                "/birdsData/voron/images/voron-5.jpeg"
             ],
-            "audioPath": "./birdsData/voron/audio/voron.mp3"
+            "audioPath": "/birdsData/voron/audio/voron.mp3"
         },
         {
             "id": "Vorona seraya",
@@ -246,13 +246,13 @@
                 "Иногда выделяют общий вид — Corvus corone, который включает:"
             ],
             "imagesPaths": [
-                "./birdsData/vorona-seraya/images/vorona-seraya-1.jpeg",
-                "./birdsData/vorona-seraya/images/vorona-seraya-2.jpeg",
-                "./birdsData/vorona-seraya/images/vorona-seraya-3.jpeg",
-                "./birdsData/vorona-seraya/images/vorona-seraya-4.jpeg",
-                "./birdsData/vorona-seraya/images/vorona-seraya-5.jpeg"
+                "/birdsData/vorona-seraya/images/vorona-seraya-1.jpeg",
+                "/birdsData/vorona-seraya/images/vorona-seraya-2.jpeg",
+                "/birdsData/vorona-seraya/images/vorona-seraya-3.jpeg",
+                "/birdsData/vorona-seraya/images/vorona-seraya-4.jpeg",
+                "/birdsData/vorona-seraya/images/vorona-seraya-5.jpeg"
             ],
-            "audioPath": "./birdsData/vorona-seraya/audio/vorona-seraya.mp3"
+            "audioPath": "/birdsData/vorona-seraya/audio/vorona-seraya.mp3"
         },
         {
             "id": "Gaga obyknovennaya",
@@ -298,13 +298,13 @@
                 "Справочник «Handbook of the birds of the world» («Птицы мира») перечисляет 6 подвидов обыкновенной гаги:"
             ],
             "imagesPaths": [
-                "./birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-1.jpeg",
-                "./birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-2.jpeg",
-                "./birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-3.jpeg",
-                "./birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-4.jpeg",
-                "./birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-5.jpeg"
+                "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-1.jpeg",
+                "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-2.jpeg",
+                "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-3.jpeg",
+                "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-4.jpeg",
+                "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/gaga-obyknovennaya/audio/gaga-obyknovennaya.mp3"
+            "audioPath": "/birdsData/gaga-obyknovennaya/audio/gaga-obyknovennaya.mp3"
         },
         {
             "id": "Gagara krasnozobaya",
@@ -346,13 +346,13 @@
                 "Самостоятельность островного подвида Gavia stellata squamata в связи с крайней ограниченностью гнездового ареала, ничтожной численностью птиц и наличием переходных экземпляров подвергается сомнению («Птицы Советского Союза», 1951). Несмотря на то, что Г. Иогансен (Johansen, 1956), проанализировавший 22 экземпляра со Шпицбергена, подтвердил самостоятельность этого подвида, сомнения в его реальности остаются (Palmar, 1962, Cramp, Simmons, 1977)."
             ],
             "imagesPaths": [
-                "./birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-1.jpeg",
-                "./birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-2.jpeg",
-                "./birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-3.jpeg",
-                "./birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-4.jpeg",
-                "./birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-5.jpeg"
+                "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-1.jpeg",
+                "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-2.jpeg",
+                "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-3.jpeg",
+                "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-4.jpeg",
+                "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/gagara-krasnozobaya/audio/gagara-krasnozobaya.mp3"
+            "audioPath": "/birdsData/gagara-krasnozobaya/audio/gagara-krasnozobaya.mp3"
         },
         {
             "id": "Gogol obyknovennyy",
@@ -374,13 +374,13 @@
                 "Питается водными беспозвоночными, которых добывает преимущественно на дне или на водных растениях, реже в толще воды. На воде большую часть времени ныряет, достигая глубины до 4 и более метров и проводя под водой более половины минуты. Летом основу рациона составляют насекомые и их личинки — ручейники, мотыли, водяные жуки, стрекозы, клопы, мошка и др. Зимой больше употребляет в пищу моллюсков и ракообразных. Также питается дождевыми червями, земноводными и мелкой рыбой, осенью в небольших количествах семенами, корешками и вегетативными частями водных растений."
             ],
             "imagesPaths": [
-                "./birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-1.jpeg",
-                "./birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-2.jpeg",
-                "./birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-3.jpeg",
-                "./birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-4.jpeg",
-                "./birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-5.jpeg"
+                "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-1.jpeg",
+                "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-2.jpeg",
+                "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-3.jpeg",
+                "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-4.jpeg",
+                "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/gogol-obyknovennyy/audio/gogol-obyknovennyy.mp3"
+            "audioPath": "/birdsData/gogol-obyknovennyy/audio/gogol-obyknovennyy.mp3"
         },
         {
             "id": "Grach",
@@ -403,13 +403,13 @@
                 "Алексей Саврасов «Грачи прилетели» (1871)"
             ],
             "imagesPaths": [
-                "./birdsData/grach/images/grach-1.jpeg",
-                "./birdsData/grach/images/grach-2.jpeg",
-                "./birdsData/grach/images/grach-3.jpeg",
-                "./birdsData/grach/images/grach-4.jpeg",
-                "./birdsData/grach/images/grach-5.jpeg"
+                "/birdsData/grach/images/grach-1.jpeg",
+                "/birdsData/grach/images/grach-2.jpeg",
+                "/birdsData/grach/images/grach-3.jpeg",
+                "/birdsData/grach/images/grach-4.jpeg",
+                "/birdsData/grach/images/grach-5.jpeg"
             ],
-            "audioPath": "./birdsData/grach/audio/grach.mp3"
+            "audioPath": "/birdsData/grach/audio/grach.mp3"
         },
         {
             "id": "Gumennik",
@@ -425,13 +425,13 @@
                 "На места гнездования прилетают ранней весной, когда снег только начинает таять. На севере Европы это конец апреля — начало мая. В более холодные места, такие как Таймыр, Колыма, Шпицберген,  гуменники прилетают в конце мая — начале июня. Как правило, разбиваются на пары ещё на зимовках. В отличие от многих гусей, гнездо строят и самец, и самка. Гнездо устраивают на сухих местах, бугорках или холмиках вблизи водоёма, строят из мха и сухих растительных остатков; лоток и края гнезда гусыня выстилает собственным пухом. Иногда гнездо гуменника — просто углубление в земле, выстланное пухом. В кладке от 3 до 9 яиц, чаще 3-4. Первоначально яйца имеют нежно-палевый и белый с желтоватым оттенком цвет, однако в процессе насиживания на них появляются серые или жёлтые пятна. Насиживает только самка, самец находится поблизости и предупреждает об опасности. Через 25 дней выводятся птенцы (в зависимости от района гнездования, от начала июня до второй половины июля). После вылупления птенцов семья уходит от гнезда во влажные травянистые луга с кустарниками. Самец и самка вдвоём заботятся о птенцах. При опасности птенцы затаиваются в траве, взрослые птицы отлетают в сторону и тут же возвращаются к ним, когда опасность минует. В полуторамесячном возрасте птенцы уже имеют размеры взрослой птицы. Как и серые гуси, гуменники линяют, пока их птенцы подрастают, утрачивая на время способность летать. Когда птенцы встают на крыло, возвращается способность к полёту и у взрослых птиц; в этот период семья распадается. Птицы собираются в стаи и кочуют по заливным лугам и долинам рек. Кормятся вечером и ранним утром перед восходом солнца. Днём отдыхают. В места зимовок отлетают с наступлением морозов — в первых числах сентября в северных районах, в конце сентября в южных районах гнездования."
             ],
             "imagesPaths": [
-                "./birdsData/gumennik/images/gumennik-1.jpeg",
-                "./birdsData/gumennik/images/gumennik-2.jpeg",
-                "./birdsData/gumennik/images/gumennik-3.jpeg",
-                "./birdsData/gumennik/images/gumennik-4.jpeg",
-                "./birdsData/gumennik/images/gumennik-5.jpeg"
+                "/birdsData/gumennik/images/gumennik-1.jpeg",
+                "/birdsData/gumennik/images/gumennik-2.jpeg",
+                "/birdsData/gumennik/images/gumennik-3.jpeg",
+                "/birdsData/gumennik/images/gumennik-4.jpeg",
+                "/birdsData/gumennik/images/gumennik-5.jpeg"
             ],
-            "audioPath": "./birdsData/gumennik/audio/gumennik.mp3"
+            "audioPath": "/birdsData/gumennik/audio/gumennik.mp3"
         },
         {
             "id": "Gus belolobyy",
@@ -443,13 +443,13 @@
                 "Создать страницу «Гусь белолобый» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/gus-belolobyy/images/gus-belolobyy-1.jpeg",
-                "./birdsData/gus-belolobyy/images/gus-belolobyy-2.jpeg",
-                "./birdsData/gus-belolobyy/images/gus-belolobyy-3.jpeg",
-                "./birdsData/gus-belolobyy/images/gus-belolobyy-4.jpeg",
-                "./birdsData/gus-belolobyy/images/gus-belolobyy-5.jpeg"
+                "/birdsData/gus-belolobyy/images/gus-belolobyy-1.jpeg",
+                "/birdsData/gus-belolobyy/images/gus-belolobyy-2.jpeg",
+                "/birdsData/gus-belolobyy/images/gus-belolobyy-3.jpeg",
+                "/birdsData/gus-belolobyy/images/gus-belolobyy-4.jpeg",
+                "/birdsData/gus-belolobyy/images/gus-belolobyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/gus-belolobyy/audio/gus-belolobyy.mp3"
+            "audioPath": "/birdsData/gus-belolobyy/audio/gus-belolobyy.mp3"
         },
         {
             "id": "Derbnik",
@@ -477,13 +477,13 @@
                 "Американские подвиды"
             ],
             "imagesPaths": [
-                "./birdsData/derbnik/images/derbnik-1.jpeg",
-                "./birdsData/derbnik/images/derbnik-2.jpeg",
-                "./birdsData/derbnik/images/derbnik-3.jpeg",
-                "./birdsData/derbnik/images/derbnik-4.jpeg",
-                "./birdsData/derbnik/images/derbnik-5.jpeg"
+                "/birdsData/derbnik/images/derbnik-1.jpeg",
+                "/birdsData/derbnik/images/derbnik-2.jpeg",
+                "/birdsData/derbnik/images/derbnik-3.jpeg",
+                "/birdsData/derbnik/images/derbnik-4.jpeg",
+                "/birdsData/derbnik/images/derbnik-5.jpeg"
             ],
-            "audioPath": "./birdsData/derbnik/audio/derbnik.mp3"
+            "audioPath": "/birdsData/derbnik/audio/derbnik.mp3"
         },
         {
             "id": "Drozd-belobrovik",
@@ -518,13 +518,13 @@
                 "Вид подразделён на два подвида:"
             ],
             "imagesPaths": [
-                "./birdsData/drozd-belobrovik/images/drozd-belobrovik-1.jpeg",
-                "./birdsData/drozd-belobrovik/images/drozd-belobrovik-2.jpeg",
-                "./birdsData/drozd-belobrovik/images/drozd-belobrovik-3.jpeg",
-                "./birdsData/drozd-belobrovik/images/drozd-belobrovik-4.jpeg",
-                "./birdsData/drozd-belobrovik/images/drozd-belobrovik-5.jpeg"
+                "/birdsData/drozd-belobrovik/images/drozd-belobrovik-1.jpeg",
+                "/birdsData/drozd-belobrovik/images/drozd-belobrovik-2.jpeg",
+                "/birdsData/drozd-belobrovik/images/drozd-belobrovik-3.jpeg",
+                "/birdsData/drozd-belobrovik/images/drozd-belobrovik-4.jpeg",
+                "/birdsData/drozd-belobrovik/images/drozd-belobrovik-5.jpeg"
             ],
-            "audioPath": "./birdsData/drozd-belobrovik/audio/drozd-belobrovik.mp3"
+            "audioPath": "/birdsData/drozd-belobrovik/audio/drozd-belobrovik.mp3"
         },
         {
             "id": "Dubonos obyknovennyy",
@@ -536,13 +536,13 @@
                 "Создать страницу «Дубонос обыкновенный» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-1.jpeg",
-                "./birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-2.jpeg",
-                "./birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-3.jpeg",
-                "./birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-4.jpeg",
-                "./birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-5.jpeg"
+                "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-1.jpeg",
+                "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-2.jpeg",
+                "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-3.jpeg",
+                "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-4.jpeg",
+                "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/dubonos-obyknovennyy/audio/dubonos-obyknovennyy.mp3"
+            "audioPath": "/birdsData/dubonos-obyknovennyy/audio/dubonos-obyknovennyy.mp3"
         },
         {
             "id": "Dubrovnik",
@@ -614,13 +614,13 @@
                 "В Дубровнике расположены консульства следующих государств:"
             ],
             "imagesPaths": [
-                "./birdsData/dubrovnik/images/dubrovnik-1.jpeg",
-                "./birdsData/dubrovnik/images/dubrovnik-2.jpeg",
-                "./birdsData/dubrovnik/images/dubrovnik-3.jpeg",
-                "./birdsData/dubrovnik/images/dubrovnik-4.jpeg",
-                "./birdsData/dubrovnik/images/dubrovnik-5.jpeg"
+                "/birdsData/dubrovnik/images/dubrovnik-1.jpeg",
+                "/birdsData/dubrovnik/images/dubrovnik-2.jpeg",
+                "/birdsData/dubrovnik/images/dubrovnik-3.jpeg",
+                "/birdsData/dubrovnik/images/dubrovnik-4.jpeg",
+                "/birdsData/dubrovnik/images/dubrovnik-5.jpeg"
             ],
-            "audioPath": "./birdsData/dubrovnik/audio/dubrovnik.mp3"
+            "audioPath": "/birdsData/dubrovnik/audio/dubrovnik.mp3"
         },
         {
             "id": "Dupel",
@@ -636,13 +636,13 @@
                 "Шведские орнитологи выяснили, что дупель может держать скорость, близкую к 100 км/ч на протяжении более чем 6500 километров, тем самым являясь одной из самых быстрых перелётных птиц. Удивительно, что дупели не делают на своём пути остановки, ведь их перелёт большей частью лежит над сушей. Обычно наземные птицы садятся, чтобы отдохнуть и пополнить свои энергетические запасы (на поверхности в достатке дождевых червей, насекомых и прочих беспозвоночных)."
             ],
             "imagesPaths": [
-                "./birdsData/dupel/images/dupel-1.jpeg",
-                "./birdsData/dupel/images/dupel-2.jpeg",
-                "./birdsData/dupel/images/dupel-3.jpeg",
-                "./birdsData/dupel/images/dupel-4.jpeg",
-                "./birdsData/dupel/images/dupel-5.jpeg"
+                "/birdsData/dupel/images/dupel-1.jpeg",
+                "/birdsData/dupel/images/dupel-2.jpeg",
+                "/birdsData/dupel/images/dupel-3.jpeg",
+                "/birdsData/dupel/images/dupel-4.jpeg",
+                "/birdsData/dupel/images/dupel-5.jpeg"
             ],
-            "audioPath": "./birdsData/dupel/audio/dupel.mp3"
+            "audioPath": "/birdsData/dupel/audio/dupel.mp3"
         },
         {
             "id": "Dyatel belospinnyy",
@@ -664,13 +664,13 @@
                 "Выделяют 10 — 12 подвидов белоспинного дятла. Изменчивость проявляется в степени развития белого на спине, крестце и внутренних маховых, в наличии или отсутствии и степени развития чёрного рисунка на белом поле в нижней части спины, в варьировании оттенков брюха. Справочник «Handbook of the birds of the world» перечисляет 10 подвидов:"
             ],
             "imagesPaths": [
-                "./birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-1.jpeg",
-                "./birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-2.jpeg",
-                "./birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-3.jpeg",
-                "./birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-4.jpeg",
-                "./birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-5.jpeg"
+                "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-1.jpeg",
+                "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-2.jpeg",
+                "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-3.jpeg",
+                "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-4.jpeg",
+                "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/dyatel-belospinnyy/audio/dyatel-belospinnyy.mp3"
+            "audioPath": "/birdsData/dyatel-belospinnyy/audio/dyatel-belospinnyy.mp3"
         },
         {
             "id": "Zhavoronok lesnoy (Yula)",
@@ -682,13 +682,13 @@
                 "Создать страницу «Жаворонок лесной (Юла)» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-1.jpeg",
-                "./birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-2.jpeg",
-                "./birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-3.jpeg",
-                "./birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-4.jpeg",
-                "./birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-5.jpeg"
+                "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-1.jpeg",
+                "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-2.jpeg",
+                "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-3.jpeg",
+                "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-4.jpeg",
+                "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-5.jpeg"
             ],
-            "audioPath": "./birdsData/zhavoronok-lesnoy-(yula)/audio/zhavoronok-lesnoy-(yula).mp3"
+            "audioPath": "/birdsData/zhavoronok-lesnoy-(yula)/audio/zhavoronok-lesnoy-(yula).mp3"
         },
         {
             "id": "Zhulan obyknovennyy",
@@ -705,13 +705,13 @@
                 "Гнездо размещает на деревьях, кустарниках, крайне редко — на земле. Гнездо мощное, обычно хорошо укрытое в кроне. В полной кладке обычно 5—6 яиц, реже 4 или 7. Насиживает кладку обычно самка, а самец приносит ей пищу. Выкармливают птенцов 15 дней в гнезде и полторы-две недели после вылета. У гнезда жулан ведёт себя агрессивно, отгоняет хищников, может напасть даже на человека."
             ],
             "imagesPaths": [
-                "./birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-1.jpeg",
-                "./birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-2.jpeg",
-                "./birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-3.jpeg",
-                "./birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-4.jpeg",
-                "./birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-5.jpeg"
+                "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-1.jpeg",
+                "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-2.jpeg",
+                "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-3.jpeg",
+                "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-4.jpeg",
+                "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/zhulan-obyknovennyy/audio/zhulan-obyknovennyy.mp3"
+            "audioPath": "/birdsData/zhulan-obyknovennyy/audio/zhulan-obyknovennyy.mp3"
         },
         {
             "id": "Zhuravl seryy",
@@ -734,13 +734,13 @@
                 "Хотя серый журавль в настоящее время не находится под угрозой исчезновения, во многих странах внутреннее законодательство запретило охоту на этих птиц. В Германии, Израиле и Эфиопии распространением журавлей недовольны фермеры, чьи посевы уничтожаются этими птицами; Международный фонд охраны журавлей  (англ.) (рус. пытается решить этот вопрос. Серый журавль включён в список CITES Международного союза охраны природы как вид, продажа или транспортировка которого через границы государств запрещена без специального разрешения."
             ],
             "imagesPaths": [
-                "./birdsData/zhuravl-seryy/images/zhuravl-seryy-1.jpeg",
-                "./birdsData/zhuravl-seryy/images/zhuravl-seryy-2.jpeg",
-                "./birdsData/zhuravl-seryy/images/zhuravl-seryy-3.jpeg",
-                "./birdsData/zhuravl-seryy/images/zhuravl-seryy-4.jpeg",
-                "./birdsData/zhuravl-seryy/images/zhuravl-seryy-5.jpeg"
+                "/birdsData/zhuravl-seryy/images/zhuravl-seryy-1.jpeg",
+                "/birdsData/zhuravl-seryy/images/zhuravl-seryy-2.jpeg",
+                "/birdsData/zhuravl-seryy/images/zhuravl-seryy-3.jpeg",
+                "/birdsData/zhuravl-seryy/images/zhuravl-seryy-4.jpeg",
+                "/birdsData/zhuravl-seryy/images/zhuravl-seryy-5.jpeg"
             ],
-            "audioPath": "./birdsData/zhuravl-seryy/audio/zhuravl-seryy.mp3"
+            "audioPath": "/birdsData/zhuravl-seryy/audio/zhuravl-seryy.mp3"
         },
         {
             "id": "Zavirushka lesnaya",
@@ -763,13 +763,13 @@
                 "В период размножения основу питания составляют разнообразные беспозвоночные, главным образом насекомые и паукообразные. Поедает жуков (долгоносиков, жужелиц, пластинчатоусых, листоедов, стафилинид и пр), пауков, мух, клопов, уховёрток, ногохвосток, веснянок, прямокрылых и т. д. При случае ловит улиток и земляных червей. Осенью, в период созревания плодов и сем"
             ],
             "imagesPaths": [
-                "./birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-1.jpeg",
-                "./birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-2.jpeg",
-                "./birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-3.jpeg",
-                "./birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-4.jpeg",
-                "./birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-5.jpeg"
+                "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-1.jpeg",
+                "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-2.jpeg",
+                "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-3.jpeg",
+                "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-4.jpeg",
+                "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/zavirushka-lesnaya/audio/zavirushka-lesnaya.mp3"
+            "audioPath": "/birdsData/zavirushka-lesnaya/audio/zavirushka-lesnaya.mp3"
         },
         {
             "id": "Zaryanka, ili malinovka",
@@ -781,13 +781,13 @@
                 "Создать страницу «Зарянка, или малиновка» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-1.jpeg",
-                "./birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-2.jpeg",
-                "./birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-3.jpeg",
-                "./birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-4.jpeg",
-                "./birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-5.jpeg"
+                "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-1.jpeg",
+                "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-2.jpeg",
+                "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-3.jpeg",
+                "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-4.jpeg",
+                "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-5.jpeg"
             ],
-            "audioPath": "./birdsData/zaryanka,-ili-malinovka/audio/zaryanka,-ili-malinovka.mp3"
+            "audioPath": "/birdsData/zaryanka,-ili-malinovka/audio/zaryanka,-ili-malinovka.mp3"
         },
         {
             "id": "Zelenushka obyknovennaya",
@@ -807,13 +807,13 @@
                 "яйцо Cuculus canorus bangsi + Carduelis chloris - Тулузский музеум"
             ],
             "imagesPaths": [
-                "./birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-1.jpeg",
-                "./birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-2.jpeg",
-                "./birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-3.jpeg",
-                "./birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-4.jpeg",
-                "./birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-5.jpeg"
+                "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-1.jpeg",
+                "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-2.jpeg",
+                "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-3.jpeg",
+                "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-4.jpeg",
+                "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/zelenushka-obyknovennaya/audio/zelenushka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/zelenushka-obyknovennaya/audio/zelenushka-obyknovennaya.mp3"
         },
         {
             "id": "Zimnyak",
@@ -828,13 +828,13 @@
                 "Гнёзда построены из сучьев и расположены на земле, редко на деревьях или скалах. Число яиц в кладке колеблется в зависимости от кормовых условий, в основном от численности леммингов. Обычно в кладке 3—5 яиц, в благоприятные годы до 7, а в плохие 2—3. При отсутствии леммингов и вовсе не размножаются[источник не указан 679 дней]. Насиживает самка в течение 30—35 дней. Птенцы вылетают из гнёзд в возрасте 6—7 недель."
             ],
             "imagesPaths": [
-                "./birdsData/zimnyak/images/zimnyak-1.jpeg",
-                "./birdsData/zimnyak/images/zimnyak-2.jpeg",
-                "./birdsData/zimnyak/images/zimnyak-3.jpeg",
-                "./birdsData/zimnyak/images/zimnyak-4.jpeg",
-                "./birdsData/zimnyak/images/zimnyak-5.jpeg"
+                "/birdsData/zimnyak/images/zimnyak-1.jpeg",
+                "/birdsData/zimnyak/images/zimnyak-2.jpeg",
+                "/birdsData/zimnyak/images/zimnyak-3.jpeg",
+                "/birdsData/zimnyak/images/zimnyak-4.jpeg",
+                "/birdsData/zimnyak/images/zimnyak-5.jpeg"
             ],
-            "audioPath": "./birdsData/zimnyak/audio/zimnyak.mp3"
+            "audioPath": "/birdsData/zimnyak/audio/zimnyak.mp3"
         },
         {
             "id": "Zimorodok obyknovennyy",
@@ -860,13 +860,13 @@
                 "В русской мифологии и искусстве зимородок получил отражение в представление о райской птице Алконост с головой и руками девы. Имелось поверье, схожее с древнегреческим, что Алконост несёт яйца в морскую глубину и высиживает их в зимнее солнцестояние."
             ],
             "imagesPaths": [
-                "./birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-1.jpeg",
-                "./birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-2.jpeg",
-                "./birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-3.jpeg",
-                "./birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-4.jpeg",
-                "./birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-5.jpeg"
+                "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-1.jpeg",
+                "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-2.jpeg",
+                "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-3.jpeg",
+                "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-4.jpeg",
+                "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/zimorodok-obyknovennyy/audio/zimorodok-obyknovennyy.mp3"
+            "audioPath": "/birdsData/zimorodok-obyknovennyy/audio/zimorodok-obyknovennyy.mp3"
         },
         {
             "id": "Zuek malyy",
@@ -880,13 +880,13 @@
                 "На местах гнездования появляется относительно поздно: на юге ареала в конце марта,в средней полосе в конце апреля или в начале мая, на севере - в конце мая или в начале июня. Самцы после прилёта занимают большие, площадью до 1 га, индивидуальные территории и начинают токовать. Самец токует летая над своим участком на небольшой высоте. При ухаживание за самкой самец подходит к ней, приняв специфическую позу(оперение на груди встопорщено, голова втянута в плечи), затем внезапно выпрямляется, вытягивает шею и начинает быстро перебирать ногами, при этом медленно продвигаясь вперёд. После этого нередко происходит спаривание. Гнездится по песчаным и галечным берегам и отмелям рек и озёр, среди дюн, на сухих грязях, реже на берегах солёных речек, в солончаках,в антропогенном ландшафте. Самец изготавливает несколько гнездовых ямок, из которых одна становится гнездом. Гнездо зуйка выглядит как неглубокая лунка в грунте со скудной выстилкой из мелких камешков, щепок, обломков раковин или вообще без выстилки. Самка откладывает 4 или изредка 3 яйца. Окраска яиц от бледно-палевой до песчаной, с бурыми или чёрными крапинами и точками. Насиживают самец и самка поочерёдно в течение 22-26 дней. В случае разорения гнезда в большинстве случаев гнездятся повторно."
             ],
             "imagesPaths": [
-                "./birdsData/zuek-malyy/images/zuek-malyy-1.jpeg",
-                "./birdsData/zuek-malyy/images/zuek-malyy-2.jpeg",
-                "./birdsData/zuek-malyy/images/zuek-malyy-3.jpeg",
-                "./birdsData/zuek-malyy/images/zuek-malyy-4.jpeg",
-                "./birdsData/zuek-malyy/images/zuek-malyy-5.jpeg"
+                "/birdsData/zuek-malyy/images/zuek-malyy-1.jpeg",
+                "/birdsData/zuek-malyy/images/zuek-malyy-2.jpeg",
+                "/birdsData/zuek-malyy/images/zuek-malyy-3.jpeg",
+                "/birdsData/zuek-malyy/images/zuek-malyy-4.jpeg",
+                "/birdsData/zuek-malyy/images/zuek-malyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/zuek-malyy/audio/zuek-malyy.mp3"
+            "audioPath": "/birdsData/zuek-malyy/audio/zuek-malyy.mp3"
         },
         {
             "id": "Zyablik",
@@ -931,13 +931,13 @@
                 "Зяблик Ла Пальмы"
             ],
             "imagesPaths": [
-                "./birdsData/zyablik/images/zyablik-1.jpeg",
-                "./birdsData/zyablik/images/zyablik-2.jpeg",
-                "./birdsData/zyablik/images/zyablik-3.jpeg",
-                "./birdsData/zyablik/images/zyablik-4.jpeg",
-                "./birdsData/zyablik/images/zyablik-5.jpeg"
+                "/birdsData/zyablik/images/zyablik-1.jpeg",
+                "/birdsData/zyablik/images/zyablik-2.jpeg",
+                "/birdsData/zyablik/images/zyablik-3.jpeg",
+                "/birdsData/zyablik/images/zyablik-4.jpeg",
+                "/birdsData/zyablik/images/zyablik-5.jpeg"
             ],
-            "audioPath": "./birdsData/zyablik/audio/zyablik.mp3"
+            "audioPath": "/birdsData/zyablik/audio/zyablik.mp3"
         },
         {
             "id": "Ivolga obyknovennaya",
@@ -965,13 +965,13 @@
                 "В честь иволги назван астероид (701) Ориола, открытый в 1910 году."
             ],
             "imagesPaths": [
-                "./birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-1.jpeg",
-                "./birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-2.jpeg",
-                "./birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-3.jpeg",
-                "./birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-4.jpeg",
-                "./birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-5.jpeg"
+                "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-1.jpeg",
+                "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-2.jpeg",
+                "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-3.jpeg",
+                "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-4.jpeg",
+                "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/ivolga-obyknovennaya/audio/ivolga-obyknovennaya.mp3"
+            "audioPath": "/birdsData/ivolga-obyknovennaya/audio/ivolga-obyknovennaya.mp3"
         },
         {
             "id": "Kazarka beloschekaya",
@@ -983,13 +983,13 @@
                 "Создать страницу «Казарка белощёкая» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-1.jpeg",
-                "./birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-2.jpeg",
-                "./birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-3.jpeg",
-                "./birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-4.jpeg",
-                "./birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-5.jpeg"
+                "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-1.jpeg",
+                "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-2.jpeg",
+                "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-3.jpeg",
+                "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-4.jpeg",
+                "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/kazarka-beloschekaya/audio/kazarka-beloschekaya.mp3"
+            "audioPath": "/birdsData/kazarka-beloschekaya/audio/kazarka-beloschekaya.mp3"
         },
         {
             "id": "Kamenka obyknovennaya",
@@ -1005,13 +1005,13 @@
                 "Гнездо в виде плоской чашки расположено в трещинах скал или между камнями. В кладке 5—6 яиц. Насиживание длится примерно 14 дней, затем оба родителя выкармливают птенцов ещё 15 дней."
             ],
             "imagesPaths": [
-                "./birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-1.jpeg",
-                "./birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-2.jpeg",
-                "./birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-3.jpeg",
-                "./birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-4.jpeg",
-                "./birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-5.jpeg"
+                "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-1.jpeg",
+                "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-2.jpeg",
+                "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-3.jpeg",
+                "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-4.jpeg",
+                "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/kamenka-obyknovennaya/audio/kamenka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/kamenka-obyknovennaya/audio/kamenka-obyknovennaya.mp3"
         },
         {
             "id": "Kamyshnica",
@@ -1045,13 +1045,13 @@
                 ""
             ],
             "imagesPaths": [
-                "./birdsData/kamyshnica/images/kamyshnica-1.jpeg",
-                "./birdsData/kamyshnica/images/kamyshnica-2.jpeg",
-                "./birdsData/kamyshnica/images/kamyshnica-3.jpeg",
-                "./birdsData/kamyshnica/images/kamyshnica-4.jpeg",
-                "./birdsData/kamyshnica/images/kamyshnica-5.jpeg"
+                "/birdsData/kamyshnica/images/kamyshnica-1.jpeg",
+                "/birdsData/kamyshnica/images/kamyshnica-2.jpeg",
+                "/birdsData/kamyshnica/images/kamyshnica-3.jpeg",
+                "/birdsData/kamyshnica/images/kamyshnica-4.jpeg",
+                "/birdsData/kamyshnica/images/kamyshnica-5.jpeg"
             ],
-            "audioPath": "./birdsData/kamyshnica/audio/kamyshnica.mp3"
+            "audioPath": "/birdsData/kamyshnica/audio/kamyshnica.mp3"
         },
         {
             "id": "Kamyshovka-barsuchok",
@@ -1066,13 +1066,13 @@
                 "Половая зрелость наступает через один год. Основной период инкубации с мая по июль. Гнездо строится низко над землей в густой растительности. Самка откладывает от 4 до 6 яиц. Яйца высиживают попеременно оба партнёра от 12 до 14 дней. Молодые птицы становятся самостоятельными через 10—12 дней."
             ],
             "imagesPaths": [
-                "./birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-1.jpeg",
-                "./birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-2.jpeg",
-                "./birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-3.jpeg",
-                "./birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-4.jpeg",
-                "./birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-5.jpeg"
+                "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-1.jpeg",
+                "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-2.jpeg",
+                "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-3.jpeg",
+                "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-4.jpeg",
+                "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-5.jpeg"
             ],
-            "audioPath": "./birdsData/kamyshovka-barsuchok/audio/kamyshovka-barsuchok.mp3"
+            "audioPath": "/birdsData/kamyshovka-barsuchok/audio/kamyshovka-barsuchok.mp3"
         },
         {
             "id": "Kanyuk obyknovennyy",
@@ -1088,13 +1088,13 @@
                 "Восточная группа vulpinus включает в себя:"
             ],
             "imagesPaths": [
-                "./birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-1.jpeg",
-                "./birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-2.jpeg",
-                "./birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-3.jpeg",
-                "./birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-4.jpeg",
-                "./birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-5.jpeg"
+                "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-1.jpeg",
+                "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-2.jpeg",
+                "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-3.jpeg",
+                "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-4.jpeg",
+                "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/kanyuk-obyknovennyy/audio/kanyuk-obyknovennyy.mp3"
+            "audioPath": "/birdsData/kanyuk-obyknovennyy/audio/kanyuk-obyknovennyy.mp3"
         },
         {
             "id": "Kedrovka",
@@ -1112,13 +1112,13 @@
                 "При написании этой статьи использовался материал из издания «Казахстан. Национальная энциклопедия» (1998—2007), предоставленного редакцией «Қазақ энциклопедиясы» по лицензии Creative Commons BY-SA 3.0 Unported."
             ],
             "imagesPaths": [
-                "./birdsData/kedrovka/images/kedrovka-1.jpeg",
-                "./birdsData/kedrovka/images/kedrovka-2.jpeg",
-                "./birdsData/kedrovka/images/kedrovka-3.jpeg",
-                "./birdsData/kedrovka/images/kedrovka-4.jpeg",
-                "./birdsData/kedrovka/images/kedrovka-5.jpeg"
+                "/birdsData/kedrovka/images/kedrovka-1.jpeg",
+                "/birdsData/kedrovka/images/kedrovka-2.jpeg",
+                "/birdsData/kedrovka/images/kedrovka-3.jpeg",
+                "/birdsData/kedrovka/images/kedrovka-4.jpeg",
+                "/birdsData/kedrovka/images/kedrovka-5.jpeg"
             ],
-            "audioPath": "./birdsData/kedrovka/audio/kedrovka.mp3"
+            "audioPath": "/birdsData/kedrovka/audio/kedrovka.mp3"
         },
         {
             "id": "Klest belokrylyy",
@@ -1130,13 +1130,13 @@
                 "Создать страницу «Клёст белокрылый» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/klest-belokrylyy/images/klest-belokrylyy-1.jpeg",
-                "./birdsData/klest-belokrylyy/images/klest-belokrylyy-2.jpeg",
-                "./birdsData/klest-belokrylyy/images/klest-belokrylyy-3.jpeg",
-                "./birdsData/klest-belokrylyy/images/klest-belokrylyy-4.jpeg",
-                "./birdsData/klest-belokrylyy/images/klest-belokrylyy-5.jpeg"
+                "/birdsData/klest-belokrylyy/images/klest-belokrylyy-1.jpeg",
+                "/birdsData/klest-belokrylyy/images/klest-belokrylyy-2.jpeg",
+                "/birdsData/klest-belokrylyy/images/klest-belokrylyy-3.jpeg",
+                "/birdsData/klest-belokrylyy/images/klest-belokrylyy-4.jpeg",
+                "/birdsData/klest-belokrylyy/images/klest-belokrylyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/klest-belokrylyy/audio/klest-belokrylyy.mp3"
+            "audioPath": "/birdsData/klest-belokrylyy/audio/klest-belokrylyy.mp3"
         },
         {
             "id": "Klintuh",
@@ -1157,13 +1157,13 @@
                 "Главным образом растительноядная птица. Питается семенами диких трав (лебеды, щавеля, мари), семенами сосны, буковыми орешками, желудями, зерном посевных культур, цветками фиалки, лютика и подмаренника. В значительно меньшей степени употребляет в пищу животные корма — насекомых и моллюсков, которые в первую очередь важны для самки весной. Корм всегда собирает с поверхности земли (по наблюдению Дементьева и Гладкова, птицы не берут зёрна даже со стоящей копны колосьев хлеба). Весной и летом посещает луга, засеянные поля и лесные поляны, чаще всего в непосредственной близости от гнезда. Иногда к местам кормёжки и на водопой отлетает достаточно далеко, за несколько километров. На пролёте и зимой посещает сельскохозяйственные угодья."
             ],
             "imagesPaths": [
-                "./birdsData/klintuh/images/klintuh-1.jpeg",
-                "./birdsData/klintuh/images/klintuh-2.jpeg",
-                "./birdsData/klintuh/images/klintuh-3.jpeg",
-                "./birdsData/klintuh/images/klintuh-4.jpeg",
-                "./birdsData/klintuh/images/klintuh-5.jpeg"
+                "/birdsData/klintuh/images/klintuh-1.jpeg",
+                "/birdsData/klintuh/images/klintuh-2.jpeg",
+                "/birdsData/klintuh/images/klintuh-3.jpeg",
+                "/birdsData/klintuh/images/klintuh-4.jpeg",
+                "/birdsData/klintuh/images/klintuh-5.jpeg"
             ],
-            "audioPath": "./birdsData/klintuh/audio/klintuh.mp3"
+            "audioPath": "/birdsData/klintuh/audio/klintuh.mp3"
         },
         {
             "id": "Kobchik",
@@ -1177,13 +1177,13 @@
                 "Зимует по большей части на юге Африки, часть птиц также в Южной Азии."
             ],
             "imagesPaths": [
-                "./birdsData/kobchik/images/kobchik-1.jpeg",
-                "./birdsData/kobchik/images/kobchik-2.jpeg",
-                "./birdsData/kobchik/images/kobchik-3.jpeg",
-                "./birdsData/kobchik/images/kobchik-4.jpeg",
-                "./birdsData/kobchik/images/kobchik-5.jpeg"
+                "/birdsData/kobchik/images/kobchik-1.jpeg",
+                "/birdsData/kobchik/images/kobchik-2.jpeg",
+                "/birdsData/kobchik/images/kobchik-3.jpeg",
+                "/birdsData/kobchik/images/kobchik-4.jpeg",
+                "/birdsData/kobchik/images/kobchik-5.jpeg"
             ],
-            "audioPath": "./birdsData/kobchik/audio/kobchik.mp3"
+            "audioPath": "/birdsData/kobchik/audio/kobchik.mp3"
         },
         {
             "id": "Kozodoy obyknovennyy",
@@ -1214,13 +1214,13 @@
                 "Выделяют шесть подвидов козодоя, у которых изменчивость выражается в общих размерах и варьировании общей окраски оперения:"
             ],
             "imagesPaths": [
-                "./birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-1.jpeg",
-                "./birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-2.jpeg",
-                "./birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-3.jpeg",
-                "./birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-4.jpeg",
-                "./birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-5.jpeg"
+                "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-1.jpeg",
+                "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-2.jpeg",
+                "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-3.jpeg",
+                "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-4.jpeg",
+                "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/kozodoy-obyknovennyy/audio/kozodoy-obyknovennyy.mp3"
+            "audioPath": "/birdsData/kozodoy-obyknovennyy/audio/kozodoy-obyknovennyy.mp3"
         },
         {
             "id": "Konek lesnoy",
@@ -1232,13 +1232,13 @@
                 "Создать страницу «Конёк лесной» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/konek-lesnoy/images/konek-lesnoy-1.jpeg",
-                "./birdsData/konek-lesnoy/images/konek-lesnoy-2.jpeg",
-                "./birdsData/konek-lesnoy/images/konek-lesnoy-3.jpeg",
-                "./birdsData/konek-lesnoy/images/konek-lesnoy-4.jpeg",
-                "./birdsData/konek-lesnoy/images/konek-lesnoy-5.jpeg"
+                "/birdsData/konek-lesnoy/images/konek-lesnoy-1.jpeg",
+                "/birdsData/konek-lesnoy/images/konek-lesnoy-2.jpeg",
+                "/birdsData/konek-lesnoy/images/konek-lesnoy-3.jpeg",
+                "/birdsData/konek-lesnoy/images/konek-lesnoy-4.jpeg",
+                "/birdsData/konek-lesnoy/images/konek-lesnoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/konek-lesnoy/audio/konek-lesnoy.mp3"
+            "audioPath": "/birdsData/konek-lesnoy/audio/konek-lesnoy.mp3"
         },
         {
             "id": "Konoplyanka",
@@ -1260,13 +1260,13 @@
                 "Яйца"
             ],
             "imagesPaths": [
-                "./birdsData/konoplyanka/images/konoplyanka-1.jpeg",
-                "./birdsData/konoplyanka/images/konoplyanka-2.jpeg",
-                "./birdsData/konoplyanka/images/konoplyanka-3.jpeg",
-                "./birdsData/konoplyanka/images/konoplyanka-4.jpeg",
-                "./birdsData/konoplyanka/images/konoplyanka-5.jpeg"
+                "/birdsData/konoplyanka/images/konoplyanka-1.jpeg",
+                "/birdsData/konoplyanka/images/konoplyanka-2.jpeg",
+                "/birdsData/konoplyanka/images/konoplyanka-3.jpeg",
+                "/birdsData/konoplyanka/images/konoplyanka-4.jpeg",
+                "/birdsData/konoplyanka/images/konoplyanka-5.jpeg"
             ],
-            "audioPath": "./birdsData/konoplyanka/audio/konoplyanka.mp3"
+            "audioPath": "/birdsData/konoplyanka/audio/konoplyanka.mp3"
         },
         {
             "id": "Korolek zheltogolovyy",
@@ -1297,13 +1297,13 @@
                 "Справочник «Handbook of the birds of the world» перечисляет 14 подвидов желтоголового королька, распространённого в Евразии, Канарских и Азорских островах:"
             ],
             "imagesPaths": [
-                "./birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-1.jpeg",
-                "./birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-2.jpeg",
-                "./birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-3.jpeg",
-                "./birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-4.jpeg",
-                "./birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-5.jpeg"
+                "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-1.jpeg",
+                "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-2.jpeg",
+                "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-3.jpeg",
+                "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-4.jpeg",
+                "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/korolek-zheltogolovyy/audio/korolek-zheltogolovyy.mp3"
+            "audioPath": "/birdsData/korolek-zheltogolovyy/audio/korolek-zheltogolovyy.mp3"
         },
         {
             "id": "Korostel",
@@ -1363,13 +1363,13 @@
                 "Горяча моя постель…Думка белая измята…Где-то плачет коростель,Ночь дневная пахнет мятой.…Горяча моя постель,Светел дух мой окрыленный…Плачет нежный коростель,Одинокий и влюбленный."
             ],
             "imagesPaths": [
-                "./birdsData/korostel/images/korostel-1.jpeg",
-                "./birdsData/korostel/images/korostel-2.jpeg",
-                "./birdsData/korostel/images/korostel-3.jpeg",
-                "./birdsData/korostel/images/korostel-4.jpeg",
-                "./birdsData/korostel/images/korostel-5.jpeg"
+                "/birdsData/korostel/images/korostel-1.jpeg",
+                "/birdsData/korostel/images/korostel-2.jpeg",
+                "/birdsData/korostel/images/korostel-3.jpeg",
+                "/birdsData/korostel/images/korostel-4.jpeg",
+                "/birdsData/korostel/images/korostel-5.jpeg"
             ],
-            "audioPath": "./birdsData/korostel/audio/korostel.mp3"
+            "audioPath": "/birdsData/korostel/audio/korostel.mp3"
         },
         {
             "id": "Korshun chernyy",
@@ -1387,13 +1387,13 @@
                 "Гнездятся нередко группами, образуя небольшие гнездовые колонии. Гнездо располагает на деревьях, изредка на скалах. Откладывание яиц происходит в конце апреля — начале мая. В кладке 2-4 белых с бурыми пятнами яйца. Яйца высиживает самка, с некоторым участием самца. Молодые становятся лётными в возрасте 42-45 дней."
             ],
             "imagesPaths": [
-                "./birdsData/korshun-chernyy/images/korshun-chernyy-1.jpeg",
-                "./birdsData/korshun-chernyy/images/korshun-chernyy-2.jpeg",
-                "./birdsData/korshun-chernyy/images/korshun-chernyy-3.jpeg",
-                "./birdsData/korshun-chernyy/images/korshun-chernyy-4.jpeg",
-                "./birdsData/korshun-chernyy/images/korshun-chernyy-5.jpeg"
+                "/birdsData/korshun-chernyy/images/korshun-chernyy-1.jpeg",
+                "/birdsData/korshun-chernyy/images/korshun-chernyy-2.jpeg",
+                "/birdsData/korshun-chernyy/images/korshun-chernyy-3.jpeg",
+                "/birdsData/korshun-chernyy/images/korshun-chernyy-4.jpeg",
+                "/birdsData/korshun-chernyy/images/korshun-chernyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/korshun-chernyy/audio/korshun-chernyy.mp3"
+            "audioPath": "/birdsData/korshun-chernyy/audio/korshun-chernyy.mp3"
         },
         {
             "id": "Krapivnik",
@@ -1424,13 +1424,13 @@
                 "Изображение крапивника размещалось на английской монете в 1 фартинг с 1937 по 1956 год ."
             ],
             "imagesPaths": [
-                "./birdsData/krapivnik/images/krapivnik-1.jpeg",
-                "./birdsData/krapivnik/images/krapivnik-2.jpeg",
-                "./birdsData/krapivnik/images/krapivnik-3.jpeg",
-                "./birdsData/krapivnik/images/krapivnik-4.jpeg",
-                "./birdsData/krapivnik/images/krapivnik-5.jpeg"
+                "/birdsData/krapivnik/images/krapivnik-1.jpeg",
+                "/birdsData/krapivnik/images/krapivnik-2.jpeg",
+                "/birdsData/krapivnik/images/krapivnik-3.jpeg",
+                "/birdsData/krapivnik/images/krapivnik-4.jpeg",
+                "/birdsData/krapivnik/images/krapivnik-5.jpeg"
             ],
-            "audioPath": "./birdsData/krapivnik/audio/krapivnik.mp3"
+            "audioPath": "/birdsData/krapivnik/audio/krapivnik.mp3"
         },
         {
             "id": "Krachka belokrylaya",
@@ -1442,13 +1442,13 @@
                 "Создать страницу «Крачка белокрылая» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/krachka-belokrylaya/images/krachka-belokrylaya-1.jpeg",
-                "./birdsData/krachka-belokrylaya/images/krachka-belokrylaya-2.jpeg",
-                "./birdsData/krachka-belokrylaya/images/krachka-belokrylaya-3.jpeg",
-                "./birdsData/krachka-belokrylaya/images/krachka-belokrylaya-4.jpeg",
-                "./birdsData/krachka-belokrylaya/images/krachka-belokrylaya-5.jpeg"
+                "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-1.jpeg",
+                "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-2.jpeg",
+                "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-3.jpeg",
+                "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-4.jpeg",
+                "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/krachka-belokrylaya/audio/krachka-belokrylaya.mp3"
+            "audioPath": "/birdsData/krachka-belokrylaya/audio/krachka-belokrylaya.mp3"
         },
         {
             "id": "Krechet",
@@ -1474,13 +1474,13 @@
                 "Фото 4"
             ],
             "imagesPaths": [
-                "./birdsData/krechet/images/krechet-1.jpeg",
-                "./birdsData/krechet/images/krechet-2.jpeg",
-                "./birdsData/krechet/images/krechet-3.jpeg",
-                "./birdsData/krechet/images/krechet-4.jpeg",
-                "./birdsData/krechet/images/krechet-5.jpeg"
+                "/birdsData/krechet/images/krechet-1.jpeg",
+                "/birdsData/krechet/images/krechet-2.jpeg",
+                "/birdsData/krechet/images/krechet-3.jpeg",
+                "/birdsData/krechet/images/krechet-4.jpeg",
+                "/birdsData/krechet/images/krechet-5.jpeg"
             ],
-            "audioPath": "./birdsData/krechet/audio/krechet.mp3"
+            "audioPath": "/birdsData/krechet/audio/krechet.mp3"
         },
         {
             "id": "Kronshnep bolshoy",
@@ -1496,13 +1496,13 @@
                 "Существуют два подвида большого кроншнепа. Numenius arquata arquata встречается в Европе, а восточнее полосы Волга-Урал обитает Numenius arquata orientalis. Птицы последнего подвиды в целом более светлые, а тёмные штрихи в их оперении значительно мельче. Клюв немного длиннее, также как и крылья. Оба подвида между Волгой и Уралом плавно переходят один в другого и по внешности едва различимы."
             ],
             "imagesPaths": [
-                "./birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-1.jpeg",
-                "./birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-2.jpeg",
-                "./birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-3.jpeg",
-                "./birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-4.jpeg",
-                "./birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-5.jpeg"
+                "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-1.jpeg",
+                "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-2.jpeg",
+                "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-3.jpeg",
+                "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-4.jpeg",
+                "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/kronshnep-bolshoy/audio/kronshnep-bolshoy.mp3"
+            "audioPath": "/birdsData/kronshnep-bolshoy/audio/kronshnep-bolshoy.mp3"
         },
         {
             "id": "Krohal bolshoy",
@@ -1523,13 +1523,13 @@
                 "Основа рациона — достаточно крупная, длиной до 25 см, рыба. На реках отдаёт предпочтение форели и некрупным лососям, также употребляет в пищу угря, хариуса, плотву, щуку, барбуса и другие виды, которые доступны в данное время и в данной местности. Кормится преимущественно на внутренних водоёмах, однако в конце лета и на зимовках иногда встречается в эстуариях рек и у морских побережий, где в это время концентрируются косяки сельди и другой морской рыбы. В небольших количествах употребляет в пищу разнообразных водных беспозвоночных — ракообразных, моллюсков, червей, насекомых и их личинок (жуков-плавунцов, личинок хирономид, ручейников и стрекоз). В поисках пищи вначале осматривается под водой с наполовину погружённой головой, а затем ныряет и хватает добычу. Под водой управляет движением с помощью ног."
             ],
             "imagesPaths": [
-                "./birdsData/krohal-bolshoy/images/krohal-bolshoy-1.jpeg",
-                "./birdsData/krohal-bolshoy/images/krohal-bolshoy-2.jpeg",
-                "./birdsData/krohal-bolshoy/images/krohal-bolshoy-3.jpeg",
-                "./birdsData/krohal-bolshoy/images/krohal-bolshoy-4.jpeg",
-                "./birdsData/krohal-bolshoy/images/krohal-bolshoy-5.jpeg"
+                "/birdsData/krohal-bolshoy/images/krohal-bolshoy-1.jpeg",
+                "/birdsData/krohal-bolshoy/images/krohal-bolshoy-2.jpeg",
+                "/birdsData/krohal-bolshoy/images/krohal-bolshoy-3.jpeg",
+                "/birdsData/krohal-bolshoy/images/krohal-bolshoy-4.jpeg",
+                "/birdsData/krohal-bolshoy/images/krohal-bolshoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/krohal-bolshoy/audio/krohal-bolshoy.mp3"
+            "audioPath": "/birdsData/krohal-bolshoy/audio/krohal-bolshoy.mp3"
         },
         {
             "id": "Kryakva",
@@ -1632,13 +1632,13 @@
                 "В 2013 году было выполнено секвенирование полной геномной последовательности вида (с использованием особи домашней пекинской породы в качестве источника геномной ДНК) . Благодаря хорошему качеству сборки генома A. platyrhynchos, осуществлённой на хромосомном уровне, вид имеет важное значение в сравнительной геномике для выяснения эволюции птичьих геномов  ."
             ],
             "imagesPaths": [
-                "./birdsData/kryakva/images/kryakva-1.jpeg",
-                "./birdsData/kryakva/images/kryakva-2.jpeg",
-                "./birdsData/kryakva/images/kryakva-3.jpeg",
-                "./birdsData/kryakva/images/kryakva-4.jpeg",
-                "./birdsData/kryakva/images/kryakva-5.jpeg"
+                "/birdsData/kryakva/images/kryakva-1.jpeg",
+                "/birdsData/kryakva/images/kryakva-2.jpeg",
+                "/birdsData/kryakva/images/kryakva-3.jpeg",
+                "/birdsData/kryakva/images/kryakva-4.jpeg",
+                "/birdsData/kryakva/images/kryakva-5.jpeg"
             ],
-            "audioPath": "./birdsData/kryakva/audio/kryakva.mp3"
+            "audioPath": "/birdsData/kryakva/audio/kryakva.mp3"
         },
         {
             "id": "Kukushka gluhaya",
@@ -1654,13 +1654,13 @@
                 "Глухая кукушка ведёт скрытный образ жизни. Основные виды-воспитатели гнездятся либо высоко на ветвях хвойных деревьев, либо в глубине густых заломов старой тайги."
             ],
             "imagesPaths": [
-                "./birdsData/kukushka-gluhaya/images/kukushka-gluhaya-1.jpeg",
-                "./birdsData/kukushka-gluhaya/images/kukushka-gluhaya-2.jpeg",
-                "./birdsData/kukushka-gluhaya/images/kukushka-gluhaya-3.jpeg",
-                "./birdsData/kukushka-gluhaya/images/kukushka-gluhaya-4.jpeg",
-                "./birdsData/kukushka-gluhaya/images/kukushka-gluhaya-5.jpeg"
+                "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-1.jpeg",
+                "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-2.jpeg",
+                "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-3.jpeg",
+                "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-4.jpeg",
+                "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/kukushka-gluhaya/audio/kukushka-gluhaya.mp3"
+            "audioPath": "/birdsData/kukushka-gluhaya/audio/kukushka-gluhaya.mp3"
         },
         {
             "id": "Kuksha",
@@ -1686,13 +1686,13 @@
                 "В романе И. С. Тургенева «Отцы и дети» фамилия одного из персонажей — Авдотьи Кукшиной — отсылает к птице кукше. Автор намекает на пустоту, лишний шум и непоседливость своего персонажа."
             ],
             "imagesPaths": [
-                "./birdsData/kuksha/images/kuksha-1.jpeg",
-                "./birdsData/kuksha/images/kuksha-2.jpeg",
-                "./birdsData/kuksha/images/kuksha-3.jpeg",
-                "./birdsData/kuksha/images/kuksha-4.jpeg",
-                "./birdsData/kuksha/images/kuksha-5.jpeg"
+                "/birdsData/kuksha/images/kuksha-1.jpeg",
+                "/birdsData/kuksha/images/kuksha-2.jpeg",
+                "/birdsData/kuksha/images/kuksha-3.jpeg",
+                "/birdsData/kuksha/images/kuksha-4.jpeg",
+                "/birdsData/kuksha/images/kuksha-5.jpeg"
             ],
-            "audioPath": "./birdsData/kuksha/audio/kuksha.mp3"
+            "audioPath": "/birdsData/kuksha/audio/kuksha.mp3"
         },
         {
             "id": "Kulik-soroka",
@@ -1717,13 +1717,13 @@
                 "В поисках корма кулик передвигается вдоль берега по мелководью либо на обнажившейся в результате отлива суше, засовывает клюв в воду либо песок, исследует оставшиеся лужи, пространства под камнями. В период размножения часто кормится в непосредственной близости от гнезда, однако периодически перелетает с места на место. Мелкие, до 12 мм в диаметре, раковины заглатываются целиком; более крупные предварительно раскалываются клювом."
             ],
             "imagesPaths": [
-                "./birdsData/kulik-soroka/images/kulik-soroka-1.jpeg",
-                "./birdsData/kulik-soroka/images/kulik-soroka-2.jpeg",
-                "./birdsData/kulik-soroka/images/kulik-soroka-3.jpeg",
-                "./birdsData/kulik-soroka/images/kulik-soroka-4.jpeg",
-                "./birdsData/kulik-soroka/images/kulik-soroka-5.jpeg"
+                "/birdsData/kulik-soroka/images/kulik-soroka-1.jpeg",
+                "/birdsData/kulik-soroka/images/kulik-soroka-2.jpeg",
+                "/birdsData/kulik-soroka/images/kulik-soroka-3.jpeg",
+                "/birdsData/kulik-soroka/images/kulik-soroka-4.jpeg",
+                "/birdsData/kulik-soroka/images/kulik-soroka-5.jpeg"
             ],
-            "audioPath": "./birdsData/kulik-soroka/audio/kulik-soroka.mp3"
+            "audioPath": "/birdsData/kulik-soroka/audio/kulik-soroka.mp3"
         },
         {
             "id": "Kuropatka belaya",
@@ -1765,13 +1765,13 @@
                 "Изредка встречается помесь белой куропатки с рябчиком (Tetrastes bonasia). В России такие помеси, встречавшиеся в Олонецкой губернии у Водлозера, были известны зоологу Л. П. Сабанееву (1877). В начале 2020 года исследования ДНК необычных птенцов, обнаруженных в финской Лапландии, также показали, что это помесь рябчика и белой куропатки; в Финляндии этой был второй подобный случай — предыдущий был описан в 1855 году."
             ],
             "imagesPaths": [
-                "./birdsData/kuropatka-belaya/images/kuropatka-belaya-1.jpeg",
-                "./birdsData/kuropatka-belaya/images/kuropatka-belaya-2.jpeg",
-                "./birdsData/kuropatka-belaya/images/kuropatka-belaya-3.jpeg",
-                "./birdsData/kuropatka-belaya/images/kuropatka-belaya-4.jpeg",
-                "./birdsData/kuropatka-belaya/images/kuropatka-belaya-5.jpeg"
+                "/birdsData/kuropatka-belaya/images/kuropatka-belaya-1.jpeg",
+                "/birdsData/kuropatka-belaya/images/kuropatka-belaya-2.jpeg",
+                "/birdsData/kuropatka-belaya/images/kuropatka-belaya-3.jpeg",
+                "/birdsData/kuropatka-belaya/images/kuropatka-belaya-4.jpeg",
+                "/birdsData/kuropatka-belaya/images/kuropatka-belaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/kuropatka-belaya/audio/kuropatka-belaya.mp3"
+            "audioPath": "/birdsData/kuropatka-belaya/audio/kuropatka-belaya.mp3"
         },
         {
             "id": "Lastochka-beregovushka",
@@ -1792,13 +1792,13 @@
                 "Охотится главным образом на лету, хватая летящих, прыгающих либо просто находящихся в воздухе насекомых. Реже ловит насекомых, находящихся на земле либо на воде."
             ],
             "imagesPaths": [
-                "./birdsData/lastochka-beregovushka/images/lastochka-beregovushka-1.jpeg",
-                "./birdsData/lastochka-beregovushka/images/lastochka-beregovushka-2.jpeg",
-                "./birdsData/lastochka-beregovushka/images/lastochka-beregovushka-3.jpeg",
-                "./birdsData/lastochka-beregovushka/images/lastochka-beregovushka-4.jpeg",
-                "./birdsData/lastochka-beregovushka/images/lastochka-beregovushka-5.jpeg"
+                "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-1.jpeg",
+                "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-2.jpeg",
+                "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-3.jpeg",
+                "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-4.jpeg",
+                "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-5.jpeg"
             ],
-            "audioPath": "./birdsData/lastochka-beregovushka/audio/lastochka-beregovushka.mp3"
+            "audioPath": "/birdsData/lastochka-beregovushka/audio/lastochka-beregovushka.mp3"
         },
         {
             "id": "Lebed-klikun",
@@ -1817,13 +1817,13 @@
                 "Обычный голос лебедя-кликуна — громкое трубное «ганг-го, ганг-го, ганг-го», обычно звучащее в брачных танцах."
             ],
             "imagesPaths": [
-                "./birdsData/lebed-klikun/images/lebed-klikun-1.jpeg",
-                "./birdsData/lebed-klikun/images/lebed-klikun-2.jpeg",
-                "./birdsData/lebed-klikun/images/lebed-klikun-3.jpeg",
-                "./birdsData/lebed-klikun/images/lebed-klikun-4.jpeg",
-                "./birdsData/lebed-klikun/images/lebed-klikun-5.jpeg"
+                "/birdsData/lebed-klikun/images/lebed-klikun-1.jpeg",
+                "/birdsData/lebed-klikun/images/lebed-klikun-2.jpeg",
+                "/birdsData/lebed-klikun/images/lebed-klikun-3.jpeg",
+                "/birdsData/lebed-klikun/images/lebed-klikun-4.jpeg",
+                "/birdsData/lebed-klikun/images/lebed-klikun-5.jpeg"
             ],
-            "audioPath": "./birdsData/lebed-klikun/audio/lebed-klikun.mp3"
+            "audioPath": "/birdsData/lebed-klikun/audio/lebed-klikun.mp3"
         },
         {
             "id": "Lun bolotnyy",
@@ -1835,13 +1835,13 @@
                 "Создать страницу «Лунь болотный» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/lun-bolotnyy/images/lun-bolotnyy-1.jpeg",
-                "./birdsData/lun-bolotnyy/images/lun-bolotnyy-2.jpeg",
-                "./birdsData/lun-bolotnyy/images/lun-bolotnyy-3.jpeg",
-                "./birdsData/lun-bolotnyy/images/lun-bolotnyy-4.jpeg",
-                "./birdsData/lun-bolotnyy/images/lun-bolotnyy-5.jpeg"
+                "/birdsData/lun-bolotnyy/images/lun-bolotnyy-1.jpeg",
+                "/birdsData/lun-bolotnyy/images/lun-bolotnyy-2.jpeg",
+                "/birdsData/lun-bolotnyy/images/lun-bolotnyy-3.jpeg",
+                "/birdsData/lun-bolotnyy/images/lun-bolotnyy-4.jpeg",
+                "/birdsData/lun-bolotnyy/images/lun-bolotnyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/lun-bolotnyy/audio/lun-bolotnyy.mp3"
+            "audioPath": "/birdsData/lun-bolotnyy/audio/lun-bolotnyy.mp3"
         },
         {
             "id": "Lutok",
@@ -1864,13 +1864,13 @@
                 "Основу питания составляют придонные водные беспозвоночные, преимущественно насекомые и их личинки: жуки (плавунцы, водолюбы и пр.), личинки стрекоз и ручейников, хирономид. Также употребляет в пищу земноводных и небольшое количество растительных кормов. В отличие от типичных крохалей, рыба в рационе занимает более скромное место — в основном, птицы питаются ею зимой и ранней весной, в том числе и в литоральной полосе моря."
             ],
             "imagesPaths": [
-                "./birdsData/lutok/images/lutok-1.jpeg",
-                "./birdsData/lutok/images/lutok-2.jpeg",
-                "./birdsData/lutok/images/lutok-3.jpeg",
-                "./birdsData/lutok/images/lutok-4.jpeg",
-                "./birdsData/lutok/images/lutok-5.jpeg"
+                "/birdsData/lutok/images/lutok-1.jpeg",
+                "/birdsData/lutok/images/lutok-2.jpeg",
+                "/birdsData/lutok/images/lutok-3.jpeg",
+                "/birdsData/lutok/images/lutok-4.jpeg",
+                "/birdsData/lutok/images/lutok-5.jpeg"
             ],
-            "audioPath": "./birdsData/lutok/audio/lutok.mp3"
+            "audioPath": "/birdsData/lutok/audio/lutok.mp3"
         },
         {
             "id": "Lysuha",
@@ -1907,13 +1907,13 @@
                 "Лягушка схватила лысуху за голову"
             ],
             "imagesPaths": [
-                "./birdsData/lysuha/images/lysuha-1.jpeg",
-                "./birdsData/lysuha/images/lysuha-2.jpeg",
-                "./birdsData/lysuha/images/lysuha-3.jpeg",
-                "./birdsData/lysuha/images/lysuha-4.jpeg",
-                "./birdsData/lysuha/images/lysuha-5.jpeg"
+                "/birdsData/lysuha/images/lysuha-1.jpeg",
+                "/birdsData/lysuha/images/lysuha-2.jpeg",
+                "/birdsData/lysuha/images/lysuha-3.jpeg",
+                "/birdsData/lysuha/images/lysuha-4.jpeg",
+                "/birdsData/lysuha/images/lysuha-5.jpeg"
             ],
-            "audioPath": "./birdsData/lysuha/audio/lysuha.mp3"
+            "audioPath": "/birdsData/lysuha/audio/lysuha.mp3"
         },
         {
             "id": "Morodunka",
@@ -1935,13 +1935,13 @@
                 "В году бывает только один выводок, однако при потере первоначальной кладки самка гнездится повторно . Полная кладка содержит 4 яйца, очень редко 3 или 5 яиц. Они имеют грушевидную форму и окрашены в охристый, светло-коричневый либо сероватый цвет с глубокими серовато-фиолетовыми и поверхностными тёмно-бурыми пятнами. Размеры яиц: (33—43)х(24—29) мм. Насиживают, по всей видимости, обе птицы пары (по другим данным, только самец) 23—24 дня, начиная с третьего или четвёртого яйца. При появлении человека в начале насиживания задолго сходят с гнезда и затаиваются, ближе к концу — подпускают на близкое расстояние, после чего с писком отводят, изображая раненую птицу. Появление на свет пуховиков с 20-х чисел июня по 20-е числа июля . Выводки держатся возле воды, зачастую в топких труднодоступных местах — болотах, сырых участках луга, зарослях хвоща . Кто из родителей согревает и водит выводок — неясно, информация в источниках противоречива. Осенний начинается в июле и продолжается до конца сентября."
             ],
             "imagesPaths": [
-                "./birdsData/morodunka/images/morodunka-1.jpeg",
-                "./birdsData/morodunka/images/morodunka-2.jpeg",
-                "./birdsData/morodunka/images/morodunka-3.jpeg",
-                "./birdsData/morodunka/images/morodunka-4.jpeg",
-                "./birdsData/morodunka/images/morodunka-5.jpeg"
+                "/birdsData/morodunka/images/morodunka-1.jpeg",
+                "/birdsData/morodunka/images/morodunka-2.jpeg",
+                "/birdsData/morodunka/images/morodunka-3.jpeg",
+                "/birdsData/morodunka/images/morodunka-4.jpeg",
+                "/birdsData/morodunka/images/morodunka-5.jpeg"
             ],
-            "audioPath": "./birdsData/morodunka/audio/morodunka.mp3"
+            "audioPath": "/birdsData/morodunka/audio/morodunka.mp3"
         },
         {
             "id": "Muholovka malaya",
@@ -1957,13 +1957,13 @@
                 "Гнездится в полуоткрытых и закрытых дуплах и на развилках деревьев. Гнезда помещает на высоте от 1 до 12 м. Гнездо аккуратно сплетает из мха, стебельков трав, древесных волокон, растительного пуха. Снаружи иногда облицовано тонкими веточками и лишайником. Лоток выстлан мхом, иногда волосовидными усами вьющихся растений и небольшим количеством конского волоса. Размеры гнезда: диаметр лотка 45-50 мм, глубина лотка 35-45 мм (Михеев, 1996). В кладке 4-9, чаще 5-6 яиц. Их окраска — бледно-зеленоватая или почти белая, может быть голубоватая или желтоватая, с ржавчатыми или охристо-бурыми пятнами и крапинами, которые могут быть обильными и четкими, или неясными, размытыми, вплоть до того, что имеют вид ровного напыления по всему яйцу или только на тупом конце. Размеры яиц 14-19 х 12-14 мм. Насиживает самка, начиная с откладки последнего яйца или на 1-2 дня (яйца) раньше, в течение 12-15 дней. Птенцы имеют довольно длинный серый пух на верхней стороне головы и тела, ротовая полость желтая, клювные валики белые. Кормят птенцов самец и самка. В случае опасности с беспокойными криками перелетают вокруг, могут имитировать атаку на человека, осматривающего гнездо, налетая и отворачивая у самого лица. Птенцы сидят в гнезде 11-15 дней."
             ],
             "imagesPaths": [
-                "./birdsData/muholovka-malaya/images/muholovka-malaya-1.jpeg",
-                "./birdsData/muholovka-malaya/images/muholovka-malaya-2.jpeg",
-                "./birdsData/muholovka-malaya/images/muholovka-malaya-3.jpeg",
-                "./birdsData/muholovka-malaya/images/muholovka-malaya-4.jpeg",
-                "./birdsData/muholovka-malaya/images/muholovka-malaya-5.jpeg"
+                "/birdsData/muholovka-malaya/images/muholovka-malaya-1.jpeg",
+                "/birdsData/muholovka-malaya/images/muholovka-malaya-2.jpeg",
+                "/birdsData/muholovka-malaya/images/muholovka-malaya-3.jpeg",
+                "/birdsData/muholovka-malaya/images/muholovka-malaya-4.jpeg",
+                "/birdsData/muholovka-malaya/images/muholovka-malaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/muholovka-malaya/audio/muholovka-malaya.mp3"
+            "audioPath": "/birdsData/muholovka-malaya/audio/muholovka-malaya.mp3"
         },
         {
             "id": "Neyasyt borodataya",
@@ -1985,13 +1985,13 @@
                 "яйцо Strix nebulosa lapponica - Тулузский музеум"
             ],
             "imagesPaths": [
-                "./birdsData/neyasyt-borodataya/images/neyasyt-borodataya-1.jpeg",
-                "./birdsData/neyasyt-borodataya/images/neyasyt-borodataya-2.jpeg",
-                "./birdsData/neyasyt-borodataya/images/neyasyt-borodataya-3.jpeg",
-                "./birdsData/neyasyt-borodataya/images/neyasyt-borodataya-4.jpeg",
-                "./birdsData/neyasyt-borodataya/images/neyasyt-borodataya-5.jpeg"
+                "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-1.jpeg",
+                "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-2.jpeg",
+                "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-3.jpeg",
+                "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-4.jpeg",
+                "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-5.jpeg"
             ],
-            "audioPath": "./birdsData/neyasyt-borodataya/audio/neyasyt-borodataya.mp3"
+            "audioPath": "/birdsData/neyasyt-borodataya/audio/neyasyt-borodataya.mp3"
         },
         {
             "id": "Nyrok krasnogolovyy",
@@ -2014,13 +2014,13 @@
                 "Питается растительными и животными кормами, однако их соотношение может меняться в зависимости от времени года. Весной и осенью преобладает растительная пища — семена, корешки и вегетативные части трав и водных растений. Летом и зимой основу рациона составляют мелкие беспозвоночные (водные насекомые и их личинки, моллюски, ракообразные и черви), а также в меньшей степени земноводные и мелкая рыба. Около 30 % своего времени красноголовый нырок тратит на поиски корма — ныряет на глубину до 2,5 м, а также склёвывает пищу с поверхности водных растений."
             ],
             "imagesPaths": [
-                "./birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-1.jpeg",
-                "./birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-2.jpeg",
-                "./birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-3.jpeg",
-                "./birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-4.jpeg",
-                "./birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-5.jpeg"
+                "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-1.jpeg",
+                "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-2.jpeg",
+                "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-3.jpeg",
+                "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-4.jpeg",
+                "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/nyrok-krasnogolovyy/audio/nyrok-krasnogolovyy.mp3"
+            "audioPath": "/birdsData/nyrok-krasnogolovyy/audio/nyrok-krasnogolovyy.mp3"
         },
         {
             "id": "Ovsyanka kamyshovaya",
@@ -2032,13 +2032,13 @@
                 "Создать страницу «Овсянка камышовая» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-1.jpeg",
-                "./birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-2.jpeg",
-                "./birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-3.jpeg",
-                "./birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-4.jpeg",
-                "./birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-5.jpeg"
+                "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-1.jpeg",
+                "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-2.jpeg",
+                "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-3.jpeg",
+                "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-4.jpeg",
+                "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/ovsyanka-kamyshovaya/audio/ovsyanka-kamyshovaya.mp3"
+            "audioPath": "/birdsData/ovsyanka-kamyshovaya/audio/ovsyanka-kamyshovaya.mp3"
         },
         {
             "id": "Olyapka obyknovennaya",
@@ -2063,13 +2063,13 @@
                 "Начинают гнездиться на первом году жизни, максимальный известный возраст — более 7 лет."
             ],
             "imagesPaths": [
-                "./birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-1.jpeg",
-                "./birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-2.jpeg",
-                "./birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-3.jpeg",
-                "./birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-4.jpeg",
-                "./birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-5.jpeg"
+                "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-1.jpeg",
+                "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-2.jpeg",
+                "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-3.jpeg",
+                "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-4.jpeg",
+                "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/olyapka-obyknovennaya/audio/olyapka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/olyapka-obyknovennaya/audio/olyapka-obyknovennaya.mp3"
         },
         {
             "id": "Orlan-belohvost",
@@ -2097,13 +2097,13 @@
                 "Орлан-белохвост на марке Киргизии"
             ],
             "imagesPaths": [
-                "./birdsData/orlan-belohvost/images/orlan-belohvost-1.jpeg",
-                "./birdsData/orlan-belohvost/images/orlan-belohvost-2.jpeg",
-                "./birdsData/orlan-belohvost/images/orlan-belohvost-3.jpeg",
-                "./birdsData/orlan-belohvost/images/orlan-belohvost-4.jpeg",
-                "./birdsData/orlan-belohvost/images/orlan-belohvost-5.jpeg"
+                "/birdsData/orlan-belohvost/images/orlan-belohvost-1.jpeg",
+                "/birdsData/orlan-belohvost/images/orlan-belohvost-2.jpeg",
+                "/birdsData/orlan-belohvost/images/orlan-belohvost-3.jpeg",
+                "/birdsData/orlan-belohvost/images/orlan-belohvost-4.jpeg",
+                "/birdsData/orlan-belohvost/images/orlan-belohvost-5.jpeg"
             ],
-            "audioPath": "./birdsData/orlan-belohvost/audio/orlan-belohvost.mp3"
+            "audioPath": "/birdsData/orlan-belohvost/audio/orlan-belohvost.mp3"
         },
         {
             "id": "Osoed obyknovennyy",
@@ -2116,13 +2116,13 @@
                 "Гнездящаяся перелётная птица с широким разрывом между областями гнездования и зимовки (зимует в тропических лесах Африки). Гнездится на деревьях, часто у опушки, гнёзда обязательно «украшены» зелеными веточками с листьями. Кладка поздняя, в конце мая — в июне, состоит из одного-двух, очень редко трех-четырёх ярких красно-коричневых, часто с белым яиц. Насиживают оба родителя около месяца. Птенцов в гнезде бывает один-два. Подросшие птенцы выбираются из гнезда с ещё недоросшими маховыми перьями и долго держатся около него."
             ],
             "imagesPaths": [
-                "./birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-1.jpeg",
-                "./birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-2.jpeg",
-                "./birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-3.jpeg",
-                "./birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-4.jpeg",
-                "./birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-5.jpeg"
+                "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-1.jpeg",
+                "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-2.jpeg",
+                "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-3.jpeg",
+                "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-4.jpeg",
+                "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/osoed-obyknovennyy/audio/osoed-obyknovennyy.mp3"
+            "audioPath": "/birdsData/osoed-obyknovennyy/audio/osoed-obyknovennyy.mp3"
         },
         {
             "id": "Pastushok vodyanoy",
@@ -2134,13 +2134,13 @@
                 "Создать страницу «Пастушок водяной» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-1.jpeg",
-                "./birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-2.jpeg",
-                "./birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-3.jpeg",
-                "./birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-4.jpeg",
-                "./birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-5.jpeg"
+                "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-1.jpeg",
+                "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-2.jpeg",
+                "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-3.jpeg",
+                "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-4.jpeg",
+                "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/pastushok-vodyanoy/audio/pastushok-vodyanoy.mp3"
+            "audioPath": "/birdsData/pastushok-vodyanoy/audio/pastushok-vodyanoy.mp3"
         },
         {
             "id": "Penochka-vesnichka",
@@ -2159,13 +2159,13 @@
                 "Выделяют три подвида, различающиеся между собой тонами окраски и размерами:"
             ],
             "imagesPaths": [
-                "./birdsData/penochka-vesnichka/images/penochka-vesnichka-1.jpeg",
-                "./birdsData/penochka-vesnichka/images/penochka-vesnichka-2.jpeg",
-                "./birdsData/penochka-vesnichka/images/penochka-vesnichka-3.jpeg",
-                "./birdsData/penochka-vesnichka/images/penochka-vesnichka-4.jpeg",
-                "./birdsData/penochka-vesnichka/images/penochka-vesnichka-5.jpeg"
+                "/birdsData/penochka-vesnichka/images/penochka-vesnichka-1.jpeg",
+                "/birdsData/penochka-vesnichka/images/penochka-vesnichka-2.jpeg",
+                "/birdsData/penochka-vesnichka/images/penochka-vesnichka-3.jpeg",
+                "/birdsData/penochka-vesnichka/images/penochka-vesnichka-4.jpeg",
+                "/birdsData/penochka-vesnichka/images/penochka-vesnichka-5.jpeg"
             ],
-            "audioPath": "./birdsData/penochka-vesnichka/audio/penochka-vesnichka.mp3"
+            "audioPath": "/birdsData/penochka-vesnichka/audio/penochka-vesnichka.mp3"
         },
         {
             "id": "Perevozchik",
@@ -2175,13 +2175,13 @@
                 "Перево́зчик:"
             ],
             "imagesPaths": [
-                "./birdsData/perevozchik/images/perevozchik-1.jpeg",
-                "./birdsData/perevozchik/images/perevozchik-2.jpeg",
-                "./birdsData/perevozchik/images/perevozchik-3.jpeg",
-                "./birdsData/perevozchik/images/perevozchik-4.jpeg",
-                "./birdsData/perevozchik/images/perevozchik-5.jpeg"
+                "/birdsData/perevozchik/images/perevozchik-1.jpeg",
+                "/birdsData/perevozchik/images/perevozchik-2.jpeg",
+                "/birdsData/perevozchik/images/perevozchik-3.jpeg",
+                "/birdsData/perevozchik/images/perevozchik-4.jpeg",
+                "/birdsData/perevozchik/images/perevozchik-5.jpeg"
             ],
-            "audioPath": "./birdsData/perevozchik/audio/perevozchik.mp3"
+            "audioPath": "/birdsData/perevozchik/audio/perevozchik.mp3"
         },
         {
             "id": "Peresmeshka zelenaya",
@@ -2193,13 +2193,13 @@
                 "Создать страницу «Пересмешка зелёная» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-1.jpeg",
-                "./birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-2.jpeg",
-                "./birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-3.jpeg",
-                "./birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-4.jpeg",
-                "./birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-5.jpeg"
+                "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-1.jpeg",
+                "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-2.jpeg",
+                "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-3.jpeg",
+                "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-4.jpeg",
+                "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/peresmeshka-zelenaya/audio/peresmeshka-zelenaya.mp3"
+            "audioPath": "/birdsData/peresmeshka-zelenaya/audio/peresmeshka-zelenaya.mp3"
         },
         {
             "id": "Perepel obyknovennyy",
@@ -2228,13 +2228,13 @@
                 "Причиной отравления является кумуляция (накопление) в мясе птиц ядовитых веществ после поедания птицами семян пикульника. Алкалоиды, содержащиеся в семенах этого растения, вызывают блокирование окончаний двигательных нервов в "
             ],
             "imagesPaths": [
-                "./birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-1.jpeg",
-                "./birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-2.jpeg",
-                "./birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-3.jpeg",
-                "./birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-4.jpeg",
-                "./birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-5.jpeg"
+                "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-1.jpeg",
+                "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-2.jpeg",
+                "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-3.jpeg",
+                "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-4.jpeg",
+                "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/perepel-obyknovennyy/audio/perepel-obyknovennyy.mp3"
+            "audioPath": "/birdsData/perepel-obyknovennyy/audio/perepel-obyknovennyy.mp3"
         },
         {
             "id": "Piskulka",
@@ -2251,13 +2251,13 @@
                 "Программу восстановления численности пискульки успешно осуществлял «Норильский никель»."
             ],
             "imagesPaths": [
-                "./birdsData/piskulka/images/piskulka-1.jpeg",
-                "./birdsData/piskulka/images/piskulka-2.jpeg",
-                "./birdsData/piskulka/images/piskulka-3.jpeg",
-                "./birdsData/piskulka/images/piskulka-4.jpeg",
-                "./birdsData/piskulka/images/piskulka-5.jpeg"
+                "/birdsData/piskulka/images/piskulka-1.jpeg",
+                "/birdsData/piskulka/images/piskulka-2.jpeg",
+                "/birdsData/piskulka/images/piskulka-3.jpeg",
+                "/birdsData/piskulka/images/piskulka-4.jpeg",
+                "/birdsData/piskulka/images/piskulka-5.jpeg"
             ],
-            "audioPath": "./birdsData/piskulka/audio/piskulka.mp3"
+            "audioPath": "/birdsData/piskulka/audio/piskulka.mp3"
         },
         {
             "id": "Pischuha obyknovennaya",
@@ -2287,13 +2287,13 @@
                 "Обыкновенная пищуха — небольшая лесная птица с камуфлирующим оперением и негромким пением, благодаря чему легко остаётся незамеченной. Характерным для неё движением являются мышеподобные передвижения короткими рывками вертикально по стволам и толстым ветвям деревьев, с использованием длинного жёсткого хвоста и широко разведённых ног в качестве треугольника опоры. Тем не менее, эта птица не очень осторожна и часто не обращает внимания на присутствие человека. Для неё характерен неровный пульсирующий полёт, в котором чередуются бабочковидная серия взмахов крыльями со скольжением на крыле и падениями. Мигрирующие птицы могут лететь днем и ночью, но общий объём миграции обычно маскируется благодаря наличию местных оседлых популяций. Эта птица зимой ведёт одиночный образ жизни, но в холодную погоду в хорошем убежище могут формироваться стаи, насчитывающие один-два десятка пищух."
             ],
             "imagesPaths": [
-                "./birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-1.jpeg",
-                "./birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-2.jpeg",
-                "./birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-3.jpeg",
-                "./birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-4.jpeg",
-                "./birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-5.jpeg"
+                "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-1.jpeg",
+                "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-2.jpeg",
+                "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-3.jpeg",
+                "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-4.jpeg",
+                "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/pischuha-obyknovennaya/audio/pischuha-obyknovennaya.mp3"
+            "audioPath": "/birdsData/pischuha-obyknovennaya/audio/pischuha-obyknovennaya.mp3"
         },
         {
             "id": "Poganka bolshaya (Chomga)",
@@ -2305,13 +2305,13 @@
                 "Создать страницу «Поганка большая (Чомга)» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-1.jpeg",
-                "./birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-2.jpeg",
-                "./birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-3.jpeg",
-                "./birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-4.jpeg",
-                "./birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-5.jpeg"
+                "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-1.jpeg",
+                "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-2.jpeg",
+                "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-3.jpeg",
+                "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-4.jpeg",
+                "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-5.jpeg"
             ],
-            "audioPath": "./birdsData/poganka-bolshaya-(chomga)/audio/poganka-bolshaya-(chomga).mp3"
+            "audioPath": "/birdsData/poganka-bolshaya-(chomga)/audio/poganka-bolshaya-(chomga).mp3"
         },
         {
             "id": "Pogonysh",
@@ -2332,13 +2332,13 @@
                 "Всеядны — питаются как растительной, так и животной пищей. Кормятся семенами и вегетативными частями растений, мелкими беспозвоночными (водными насекомыми и их личинками, моллюсками), реже мелкой рыбой и падалью. В поисках пищи ходят по мелководью вдоль прибрежных зарослей, либо в траве."
             ],
             "imagesPaths": [
-                "./birdsData/pogonysh/images/pogonysh-1.jpeg",
-                "./birdsData/pogonysh/images/pogonysh-2.jpeg",
-                "./birdsData/pogonysh/images/pogonysh-3.jpeg",
-                "./birdsData/pogonysh/images/pogonysh-4.jpeg",
-                "./birdsData/pogonysh/images/pogonysh-5.jpeg"
+                "/birdsData/pogonysh/images/pogonysh-1.jpeg",
+                "/birdsData/pogonysh/images/pogonysh-2.jpeg",
+                "/birdsData/pogonysh/images/pogonysh-3.jpeg",
+                "/birdsData/pogonysh/images/pogonysh-4.jpeg",
+                "/birdsData/pogonysh/images/pogonysh-5.jpeg"
             ],
-            "audioPath": "./birdsData/pogonysh/audio/pogonysh.mp3"
+            "audioPath": "/birdsData/pogonysh/audio/pogonysh.mp3"
         },
         {
             "id": "Podorlik bolshoy",
@@ -2354,13 +2354,13 @@
                 "Гнездится Большой подорлик на деревьях. Одно гнездо птицы часто используют несколько раз. В мае самка откладывает 1—3, но чаще 2 пёстрых яйца. Первое и второе яйцо откладываются неодновременно, но насиживание начинается с первого яйца. Птенцы вылупляются спустя 40 дней насиживания. Младший птенец, вылупившийся из яйца, отложенного вторым, подвергается гонениям старшего и, как правило, погибает в первые две недели жизни. В возрасте 8—9 недель птенцы большого подорлика встают на крыло, и, в зависимости от места гнездования, в сентябре или октябре подорлики отлетают на зимовку. Возможно разведение этой птицы в неволе — она успешно содержится во многих зоопарках."
             ],
             "imagesPaths": [
-                "./birdsData/podorlik-bolshoy/images/podorlik-bolshoy-1.jpeg",
-                "./birdsData/podorlik-bolshoy/images/podorlik-bolshoy-2.jpeg",
-                "./birdsData/podorlik-bolshoy/images/podorlik-bolshoy-3.jpeg",
-                "./birdsData/podorlik-bolshoy/images/podorlik-bolshoy-4.jpeg",
-                "./birdsData/podorlik-bolshoy/images/podorlik-bolshoy-5.jpeg"
+                "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-1.jpeg",
+                "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-2.jpeg",
+                "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-3.jpeg",
+                "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-4.jpeg",
+                "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/podorlik-bolshoy/audio/podorlik-bolshoy.mp3"
+            "audioPath": "/birdsData/podorlik-bolshoy/audio/podorlik-bolshoy.mp3"
         },
         {
             "id": "Podorozhnik laplandskiy",
@@ -2372,13 +2372,13 @@
                 "Создать страницу «Подорожник лапландский» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-1.jpeg",
-                "./birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-2.jpeg",
-                "./birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-3.jpeg",
-                "./birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-4.jpeg",
-                "./birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-5.jpeg"
+                "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-1.jpeg",
+                "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-2.jpeg",
+                "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-3.jpeg",
+                "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-4.jpeg",
+                "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-5.jpeg"
             ],
-            "audioPath": "./birdsData/podorozhnik-laplandskiy/audio/podorozhnik-laplandskiy.mp3"
+            "audioPath": "/birdsData/podorozhnik-laplandskiy/audio/podorozhnik-laplandskiy.mp3"
         },
         {
             "id": "Popolzen obyknovennyy",
@@ -2399,13 +2399,13 @@
                 "Образует около 20 подвидов, различающихся размером и окраской оперения. Некоторые известные ранее подвиды, в частности, Sitta europaea cashmirensis и Sitta europaea nagaensis, в настоящее время многими орнитологами рассматриваются как отдельные виды Sitta cashmirensis и Sitta nagaensis."
             ],
             "imagesPaths": [
-                "./birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-1.jpeg",
-                "./birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-2.jpeg",
-                "./birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-3.jpeg",
-                "./birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-4.jpeg",
-                "./birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-5.jpeg"
+                "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-1.jpeg",
+                "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-2.jpeg",
+                "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-3.jpeg",
+                "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-4.jpeg",
+                "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/popolzen-obyknovennyy/audio/popolzen-obyknovennyy.mp3"
+            "audioPath": "/birdsData/popolzen-obyknovennyy/audio/popolzen-obyknovennyy.mp3"
         },
         {
             "id": "Porucheynik",
@@ -2419,13 +2419,13 @@
                 "Половая зрелость наступает на первом или втором году жизни. Гнездо устраивает на земле в небольшом углублении. Выстилка скудная, состоит из нескольких соломинок. Птицы гнездятся в колониях вблизи водоёма. Начало яйцекладки в мае, на северо-востоке ареала в июне. В кладке обычно 4 яйца."
             ],
             "imagesPaths": [
-                "./birdsData/porucheynik/images/porucheynik-1.jpeg",
-                "./birdsData/porucheynik/images/porucheynik-2.jpeg",
-                "./birdsData/porucheynik/images/porucheynik-3.jpeg",
-                "./birdsData/porucheynik/images/porucheynik-4.jpeg",
-                "./birdsData/porucheynik/images/porucheynik-5.jpeg"
+                "/birdsData/porucheynik/images/porucheynik-1.jpeg",
+                "/birdsData/porucheynik/images/porucheynik-2.jpeg",
+                "/birdsData/porucheynik/images/porucheynik-3.jpeg",
+                "/birdsData/porucheynik/images/porucheynik-4.jpeg",
+                "/birdsData/porucheynik/images/porucheynik-5.jpeg"
             ],
-            "audioPath": "./birdsData/porucheynik/audio/porucheynik.mp3"
+            "audioPath": "/birdsData/porucheynik/audio/porucheynik.mp3"
         },
         {
             "id": "Punochka",
@@ -2444,13 +2444,13 @@
                 "Пуночка является популярным фольклорным персонажем у северных народов (чукчей, эскимосов и др). В тундре играет роль вестника весны, как в средних широтах скворец или ласточка."
             ],
             "imagesPaths": [
-                "./birdsData/punochka/images/punochka-1.jpeg",
-                "./birdsData/punochka/images/punochka-2.jpeg",
-                "./birdsData/punochka/images/punochka-3.jpeg",
-                "./birdsData/punochka/images/punochka-4.jpeg",
-                "./birdsData/punochka/images/punochka-5.jpeg"
+                "/birdsData/punochka/images/punochka-1.jpeg",
+                "/birdsData/punochka/images/punochka-2.jpeg",
+                "/birdsData/punochka/images/punochka-3.jpeg",
+                "/birdsData/punochka/images/punochka-4.jpeg",
+                "/birdsData/punochka/images/punochka-5.jpeg"
             ],
-            "audioPath": "./birdsData/punochka/audio/punochka.mp3"
+            "audioPath": "/birdsData/punochka/audio/punochka.mp3"
         },
         {
             "id": "Pustelga obyknovennaya",
@@ -2497,13 +2497,13 @@
                 "Возраст самых старых особей на воле, определённый по окольцовке птиц, соответствует 16 годам. Однако вероятность того, что молодые птицы переживут однолетнюю отметку, невелика и составляет всего около 50 %. Высокая смертность птиц отмечается в январе и в феврале, в этот период представители вида погибают из-за отсутствия корма."
             ],
             "imagesPaths": [
-                "./birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-1.jpeg",
-                "./birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-2.jpeg",
-                "./birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-3.jpeg",
-                "./birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-4.jpeg",
-                "./birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-5.jpeg"
+                "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-1.jpeg",
+                "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-2.jpeg",
+                "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-3.jpeg",
+                "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-4.jpeg",
+                "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/pustelga-obyknovennaya/audio/pustelga-obyknovennaya.mp3"
+            "audioPath": "/birdsData/pustelga-obyknovennaya/audio/pustelga-obyknovennaya.mp3"
         },
         {
             "id": "Ryabchik",
@@ -2539,13 +2539,13 @@
                 "Данные генетических исследований 2000-х годов говорят о филогенетической обособленности рябчика (а также рябчика Северцова) от других тетеревиных . Несмотря на это, изредка учёными всё-таки отмечались случаи гибридизации рябчика с другими тетеревиными птицами. Л. П. Сабанеев в 1877 году сообщал, что единственное известное ему чучело гибрида тетерева"
             ],
             "imagesPaths": [
-                "./birdsData/ryabchik/images/ryabchik-1.jpeg",
-                "./birdsData/ryabchik/images/ryabchik-2.jpeg",
-                "./birdsData/ryabchik/images/ryabchik-3.jpeg",
-                "./birdsData/ryabchik/images/ryabchik-4.jpeg",
-                "./birdsData/ryabchik/images/ryabchik-5.jpeg"
+                "/birdsData/ryabchik/images/ryabchik-1.jpeg",
+                "/birdsData/ryabchik/images/ryabchik-2.jpeg",
+                "/birdsData/ryabchik/images/ryabchik-3.jpeg",
+                "/birdsData/ryabchik/images/ryabchik-4.jpeg",
+                "/birdsData/ryabchik/images/ryabchik-5.jpeg"
             ],
-            "audioPath": "./birdsData/ryabchik/audio/ryabchik.mp3"
+            "audioPath": "/birdsData/ryabchik/audio/ryabchik.mp3"
         },
         {
             "id": "Sapsan",
@@ -2593,13 +2593,13 @@
                 "За период наблюдений разными авторами было описано большое количество подвидов сапсана в зависимости от размера и особенностей окраски, однако к настоящему времени лишь некоторые из них признаны большинством специалистов. Один из наиболее полных современных орнитологических каталогов — «Руководство по птицам мира» (англ. Handbook of Birds of the World) — описывает 19 подвидов этой птицы."
             ],
             "imagesPaths": [
-                "./birdsData/sapsan/images/sapsan-1.jpeg",
-                "./birdsData/sapsan/images/sapsan-2.jpeg",
-                "./birdsData/sapsan/images/sapsan-3.jpeg",
-                "./birdsData/sapsan/images/sapsan-4.jpeg",
-                "./birdsData/sapsan/images/sapsan-5.jpeg"
+                "/birdsData/sapsan/images/sapsan-1.jpeg",
+                "/birdsData/sapsan/images/sapsan-2.jpeg",
+                "/birdsData/sapsan/images/sapsan-3.jpeg",
+                "/birdsData/sapsan/images/sapsan-4.jpeg",
+                "/birdsData/sapsan/images/sapsan-5.jpeg"
             ],
-            "audioPath": "./birdsData/sapsan/audio/sapsan.mp3"
+            "audioPath": "/birdsData/sapsan/audio/sapsan.mp3"
         },
         {
             "id": "Sverchok obyknovennyy",
@@ -2614,13 +2614,13 @@
                 "Половая зрелость наступает через один год. Период гнездования с мая по июль. Построенное из стебельков, листвы и травы гнездо в форме чашки хорошо спрятано на земле в густой траве. Самка откладывает от 4 до 6 бело-фиолетовых в крапинку яиц. Кладку высиживают от 13 до 15 дней оба родителя. Молодые птицы остаются в гнезде от 10 до 12 дней."
             ],
             "imagesPaths": [
-                "./birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-1.jpeg",
-                "./birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-2.jpeg",
-                "./birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-3.jpeg",
-                "./birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-4.jpeg",
-                "./birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-5.jpeg"
+                "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-1.jpeg",
+                "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-2.jpeg",
+                "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-3.jpeg",
+                "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-4.jpeg",
+                "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/sverchok-obyknovennyy/audio/sverchok-obyknovennyy.mp3"
+            "audioPath": "/birdsData/sverchok-obyknovennyy/audio/sverchok-obyknovennyy.mp3"
         },
         {
             "id": "Sviristel obyknovennyy",
@@ -2637,13 +2637,13 @@
                 "В литературе эта птица, однако, не так популярна. Особенность её диеты в холодное время года — использование в пищу ягод и плодов, как правило, уже изрядно подбродивших, — часто высмеивается авторами, ведь этот рацион влияет на поведение птиц, их моторику. Отдельные произведения свиристелю посвятили Анатолий Горбунов, Александр Барков, Галина Байкова."
             ],
             "imagesPaths": [
-                "./birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-1.jpeg",
-                "./birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-2.jpeg",
-                "./birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-3.jpeg",
-                "./birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-4.jpeg",
-                "./birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-5.jpeg"
+                "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-1.jpeg",
+                "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-2.jpeg",
+                "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-3.jpeg",
+                "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-4.jpeg",
+                "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/sviristel-obyknovennyy/audio/sviristel-obyknovennyy.mp3"
+            "audioPath": "/birdsData/sviristel-obyknovennyy/audio/sviristel-obyknovennyy.mp3"
         },
         {
             "id": "Sviyaz",
@@ -2665,13 +2665,13 @@
                 "Гнездо — ямка глубиной 5—7 см, устраивается на сухом месте недалеко от воды. Обычно оно хорошо укрыто под сенью кустарника среди прошлогодней травы, реже может находиться просто в густой траве. Иногда кладки находят в лесу с доминированием хвойных пород деревьев. Растительная выстилка слабая, однако её дополняет толстый слой пуха, который образует высокий валик по периметру гнезда. Наблюдения в Исландии показали слабо выраженную тенденцию к обустройству гнезда на островке посреди водоёма. Откладка яиц с конца мая по первую декаду июня. Полная кладка содержит 6—12, чаще 6—10 яиц кремового либо сливочно-белового цвета. Размеры яиц: (43—61) х (32—42) мм. Насиживание продолжается 22—25 дней, при этом как и у европейских видов речных уток, селезень удаляется на линьку на ранней стадии инкубации. Крупных линных скоплений свиязи не образуют. Традиционно селезни (и отчасти самки) линяют на озёрах Западной Сибири, в верховьях Печоры, в дельтах Волги и Урала, в нижнем течении "
             ],
             "imagesPaths": [
-                "./birdsData/sviyaz/images/sviyaz-1.jpeg",
-                "./birdsData/sviyaz/images/sviyaz-2.jpeg",
-                "./birdsData/sviyaz/images/sviyaz-3.jpeg",
-                "./birdsData/sviyaz/images/sviyaz-4.jpeg",
-                "./birdsData/sviyaz/images/sviyaz-5.jpeg"
+                "/birdsData/sviyaz/images/sviyaz-1.jpeg",
+                "/birdsData/sviyaz/images/sviyaz-2.jpeg",
+                "/birdsData/sviyaz/images/sviyaz-3.jpeg",
+                "/birdsData/sviyaz/images/sviyaz-4.jpeg",
+                "/birdsData/sviyaz/images/sviyaz-5.jpeg"
             ],
-            "audioPath": "./birdsData/sviyaz/audio/sviyaz.mp3"
+            "audioPath": "/birdsData/sviyaz/audio/sviyaz.mp3"
         },
         {
             "id": "Sizovoronka",
@@ -2686,13 +2686,13 @@
                 "Сизоворонка всеядна, но предпочитает питаться крупными насекомыми (саранча, жуки), ящерицами, лягушками, многоножками, иногда грызунами; осенью потребляет некоторое количество винограда, других ягод и семян."
             ],
             "imagesPaths": [
-                "./birdsData/sizovoronka/images/sizovoronka-1.jpeg",
-                "./birdsData/sizovoronka/images/sizovoronka-2.jpeg",
-                "./birdsData/sizovoronka/images/sizovoronka-3.jpeg",
-                "./birdsData/sizovoronka/images/sizovoronka-4.jpeg",
-                "./birdsData/sizovoronka/images/sizovoronka-5.jpeg"
+                "/birdsData/sizovoronka/images/sizovoronka-1.jpeg",
+                "/birdsData/sizovoronka/images/sizovoronka-2.jpeg",
+                "/birdsData/sizovoronka/images/sizovoronka-3.jpeg",
+                "/birdsData/sizovoronka/images/sizovoronka-4.jpeg",
+                "/birdsData/sizovoronka/images/sizovoronka-5.jpeg"
             ],
-            "audioPath": "./birdsData/sizovoronka/audio/sizovoronka.mp3"
+            "audioPath": "/birdsData/sizovoronka/audio/sizovoronka.mp3"
         },
         {
             "id": "Sinica bolshaya",
@@ -2731,13 +2731,13 @@
                 "Большая синица в ветвях яблони"
             ],
             "imagesPaths": [
-                "./birdsData/sinica-bolshaya/images/sinica-bolshaya-1.jpeg",
-                "./birdsData/sinica-bolshaya/images/sinica-bolshaya-2.jpeg",
-                "./birdsData/sinica-bolshaya/images/sinica-bolshaya-3.jpeg",
-                "./birdsData/sinica-bolshaya/images/sinica-bolshaya-4.jpeg",
-                "./birdsData/sinica-bolshaya/images/sinica-bolshaya-5.jpeg"
+                "/birdsData/sinica-bolshaya/images/sinica-bolshaya-1.jpeg",
+                "/birdsData/sinica-bolshaya/images/sinica-bolshaya-2.jpeg",
+                "/birdsData/sinica-bolshaya/images/sinica-bolshaya-3.jpeg",
+                "/birdsData/sinica-bolshaya/images/sinica-bolshaya-4.jpeg",
+                "/birdsData/sinica-bolshaya/images/sinica-bolshaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/sinica-bolshaya/audio/sinica-bolshaya.mp3"
+            "audioPath": "/birdsData/sinica-bolshaya/audio/sinica-bolshaya.mp3"
         },
         {
             "id": "Skvorec obyknovennyy",
@@ -2783,13 +2783,13 @@
                 "Скворец"
             ],
             "imagesPaths": [
-                "./birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-1.jpeg",
-                "./birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-2.jpeg",
-                "./birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-3.jpeg",
-                "./birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-4.jpeg",
-                "./birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-5.jpeg"
+                "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-1.jpeg",
+                "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-2.jpeg",
+                "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-3.jpeg",
+                "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-4.jpeg",
+                "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/skvorec-obyknovennyy/audio/skvorec-obyknovennyy.mp3"
+            "audioPath": "/birdsData/skvorec-obyknovennyy/audio/skvorec-obyknovennyy.mp3"
         },
         {
             "id": "Skopa",
@@ -2825,13 +2825,13 @@
                 "Союз охраны птиц России объявил 2018 год годом скопы."
             ],
             "imagesPaths": [
-                "./birdsData/skopa/images/skopa-1.jpeg",
-                "./birdsData/skopa/images/skopa-2.jpeg",
-                "./birdsData/skopa/images/skopa-3.jpeg",
-                "./birdsData/skopa/images/skopa-4.jpeg",
-                "./birdsData/skopa/images/skopa-5.jpeg"
+                "/birdsData/skopa/images/skopa-1.jpeg",
+                "/birdsData/skopa/images/skopa-2.jpeg",
+                "/birdsData/skopa/images/skopa-3.jpeg",
+                "/birdsData/skopa/images/skopa-4.jpeg",
+                "/birdsData/skopa/images/skopa-5.jpeg"
             ],
-            "audioPath": "./birdsData/skopa/audio/skopa.mp3"
+            "audioPath": "/birdsData/skopa/audio/skopa.mp3"
         },
         {
             "id": "Slavka-zavirushka",
@@ -2849,13 +2849,13 @@
                 "В первые же дни после прилёта самцы начинают петь, сооружают несколько «сигнальных» (недостроенных) гнёзд. С образованием пары одно гнездо достраивается вместе. Гнездо на кусте на высоте от 0,2 до 1,5 м, иногда до 6—8 метров. В кладке 3—7, чаще 5 яиц неярко-белого цвета с серовато-бурыми пятнами. Птенцы оставляют гнездо в возрасте 11—13 дней, ещё не умея летать. Взрослые кормят их до возраста 3-4 недели."
             ],
             "imagesPaths": [
-                "./birdsData/slavka-zavirushka/images/slavka-zavirushka-1.jpeg",
-                "./birdsData/slavka-zavirushka/images/slavka-zavirushka-2.jpeg",
-                "./birdsData/slavka-zavirushka/images/slavka-zavirushka-3.jpeg",
-                "./birdsData/slavka-zavirushka/images/slavka-zavirushka-4.jpeg",
-                "./birdsData/slavka-zavirushka/images/slavka-zavirushka-5.jpeg"
+                "/birdsData/slavka-zavirushka/images/slavka-zavirushka-1.jpeg",
+                "/birdsData/slavka-zavirushka/images/slavka-zavirushka-2.jpeg",
+                "/birdsData/slavka-zavirushka/images/slavka-zavirushka-3.jpeg",
+                "/birdsData/slavka-zavirushka/images/slavka-zavirushka-4.jpeg",
+                "/birdsData/slavka-zavirushka/images/slavka-zavirushka-5.jpeg"
             ],
-            "audioPath": "./birdsData/slavka-zavirushka/audio/slavka-zavirushka.mp3"
+            "audioPath": "/birdsData/slavka-zavirushka/audio/slavka-zavirushka.mp3"
         },
         {
             "id": "Snegir obyknovennyy",
@@ -2882,13 +2882,13 @@
                 "Союз охраны птиц России объявил годом снегиря 2008 год."
             ],
             "imagesPaths": [
-                "./birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-1.jpeg",
-                "./birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-2.jpeg",
-                "./birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-3.jpeg",
-                "./birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-4.jpeg",
-                "./birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-5.jpeg"
+                "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-1.jpeg",
+                "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-2.jpeg",
+                "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-3.jpeg",
+                "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-4.jpeg",
+                "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/snegir-obyknovennyy/audio/snegir-obyknovennyy.mp3"
+            "audioPath": "/birdsData/snegir-obyknovennyy/audio/snegir-obyknovennyy.mp3"
         },
         {
             "id": "Sova belaya",
@@ -2932,13 +2932,13 @@
                 "В целом полярная сова — немногочисленный, а местами (на острове Врангеля) — обычный вид. Достигает плотности гнездования 40—55 пар на 100 км2. Вид внесён в Приложение II Конвенции CITES."
             ],
             "imagesPaths": [
-                "./birdsData/sova-belaya/images/sova-belaya-1.jpeg",
-                "./birdsData/sova-belaya/images/sova-belaya-2.jpeg",
-                "./birdsData/sova-belaya/images/sova-belaya-3.jpeg",
-                "./birdsData/sova-belaya/images/sova-belaya-4.jpeg",
-                "./birdsData/sova-belaya/images/sova-belaya-5.jpeg"
+                "/birdsData/sova-belaya/images/sova-belaya-1.jpeg",
+                "/birdsData/sova-belaya/images/sova-belaya-2.jpeg",
+                "/birdsData/sova-belaya/images/sova-belaya-3.jpeg",
+                "/birdsData/sova-belaya/images/sova-belaya-4.jpeg",
+                "/birdsData/sova-belaya/images/sova-belaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/sova-belaya/audio/sova-belaya.mp3"
+            "audioPath": "/birdsData/sova-belaya/audio/sova-belaya.mp3"
         },
         {
             "id": "Soyka obyknovennaya",
@@ -2950,13 +2950,13 @@
                 "Создать страницу «Сойка обыкновенная» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-1.jpeg",
-                "./birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-2.jpeg",
-                "./birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-3.jpeg",
-                "./birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-4.jpeg",
-                "./birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-5.jpeg"
+                "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-1.jpeg",
+                "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-2.jpeg",
+                "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-3.jpeg",
+                "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-4.jpeg",
+                "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/soyka-obyknovennaya/audio/soyka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/soyka-obyknovennaya/audio/soyka-obyknovennaya.mp3"
         },
         {
             "id": "Solovey obyknovennyy",
@@ -2968,13 +2968,13 @@
                 "Создать страницу «Соловей обыкновенный» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-1.jpeg",
-                "./birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-2.jpeg",
-                "./birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-3.jpeg",
-                "./birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-4.jpeg",
-                "./birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-5.jpeg"
+                "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-1.jpeg",
+                "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-2.jpeg",
+                "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-3.jpeg",
+                "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-4.jpeg",
+                "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/solovey-obyknovennyy/audio/solovey-obyknovennyy.mp3"
+            "audioPath": "/birdsData/solovey-obyknovennyy/audio/solovey-obyknovennyy.mp3"
         },
         {
             "id": "Soroka obyknovennaya",
@@ -3007,13 +3007,13 @@
                 "В латыни название сороки — pica — тоже стало обозначением болтливой женщины. Образным названием болтуна стали слова, обозначающие сороку во многих европейских языках: англ. magpie, итал. gazza, рум. tarcă, нем. Elster, исп. urraca. В шведском языке skata употребляется «пренебрежительно о женщине» — «nedsät-tande om kvinna». Во многих европейских языках существуют выражения со значением «Трещать как сорока (о болтовне)»: франц. jacasser comme une pie, il a un vin de pie (он — пьяный — болтлив как сорока), англ. chatter like a magpie, нем. wie eine Elster schwatzen, исп. hablar mas que una urraca (говорить больше, чем сорока). Сербы говорят: брбљати као сврака, поляки: paplać (trajkotać) jak sroka «Трещать как сорока», чехи — klevetit jako straka («Клеветать как сорока»). У немцев есть выражение etwas der Elster auf den Schwanz binden — «Пустить сплетню» (буквально «привязать сороке к хвосту»)."
             ],
             "imagesPaths": [
-                "./birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-1.jpeg",
-                "./birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-2.jpeg",
-                "./birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-3.jpeg",
-                "./birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-4.jpeg",
-                "./birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-5.jpeg"
+                "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-1.jpeg",
+                "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-2.jpeg",
+                "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-3.jpeg",
+                "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-4.jpeg",
+                "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/soroka-obyknovennaya/audio/soroka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/soroka-obyknovennaya/audio/soroka-obyknovennaya.mp3"
         },
         {
             "id": "Sorokoput seryy",
@@ -3035,13 +3035,13 @@
                 "Подвид bianchii, распространённый на Сахалине и южных Курильских островах, является преимущественно оседлым. То же самое относится к той части номинативного подвида excubitor, которая распространена в тёплом морском климате Европы. Остальные популяции в холодное время года перемещаются на небольшое расстояние к югу и, как правило, зимуют в лесостепной и степной зоне."
             ],
             "imagesPaths": [
-                "./birdsData/sorokoput-seryy/images/sorokoput-seryy-1.jpeg",
-                "./birdsData/sorokoput-seryy/images/sorokoput-seryy-2.jpeg",
-                "./birdsData/sorokoput-seryy/images/sorokoput-seryy-3.jpeg",
-                "./birdsData/sorokoput-seryy/images/sorokoput-seryy-4.jpeg",
-                "./birdsData/sorokoput-seryy/images/sorokoput-seryy-5.jpeg"
+                "/birdsData/sorokoput-seryy/images/sorokoput-seryy-1.jpeg",
+                "/birdsData/sorokoput-seryy/images/sorokoput-seryy-2.jpeg",
+                "/birdsData/sorokoput-seryy/images/sorokoput-seryy-3.jpeg",
+                "/birdsData/sorokoput-seryy/images/sorokoput-seryy-4.jpeg",
+                "/birdsData/sorokoput-seryy/images/sorokoput-seryy-5.jpeg"
             ],
-            "audioPath": "./birdsData/sorokoput-seryy/audio/sorokoput-seryy.mp3"
+            "audioPath": "/birdsData/sorokoput-seryy/audio/sorokoput-seryy.mp3"
         },
         {
             "id": "Splyushka",
@@ -3057,13 +3057,13 @@
                 "Питается сплюшка ночными бабочками и жуками, на позвоночных нападает редко. Может охотиться на мелких лягушек, ящериц, млекопитающих. В природе живёт до 6 лет."
             ],
             "imagesPaths": [
-                "./birdsData/splyushka/images/splyushka-1.jpeg",
-                "./birdsData/splyushka/images/splyushka-2.jpeg",
-                "./birdsData/splyushka/images/splyushka-3.jpeg",
-                "./birdsData/splyushka/images/splyushka-4.jpeg",
-                "./birdsData/splyushka/images/splyushka-5.jpeg"
+                "/birdsData/splyushka/images/splyushka-1.jpeg",
+                "/birdsData/splyushka/images/splyushka-2.jpeg",
+                "/birdsData/splyushka/images/splyushka-3.jpeg",
+                "/birdsData/splyushka/images/splyushka-4.jpeg",
+                "/birdsData/splyushka/images/splyushka-5.jpeg"
             ],
-            "audioPath": "./birdsData/splyushka/audio/splyushka.mp3"
+            "audioPath": "/birdsData/splyushka/audio/splyushka.mp3"
         },
         {
             "id": "Strizh chernyy",
@@ -3086,13 +3086,13 @@
                 "Был избран птицей 2014 года Союзом охраны птиц России."
             ],
             "imagesPaths": [
-                "./birdsData/strizh-chernyy/images/strizh-chernyy-1.jpeg",
-                "./birdsData/strizh-chernyy/images/strizh-chernyy-2.jpeg",
-                "./birdsData/strizh-chernyy/images/strizh-chernyy-3.jpeg",
-                "./birdsData/strizh-chernyy/images/strizh-chernyy-4.jpeg",
-                "./birdsData/strizh-chernyy/images/strizh-chernyy-5.jpeg"
+                "/birdsData/strizh-chernyy/images/strizh-chernyy-1.jpeg",
+                "/birdsData/strizh-chernyy/images/strizh-chernyy-2.jpeg",
+                "/birdsData/strizh-chernyy/images/strizh-chernyy-3.jpeg",
+                "/birdsData/strizh-chernyy/images/strizh-chernyy-4.jpeg",
+                "/birdsData/strizh-chernyy/images/strizh-chernyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/strizh-chernyy/audio/strizh-chernyy.mp3"
+            "audioPath": "/birdsData/strizh-chernyy/audio/strizh-chernyy.mp3"
         },
         {
             "id": "Sychik vorobinyy",
@@ -3109,13 +3109,13 @@
                 "Воробьиный сыч занесен в Красную книгу Республики Беларусь со статусом IV (NT)."
             ],
             "imagesPaths": [
-                "./birdsData/sychik-vorobinyy/images/sychik-vorobinyy-1.jpeg",
-                "./birdsData/sychik-vorobinyy/images/sychik-vorobinyy-2.jpeg",
-                "./birdsData/sychik-vorobinyy/images/sychik-vorobinyy-3.jpeg",
-                "./birdsData/sychik-vorobinyy/images/sychik-vorobinyy-4.jpeg",
-                "./birdsData/sychik-vorobinyy/images/sychik-vorobinyy-5.jpeg"
+                "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-1.jpeg",
+                "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-2.jpeg",
+                "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-3.jpeg",
+                "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-4.jpeg",
+                "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/sychik-vorobinyy/audio/sychik-vorobinyy.mp3"
+            "audioPath": "/birdsData/sychik-vorobinyy/audio/sychik-vorobinyy.mp3"
         },
         {
             "id": "Sych domovyy",
@@ -3127,13 +3127,13 @@
                 "Создать страницу «Сыч домовый» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/sych-domovyy/images/sych-domovyy-1.jpeg",
-                "./birdsData/sych-domovyy/images/sych-domovyy-2.jpeg",
-                "./birdsData/sych-domovyy/images/sych-domovyy-3.jpeg",
-                "./birdsData/sych-domovyy/images/sych-domovyy-4.jpeg",
-                "./birdsData/sych-domovyy/images/sych-domovyy-5.jpeg"
+                "/birdsData/sych-domovyy/images/sych-domovyy-1.jpeg",
+                "/birdsData/sych-domovyy/images/sych-domovyy-2.jpeg",
+                "/birdsData/sych-domovyy/images/sych-domovyy-3.jpeg",
+                "/birdsData/sych-domovyy/images/sych-domovyy-4.jpeg",
+                "/birdsData/sych-domovyy/images/sych-domovyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/sych-domovyy/audio/sych-domovyy.mp3"
+            "audioPath": "/birdsData/sych-domovyy/audio/sych-domovyy.mp3"
         },
         {
             "id": "Teterev",
@@ -3143,13 +3143,13 @@
                 "Те́терев: птица, фамилия, топоним и т. д."
             ],
             "imagesPaths": [
-                "./birdsData/teterev/images/teterev-1.jpeg",
-                "./birdsData/teterev/images/teterev-2.jpeg",
-                "./birdsData/teterev/images/teterev-3.jpeg",
-                "./birdsData/teterev/images/teterev-4.jpeg",
-                "./birdsData/teterev/images/teterev-5.jpeg"
+                "/birdsData/teterev/images/teterev-1.jpeg",
+                "/birdsData/teterev/images/teterev-2.jpeg",
+                "/birdsData/teterev/images/teterev-3.jpeg",
+                "/birdsData/teterev/images/teterev-4.jpeg",
+                "/birdsData/teterev/images/teterev-5.jpeg"
             ],
-            "audioPath": "./birdsData/teterev/audio/teterev.mp3"
+            "audioPath": "/birdsData/teterev/audio/teterev.mp3"
         },
         {
             "id": "Travnik",
@@ -3159,13 +3159,13 @@
                 "Тра́вник:"
             ],
             "imagesPaths": [
-                "./birdsData/travnik/images/travnik-1.jpeg",
-                "./birdsData/travnik/images/travnik-2.jpeg",
-                "./birdsData/travnik/images/travnik-3.jpeg",
-                "./birdsData/travnik/images/travnik-4.jpeg",
-                "./birdsData/travnik/images/travnik-5.jpeg"
+                "/birdsData/travnik/images/travnik-1.jpeg",
+                "/birdsData/travnik/images/travnik-2.jpeg",
+                "/birdsData/travnik/images/travnik-3.jpeg",
+                "/birdsData/travnik/images/travnik-4.jpeg",
+                "/birdsData/travnik/images/travnik-5.jpeg"
             ],
-            "audioPath": "./birdsData/travnik/audio/travnik.mp3"
+            "audioPath": "/birdsData/travnik/audio/travnik.mp3"
         },
         {
             "id": "Tryasoguzka belaya",
@@ -3193,13 +3193,13 @@
                 "яйцо Cuculus canorus canorus + Motacilla alba - Тулузский музеум"
             ],
             "imagesPaths": [
-                "./birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-1.jpeg",
-                "./birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-2.jpeg",
-                "./birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-3.jpeg",
-                "./birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-4.jpeg",
-                "./birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-5.jpeg"
+                "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-1.jpeg",
+                "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-2.jpeg",
+                "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-3.jpeg",
+                "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-4.jpeg",
+                "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/tryasoguzka-belaya/audio/tryasoguzka-belaya.mp3"
+            "audioPath": "/birdsData/tryasoguzka-belaya/audio/tryasoguzka-belaya.mp3"
         },
         {
             "id": "Turuhtan",
@@ -3257,13 +3257,13 @@
                 "Основоположник российской орнитологии М. А. Мензбир в своей книге «Охотничьи и промысловые птицы европейской России и Кавказа» (1900) приводит другие распространённые варианты названия птицы — курухтан и курахтан, а также названия, используемые в отдельных районах Российской империи — просяник, драчун (Астраханская губерния), брыжач (Херсонская губерния), таратайка (Харьковская губерния), трухтанчик (Воронежская губерния), пеунец (Ярославская губерния), петушок (Пермская губерния, частично Поволжье) и морской петушок (Сибирь) . В настоящее время все эти названия почти не используются. Украинский и российский лингвист Л. А. Булаховский полагал, что именно названия курухтан или курахтан («птица, похожая своим образованием на курицу») являлись оригинальными и были заимствованы из восточных языков ."
             ],
             "imagesPaths": [
-                "./birdsData/turuhtan/images/turuhtan-1.jpeg",
-                "./birdsData/turuhtan/images/turuhtan-2.jpeg",
-                "./birdsData/turuhtan/images/turuhtan-3.jpeg",
-                "./birdsData/turuhtan/images/turuhtan-4.jpeg",
-                "./birdsData/turuhtan/images/turuhtan-5.jpeg"
+                "/birdsData/turuhtan/images/turuhtan-1.jpeg",
+                "/birdsData/turuhtan/images/turuhtan-2.jpeg",
+                "/birdsData/turuhtan/images/turuhtan-3.jpeg",
+                "/birdsData/turuhtan/images/turuhtan-4.jpeg",
+                "/birdsData/turuhtan/images/turuhtan-5.jpeg"
             ],
-            "audioPath": "./birdsData/turuhtan/audio/turuhtan.mp3"
+            "audioPath": "/birdsData/turuhtan/audio/turuhtan.mp3"
         },
         {
             "id": "Udod",
@@ -3310,13 +3310,13 @@
                 ""
             ],
             "imagesPaths": [
-                "./birdsData/udod/images/udod-1.jpeg",
-                "./birdsData/udod/images/udod-2.jpeg",
-                "./birdsData/udod/images/udod-3.jpeg",
-                "./birdsData/udod/images/udod-4.jpeg",
-                "./birdsData/udod/images/udod-5.jpeg"
+                "/birdsData/udod/images/udod-1.jpeg",
+                "/birdsData/udod/images/udod-2.jpeg",
+                "/birdsData/udod/images/udod-3.jpeg",
+                "/birdsData/udod/images/udod-4.jpeg",
+                "/birdsData/udod/images/udod-5.jpeg"
             ],
-            "audioPath": "./birdsData/udod/audio/udod.mp3"
+            "audioPath": "/birdsData/udod/audio/udod.mp3"
         },
         {
             "id": "Ulit bolshoy",
@@ -3330,13 +3330,13 @@
                 "Брачный период большого улита длится от мая до июля. Гнездо является углублением в земле, выстланным травой. Самка откладывает от четырёх до пяти крупных яиц, которые насиживаются обоими родителями в течение 25 дней. Птенцы уже с первого дня жизни весьма активны."
             ],
             "imagesPaths": [
-                "./birdsData/ulit-bolshoy/images/ulit-bolshoy-1.jpeg",
-                "./birdsData/ulit-bolshoy/images/ulit-bolshoy-2.jpeg",
-                "./birdsData/ulit-bolshoy/images/ulit-bolshoy-3.jpeg",
-                "./birdsData/ulit-bolshoy/images/ulit-bolshoy-4.jpeg",
-                "./birdsData/ulit-bolshoy/images/ulit-bolshoy-5.jpeg"
+                "/birdsData/ulit-bolshoy/images/ulit-bolshoy-1.jpeg",
+                "/birdsData/ulit-bolshoy/images/ulit-bolshoy-2.jpeg",
+                "/birdsData/ulit-bolshoy/images/ulit-bolshoy-3.jpeg",
+                "/birdsData/ulit-bolshoy/images/ulit-bolshoy-4.jpeg",
+                "/birdsData/ulit-bolshoy/images/ulit-bolshoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/ulit-bolshoy/audio/ulit-bolshoy.mp3"
+            "audioPath": "/birdsData/ulit-bolshoy/audio/ulit-bolshoy.mp3"
         },
         {
             "id": "Filin",
@@ -3382,13 +3382,13 @@
                 "Филин — одна из самых долгоживущих сов . Средняя продолжительность жизни составляет 12,1 года . В местах, где филин находится под охраной, он нередко доживает до 15-20 лет  . Максимальная зафиксированная продолжительность жизни составила 27 лет и 9 месяцев . Как и некоторые другие птицы, в неволе филины живут намного дольше . У взрослых особей обычно нет естественных врагов, поэтому они считаются высшими хищниками. Основными причинами гибели птиц являются смерть от удара электрическим током, дорожно-транспортные происшествия и браконьерство ."
             ],
             "imagesPaths": [
-                "./birdsData/filin/images/filin-1.jpeg",
-                "./birdsData/filin/images/filin-2.jpeg",
-                "./birdsData/filin/images/filin-3.jpeg",
-                "./birdsData/filin/images/filin-4.jpeg",
-                "./birdsData/filin/images/filin-5.jpeg"
+                "/birdsData/filin/images/filin-1.jpeg",
+                "/birdsData/filin/images/filin-2.jpeg",
+                "/birdsData/filin/images/filin-3.jpeg",
+                "/birdsData/filin/images/filin-4.jpeg",
+                "/birdsData/filin/images/filin-5.jpeg"
             ],
-            "audioPath": "./birdsData/filin/audio/filin.mp3"
+            "audioPath": "/birdsData/filin/audio/filin.mp3"
         },
         {
             "id": "Fifi",
@@ -3401,13 +3401,13 @@
                 "Питаются на мелководьях и влажной грязи в основном насекомыми и червями, а также мелкими моллюсками."
             ],
             "imagesPaths": [
-                "./birdsData/fifi/images/fifi-1.jpeg",
-                "./birdsData/fifi/images/fifi-2.jpeg",
-                "./birdsData/fifi/images/fifi-3.jpeg",
-                "./birdsData/fifi/images/fifi-4.jpeg",
-                "./birdsData/fifi/images/fifi-5.jpeg"
+                "/birdsData/fifi/images/fifi-1.jpeg",
+                "/birdsData/fifi/images/fifi-2.jpeg",
+                "/birdsData/fifi/images/fifi-3.jpeg",
+                "/birdsData/fifi/images/fifi-4.jpeg",
+                "/birdsData/fifi/images/fifi-5.jpeg"
             ],
-            "audioPath": "./birdsData/fifi/audio/fifi.mp3"
+            "audioPath": "/birdsData/fifi/audio/fifi.mp3"
         },
         {
             "id": "Caplya seraya",
@@ -3525,13 +3525,13 @@
                 "Серая цапля также нередко изображается на почтовых марках различных стран ."
             ],
             "imagesPaths": [
-                "./birdsData/caplya-seraya/images/caplya-seraya-1.jpeg",
-                "./birdsData/caplya-seraya/images/caplya-seraya-2.jpeg",
-                "./birdsData/caplya-seraya/images/caplya-seraya-3.jpeg",
-                "./birdsData/caplya-seraya/images/caplya-seraya-4.jpeg",
-                "./birdsData/caplya-seraya/images/caplya-seraya-5.jpeg"
+                "/birdsData/caplya-seraya/images/caplya-seraya-1.jpeg",
+                "/birdsData/caplya-seraya/images/caplya-seraya-2.jpeg",
+                "/birdsData/caplya-seraya/images/caplya-seraya-3.jpeg",
+                "/birdsData/caplya-seraya/images/caplya-seraya-4.jpeg",
+                "/birdsData/caplya-seraya/images/caplya-seraya-5.jpeg"
             ],
-            "audioPath": "./birdsData/caplya-seraya/audio/caplya-seraya.mp3"
+            "audioPath": "/birdsData/caplya-seraya/audio/caplya-seraya.mp3"
         },
         {
             "id": "Chayka malaya",
@@ -3543,13 +3543,13 @@
                 "Создать страницу «Чайка малая» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/chayka-malaya/images/chayka-malaya-1.jpeg",
-                "./birdsData/chayka-malaya/images/chayka-malaya-2.jpeg",
-                "./birdsData/chayka-malaya/images/chayka-malaya-3.jpeg",
-                "./birdsData/chayka-malaya/images/chayka-malaya-4.jpeg",
-                "./birdsData/chayka-malaya/images/chayka-malaya-5.jpeg"
+                "/birdsData/chayka-malaya/images/chayka-malaya-1.jpeg",
+                "/birdsData/chayka-malaya/images/chayka-malaya-2.jpeg",
+                "/birdsData/chayka-malaya/images/chayka-malaya-3.jpeg",
+                "/birdsData/chayka-malaya/images/chayka-malaya-4.jpeg",
+                "/birdsData/chayka-malaya/images/chayka-malaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/chayka-malaya/audio/chayka-malaya.mp3"
+            "audioPath": "/birdsData/chayka-malaya/audio/chayka-malaya.mp3"
         },
         {
             "id": "Cheglok",
@@ -3571,13 +3571,13 @@
                 "Выделяют два подвида чеглока:"
             ],
             "imagesPaths": [
-                "./birdsData/cheglok/images/cheglok-1.jpeg",
-                "./birdsData/cheglok/images/cheglok-2.jpeg",
-                "./birdsData/cheglok/images/cheglok-3.jpeg",
-                "./birdsData/cheglok/images/cheglok-4.jpeg",
-                "./birdsData/cheglok/images/cheglok-5.jpeg"
+                "/birdsData/cheglok/images/cheglok-1.jpeg",
+                "/birdsData/cheglok/images/cheglok-2.jpeg",
+                "/birdsData/cheglok/images/cheglok-3.jpeg",
+                "/birdsData/cheglok/images/cheglok-4.jpeg",
+                "/birdsData/cheglok/images/cheglok-5.jpeg"
             ],
-            "audioPath": "./birdsData/cheglok/audio/cheglok.mp3"
+            "audioPath": "/birdsData/cheglok/audio/cheglok.mp3"
         },
         {
             "id": "Chekan lugovoy",
@@ -3596,13 +3596,13 @@
                 "Иллюстрация"
             ],
             "imagesPaths": [
-                "./birdsData/chekan-lugovoy/images/chekan-lugovoy-1.jpeg",
-                "./birdsData/chekan-lugovoy/images/chekan-lugovoy-2.jpeg",
-                "./birdsData/chekan-lugovoy/images/chekan-lugovoy-3.jpeg",
-                "./birdsData/chekan-lugovoy/images/chekan-lugovoy-4.jpeg",
-                "./birdsData/chekan-lugovoy/images/chekan-lugovoy-5.jpeg"
+                "/birdsData/chekan-lugovoy/images/chekan-lugovoy-1.jpeg",
+                "/birdsData/chekan-lugovoy/images/chekan-lugovoy-2.jpeg",
+                "/birdsData/chekan-lugovoy/images/chekan-lugovoy-3.jpeg",
+                "/birdsData/chekan-lugovoy/images/chekan-lugovoy-4.jpeg",
+                "/birdsData/chekan-lugovoy/images/chekan-lugovoy-5.jpeg"
             ],
-            "audioPath": "./birdsData/chekan-lugovoy/audio/chekan-lugovoy.mp3"
+            "audioPath": "/birdsData/chekan-lugovoy/audio/chekan-lugovoy.mp3"
         },
         {
             "id": "Chernet morskaya",
@@ -3623,13 +3623,13 @@
                 "Выделяют 2 подвида морской чернети. Номинативый подвид A. m. marila Linnaeus 1761 распространён в северной Палеарктике. Американский подвид A. m. nearctica отличается от номинативного более интенсивным струйчатым рисунком на спине и плечах."
             ],
             "imagesPaths": [
-                "./birdsData/chernet-morskaya/images/chernet-morskaya-1.jpeg",
-                "./birdsData/chernet-morskaya/images/chernet-morskaya-2.jpeg",
-                "./birdsData/chernet-morskaya/images/chernet-morskaya-3.jpeg",
-                "./birdsData/chernet-morskaya/images/chernet-morskaya-4.jpeg",
-                "./birdsData/chernet-morskaya/images/chernet-morskaya-5.jpeg"
+                "/birdsData/chernet-morskaya/images/chernet-morskaya-1.jpeg",
+                "/birdsData/chernet-morskaya/images/chernet-morskaya-2.jpeg",
+                "/birdsData/chernet-morskaya/images/chernet-morskaya-3.jpeg",
+                "/birdsData/chernet-morskaya/images/chernet-morskaya-4.jpeg",
+                "/birdsData/chernet-morskaya/images/chernet-morskaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/chernet-morskaya/audio/chernet-morskaya.mp3"
+            "audioPath": "/birdsData/chernet-morskaya/audio/chernet-morskaya.mp3"
         },
         {
             "id": "Chernysh",
@@ -3641,13 +3641,13 @@
                 ".mw-parser-output .ts-Неоднозначность{width:100%;margin:1em 0;padding:0.5em;background:none;border-top:3px double #c8ccd1;border-bottom:3px double #c8ccd1}.mw-parser-output .ts-Неоднозначность-image,.mw-parser-output .ts-Неоднозначность-text{vertical-align:middle}.mw-parser-output .ts-Неоднозначность-image{width:30px}.mw-parser-output .ts-Неоднозначность-small-image{text-align:right}.mw-parser-output .ts-Неоднозначность-text{padding-left:0.5em;font-style:italic}"
             ],
             "imagesPaths": [
-                "./birdsData/chernysh/images/chernysh-1.jpeg",
-                "./birdsData/chernysh/images/chernysh-2.jpeg",
-                "./birdsData/chernysh/images/chernysh-3.jpeg",
-                "./birdsData/chernysh/images/chernysh-4.jpeg",
-                "./birdsData/chernysh/images/chernysh-5.jpeg"
+                "/birdsData/chernysh/images/chernysh-1.jpeg",
+                "/birdsData/chernysh/images/chernysh-2.jpeg",
+                "/birdsData/chernysh/images/chernysh-3.jpeg",
+                "/birdsData/chernysh/images/chernysh-4.jpeg",
+                "/birdsData/chernysh/images/chernysh-5.jpeg"
             ],
-            "audioPath": "./birdsData/chernysh/audio/chernysh.mp3"
+            "audioPath": "/birdsData/chernysh/audio/chernysh.mp3"
         },
         {
             "id": "Chechevica obyknovennaya",
@@ -3655,13 +3655,13 @@
             "nameInLatin": "Carpodacus erythrinus",
             "article": [],
             "imagesPaths": [
-                "./birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-1.jpeg",
-                "./birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-2.jpeg",
-                "./birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-3.jpeg",
-                "./birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-4.jpeg",
-                "./birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-5.jpeg"
+                "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-1.jpeg",
+                "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-2.jpeg",
+                "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-3.jpeg",
+                "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-4.jpeg",
+                "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/chechevica-obyknovennaya/audio/chechevica-obyknovennaya.mp3"
+            "audioPath": "/birdsData/chechevica-obyknovennaya/audio/chechevica-obyknovennaya.mp3"
         },
         {
             "id": "Chechetka obyknovennaya",
@@ -3678,13 +3678,13 @@
                 "У любителей встречаются нечасто, несмотря на то, что просты в содержании. Видимо, это связано с тем, что чечётки обладают незатейливой песенкой. Лучше содержать их стайкой в общем вольере с чижами, щеглами и другими мелкими вьюрковыми — тогда они представляют собой интересный объект для наблюдения. В садках и вольерах иногда дают потомство, получены также гибриды с канарейкой и другими вьюрковыми. Рекомендуется скрещивать самку чечётки с кенаром, так как при обратной комбинации (чечет+канарейка) птенцы погибают ещё в яйце или вскоре после вылупления. Желательно скрещивать чечётку с красным кенаром — тогда гибриды будут иметь красивую розовую окраску груди и шапочки. Пение гибридов — оживлённое, но не особо мелодичное."
             ],
             "imagesPaths": [
-                "./birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-1.jpeg",
-                "./birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-2.jpeg",
-                "./birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-3.jpeg",
-                "./birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-4.jpeg",
-                "./birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-5.jpeg"
+                "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-1.jpeg",
+                "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-2.jpeg",
+                "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-3.jpeg",
+                "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-4.jpeg",
+                "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/chechetka-obyknovennaya/audio/chechetka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/chechetka-obyknovennaya/audio/chechetka-obyknovennaya.mp3"
         },
         {
             "id": "Chibis",
@@ -3707,13 +3707,13 @@
                 "В Толковом словаре живого великорусского языка Владимира Даля посвященная чибису статья (озаглавленная «чибез») содержит, в частности, целый ряд народных диалектных названий этой птицы:ЧИБЕЗ, чибис м. болотная птица Vanellus cristatus, пигалица, пигалка, вьюха, олон. книгалка зап. пивик ряз. луговка влад. настовица костр. чайка южн. Чибез серый, Squatarola grisea, кряхтун, кречетка. Чибеза с вечера кричат — к ясной погоде. Чибезовое гнездо, — жарко́е. Французы все охотники до чибезины, мяса. Чибезенок, мн. чибезята, чибезиные цыплята. Чибесить пск. торопить?"
             ],
             "imagesPaths": [
-                "./birdsData/chibis/images/chibis-1.jpeg",
-                "./birdsData/chibis/images/chibis-2.jpeg",
-                "./birdsData/chibis/images/chibis-3.jpeg",
-                "./birdsData/chibis/images/chibis-4.jpeg",
-                "./birdsData/chibis/images/chibis-5.jpeg"
+                "/birdsData/chibis/images/chibis-1.jpeg",
+                "/birdsData/chibis/images/chibis-2.jpeg",
+                "/birdsData/chibis/images/chibis-3.jpeg",
+                "/birdsData/chibis/images/chibis-4.jpeg",
+                "/birdsData/chibis/images/chibis-5.jpeg"
             ],
-            "audioPath": "./birdsData/chibis/audio/chibis.mp3"
+            "audioPath": "/birdsData/chibis/audio/chibis.mp3"
         },
         {
             "id": "Chizh",
@@ -3735,13 +3735,13 @@
                 "В домашних условиях чижи питаются рапсом, канареечным семенем, семенами льна."
             ],
             "imagesPaths": [
-                "./birdsData/chizh/images/chizh-1.jpeg",
-                "./birdsData/chizh/images/chizh-2.jpeg",
-                "./birdsData/chizh/images/chizh-3.jpeg",
-                "./birdsData/chizh/images/chizh-4.jpeg",
-                "./birdsData/chizh/images/chizh-5.jpeg"
+                "/birdsData/chizh/images/chizh-1.jpeg",
+                "/birdsData/chizh/images/chizh-2.jpeg",
+                "/birdsData/chizh/images/chizh-3.jpeg",
+                "/birdsData/chizh/images/chizh-4.jpeg",
+                "/birdsData/chizh/images/chizh-5.jpeg"
             ],
-            "audioPath": "./birdsData/chizh/audio/chizh.mp3"
+            "audioPath": "/birdsData/chizh/audio/chizh.mp3"
         },
         {
             "id": "Chirok-svistunok",
@@ -3770,13 +3770,13 @@
                 "Чирок-свистунок был впервые научно описан шведским врачом и натуралистом Карлом Линнеем в 1758 году в десятом издании его Системы природы. В этом труде Линней определил его как «утку с зелёным зеркалом и белой полосой над и под глазом», а первое упоминание об этом виде можно найти в его более ранней работе «Фауна Швеции» (Fauna Svecica). Видовое название crecca является звукоподражанием крика самца, аналогичное название птицы имеется в ряде европейских языков — шведском («kricka»), букмол («krikkand»), датском («krikand») и немецком («krickente»). Русское название свистунок также относится к способности селезня к характерному свисту."
             ],
             "imagesPaths": [
-                "./birdsData/chirok-svistunok/images/chirok-svistunok-1.jpeg",
-                "./birdsData/chirok-svistunok/images/chirok-svistunok-2.jpeg",
-                "./birdsData/chirok-svistunok/images/chirok-svistunok-3.jpeg",
-                "./birdsData/chirok-svistunok/images/chirok-svistunok-4.jpeg",
-                "./birdsData/chirok-svistunok/images/chirok-svistunok-5.jpeg"
+                "/birdsData/chirok-svistunok/images/chirok-svistunok-1.jpeg",
+                "/birdsData/chirok-svistunok/images/chirok-svistunok-2.jpeg",
+                "/birdsData/chirok-svistunok/images/chirok-svistunok-3.jpeg",
+                "/birdsData/chirok-svistunok/images/chirok-svistunok-4.jpeg",
+                "/birdsData/chirok-svistunok/images/chirok-svistunok-5.jpeg"
             ],
-            "audioPath": "./birdsData/chirok-svistunok/audio/chirok-svistunok.mp3"
+            "audioPath": "/birdsData/chirok-svistunok/audio/chirok-svistunok.mp3"
         },
         {
             "id": "Shilohvost",
@@ -3797,13 +3797,13 @@
                 "Основной участок ареала на территории Евразии начинается в Скандинавии и тянется к востоку до восточного побережья материка, а также охватывает Командорские, Курильские острова и Сахалин. На территории России утка гнездится почти повсеместно, однако крайне неравномерно — так, в средней Сибири птица наиболее обычна в северной тайге и лесотундре, а в тундре, южной тайге и подтайге встречается значительно реже. На территории России шилохвость не гнездится вовсе на Ямале севернее 71° с. ш., Таймыре севернее 74° с. ш., "
             ],
             "imagesPaths": [
-                "./birdsData/shilohvost/images/shilohvost-1.jpeg",
-                "./birdsData/shilohvost/images/shilohvost-2.jpeg",
-                "./birdsData/shilohvost/images/shilohvost-3.jpeg",
-                "./birdsData/shilohvost/images/shilohvost-4.jpeg",
-                "./birdsData/shilohvost/images/shilohvost-5.jpeg"
+                "/birdsData/shilohvost/images/shilohvost-1.jpeg",
+                "/birdsData/shilohvost/images/shilohvost-2.jpeg",
+                "/birdsData/shilohvost/images/shilohvost-3.jpeg",
+                "/birdsData/shilohvost/images/shilohvost-4.jpeg",
+                "/birdsData/shilohvost/images/shilohvost-5.jpeg"
             ],
-            "audioPath": "./birdsData/shilohvost/audio/shilohvost.mp3"
+            "audioPath": "/birdsData/shilohvost/audio/shilohvost.mp3"
         },
         {
             "id": "Shirokonoska",
@@ -3824,13 +3824,13 @@
                 "Излюбленные биотопы — открытые водоёмы степной и лесостепной зоны, где широконоски наиболее многочисленны. В полосе лесов обитает на мелководье открытых озёр и в широких поймах рек. В тундре встречается только на северо-востоке Европы. Предпочтение отдаёт водоёмам с растительностью, однако с открытыми водными пространствами. Избегает лесных рек и озёр с плотно подступившим лесом. В период зимней миграции держится на лиманах, морских побережьях в зоне прилива и болотах с пресной или солёной водой."
             ],
             "imagesPaths": [
-                "./birdsData/shirokonoska/images/shirokonoska-1.jpeg",
-                "./birdsData/shirokonoska/images/shirokonoska-2.jpeg",
-                "./birdsData/shirokonoska/images/shirokonoska-3.jpeg",
-                "./birdsData/shirokonoska/images/shirokonoska-4.jpeg",
-                "./birdsData/shirokonoska/images/shirokonoska-5.jpeg"
+                "/birdsData/shirokonoska/images/shirokonoska-1.jpeg",
+                "/birdsData/shirokonoska/images/shirokonoska-2.jpeg",
+                "/birdsData/shirokonoska/images/shirokonoska-3.jpeg",
+                "/birdsData/shirokonoska/images/shirokonoska-4.jpeg",
+                "/birdsData/shirokonoska/images/shirokonoska-5.jpeg"
             ],
-            "audioPath": "./birdsData/shirokonoska/audio/shirokonoska.mp3"
+            "audioPath": "/birdsData/shirokonoska/audio/shirokonoska.mp3"
         },
         {
             "id": "Schegol chernogolovyy",
@@ -3842,13 +3842,13 @@
                 "Создать страницу «Щегол черноголовый» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-1.jpeg",
-                "./birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-2.jpeg",
-                "./birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-3.jpeg",
-                "./birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-4.jpeg",
-                "./birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-5.jpeg"
+                "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-1.jpeg",
+                "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-2.jpeg",
+                "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-3.jpeg",
+                "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-4.jpeg",
+                "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/schegol-chernogolovyy/audio/schegol-chernogolovyy.mp3"
+            "audioPath": "/birdsData/schegol-chernogolovyy/audio/schegol-chernogolovyy.mp3"
         },
         {
             "id": "Schur obyknovennyy",
@@ -3860,13 +3860,13 @@
                 "Создать страницу «Щур обыкновенный» (страницы, начинающиеся с этого названия • ссылающиеся на это название)"
             ],
             "imagesPaths": [
-                "./birdsData/schur-obyknovennyy/images/schur-obyknovennyy-1.jpeg",
-                "./birdsData/schur-obyknovennyy/images/schur-obyknovennyy-2.jpeg",
-                "./birdsData/schur-obyknovennyy/images/schur-obyknovennyy-3.jpeg",
-                "./birdsData/schur-obyknovennyy/images/schur-obyknovennyy-4.jpeg",
-                "./birdsData/schur-obyknovennyy/images/schur-obyknovennyy-5.jpeg"
+                "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-1.jpeg",
+                "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-2.jpeg",
+                "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-3.jpeg",
+                "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-4.jpeg",
+                "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "./birdsData/schur-obyknovennyy/audio/schur-obyknovennyy.mp3"
+            "audioPath": "/birdsData/schur-obyknovennyy/audio/schur-obyknovennyy.mp3"
         },
         {
             "id": "Schurka zolotistaya",
@@ -3886,13 +3886,13 @@
                 "Самец передаёт угощение самке"
             ],
             "imagesPaths": [
-                "./birdsData/schurka-zolotistaya/images/schurka-zolotistaya-1.jpeg",
-                "./birdsData/schurka-zolotistaya/images/schurka-zolotistaya-2.jpeg",
-                "./birdsData/schurka-zolotistaya/images/schurka-zolotistaya-3.jpeg",
-                "./birdsData/schurka-zolotistaya/images/schurka-zolotistaya-4.jpeg",
-                "./birdsData/schurka-zolotistaya/images/schurka-zolotistaya-5.jpeg"
+                "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-1.jpeg",
+                "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-2.jpeg",
+                "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-3.jpeg",
+                "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-4.jpeg",
+                "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-5.jpeg"
             ],
-            "audioPath": "./birdsData/schurka-zolotistaya/audio/schurka-zolotistaya.mp3"
+            "audioPath": "/birdsData/schurka-zolotistaya/audio/schurka-zolotistaya.mp3"
         },
         {
             "id": "Yurok",
@@ -3902,13 +3902,13 @@
                 "Юро́к:"
             ],
             "imagesPaths": [
-                "./birdsData/yurok/images/yurok-1.jpeg",
-                "./birdsData/yurok/images/yurok-2.jpeg",
-                "./birdsData/yurok/images/yurok-3.jpeg",
-                "./birdsData/yurok/images/yurok-4.jpeg",
-                "./birdsData/yurok/images/yurok-5.jpeg"
+                "/birdsData/yurok/images/yurok-1.jpeg",
+                "/birdsData/yurok/images/yurok-2.jpeg",
+                "/birdsData/yurok/images/yurok-3.jpeg",
+                "/birdsData/yurok/images/yurok-4.jpeg",
+                "/birdsData/yurok/images/yurok-5.jpeg"
             ],
-            "audioPath": "./birdsData/yurok/audio/yurok.mp3"
+            "audioPath": "/birdsData/yurok/audio/yurok.mp3"
         },
         {
             "id": "Yastreb-perepelyatnik",
@@ -3927,13 +3927,13 @@
                 "Малый ястреб является оседлой птицей и приступает к гнездованию довольно поздно, а именно в мае. Гнездо рыхлое, довольно глубокое, построено из беспорядочно выложенных веточек хвои, а иногда и сухой травы. Диаметр гнезда 380—400 мм и высота примерно такая же. Свежие веточки не присутствуют в постройке, это делает гнездо отличным от того, который строится ястребом-тетеревятником (Accipiter gentilis). Гнездо маленького ястреба можно обнаружить по останкам съеденной добычи — маленьких птиц. Самка откладывает в гнездо 4—6 матово-белых яиц с охристыми или тёмно-бурыми пятнами разной величины. Размеры яиц 37—43 х 30—33 мм. Инкубация яиц продолжается около 32 суток. Птенцы появляются на свет в конце июня — начале июля. В первой половине августа птенцы уже способны летать."
             ],
             "imagesPaths": [
-                "./birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-1.jpeg",
-                "./birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-2.jpeg",
-                "./birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-3.jpeg",
-                "./birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-4.jpeg",
-                "./birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-5.jpeg"
+                "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-1.jpeg",
+                "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-2.jpeg",
+                "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-3.jpeg",
+                "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-4.jpeg",
+                "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-5.jpeg"
             ],
-            "audioPath": "./birdsData/yastreb-perepelyatnik/audio/yastreb-perepelyatnik.mp3"
+            "audioPath": "/birdsData/yastreb-perepelyatnik/audio/yastreb-perepelyatnik.mp3"
         }
     ]
 }

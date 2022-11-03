@@ -1,0 +1,35 @@
+.main {
+  background-color: #95b196;
+}
+
+.header {
+  width: 100%;
+  height: 70px;
+
+  background-color: black;
+}
+
+.main .birdInfo {
+  width: 95%;
+  margin-left: auto;
+  margin-top: 30px;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 3fr 6fr;
+  grid-template-areas: "sliderSideBar text";
+
+  background-color: #5d6c5d;
+  box-shadow: 0px 0px 10px #000;
+}
+
+.main .birdInfo .sliderSideBar {
+  grid-area: "sliderSideBar";
+}
+
+.main .birdInfo .text {
+  grid-area: "text";
+  text-align: center;
+  font-size: 1.5rem;
+
+  color: #fff;
+}

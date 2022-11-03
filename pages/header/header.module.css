@@ -1,0 +1,38 @@
+.header {
+  display: grid;
+  grid-template-columns: 2fr 6fr 3fr;
+  height: 70px;
+  padding: 0px 10px;
+
+  background-color: #000;
+}
+
+.header .filterByLetter {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+.header .filterByLetter .letter {
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+}
+
+.header .filterByLetter .selected {
+  color: #6b0b3d;
+}
+
+.header .searchByName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header .searchByName input {
+  width: 80%;
+  min-width: 135px;
+  max-width: 250px;
+  height: 32px;
+}

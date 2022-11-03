@@ -1,33 +1,70 @@
 import Link from "next/link";
-import React  from "react";
+import React from "react";
 import { kebabCase } from "../../utils";
+import styles from "./[id].module.css";
 
 export default function BirdPage(props: any) {
   return (
-    <div>
-      <h1>Hello, current bird is {props.bird.name}</h1><br/>
+    <div className={styles.main}>
+      <div className={styles.header}>
+        <div className={styles.logo}>
+          <img src="../../assets/images/logo.png" />
+        </div>
+      </div>
+      <div className={styles.birdInfo}>
+        <div className={styles.sliderSideBar}>
+          <div className={styles.slider}>
+            <img src={`${props.bird.imagesPaths[0]}`} />
+          </div>
+          <div className={styles.audio}>
+            <input type="button" value="слушать" />
+          </div>
+          <div className={styles.seeAlso}>
+            Смотри также:
+            <div className={styles.anotherBird}>
+              <img src="#" />
+              name
+            </div>
+            <div className={styles.anotherBird}>
+              <img src="#" />
+              name
+            </div>
+          </div>
+        </div>
+        <div className={styles.text}>
+          <h1>{props.bird.name}</h1>
+          <h2>{props.bird.nameInLatin}</h2>
+          {props.bird.article.map((p: { id: string }) => {
+            return <p>{p}</p>;
+          })}
+        </div>
+      </div>
       <Link href="/">На главную</Link>
     </div>
-  )
+  );
 }
 
 export async function getStaticProps(context: any) {
-  const { birds } = require('../../database/birdsJSON');
-  const currentBird = birds.find(bird => kebabCase(bird.id) === context.params.id);
+  const { birds } = require("../../database/birdsJSON");
+  const currentBird = birds.find(
+    (bird: { id: any }) => kebabCase(bird.id) === context.params.id
+  );
 
   return {
     props: {
-      bird: currentBird
-    }
-  }
+      bird: currentBird,
+    },
+  };
 }
 
 export async function getStaticPaths() {
-  const { birds } = require('../../database/birdsJSON');
-  const paths = birds.map(bird => ({ params: { id: kebabCase(bird.id) } }));
+  const { birds } = require("../../database/birdsJSON");
+  const paths = birds.map((bird: { id: any }) => ({
+    params: { id: kebabCase(bird.id) },
+  }));
 
   return {
     paths,
     fallback: false, // can also be true or 'blocking'
-  }
+  };
 }
