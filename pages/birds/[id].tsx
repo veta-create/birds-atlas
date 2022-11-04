@@ -17,19 +17,23 @@ export default function BirdPage(props: any) {
             <img src={`${props.bird.imagesPaths[0]}`} />
           </div>
           <div className={styles.audio}>
-            <input type="button" value="слушать" />
+            <button>нажмите, чтобы слушать</button>
           </div>
           <div className={styles.seeAlso}>
             Смотри также:
-            <div className={styles.anotherBird}>
-              <img src="#" />
-              name
-            </div>
-            <div className={styles.anotherBird}>
-              <img src="#" />
-              name
+            <div className={styles.anotherBirds}>
+              <div className={styles.anotherBird}>
+                <img src="#" />
+                Кукушка обыкновенная
+              </div>
+              <div className={styles.anotherBird}>
+                <img src="#" />
+                name
+              </div>
             </div>
           </div>
+
+          <Link href="/">На главную</Link>
         </div>
         <div className={styles.text}>
           <h1>{props.bird.name}</h1>
@@ -39,7 +43,6 @@ export default function BirdPage(props: any) {
           })}
         </div>
       </div>
-      <Link href="/">На главную</Link>
     </div>
   );
 }

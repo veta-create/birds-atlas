@@ -1,5 +1,6 @@
 .main {
-  background-color: #95b196;
+  background: url(../../assets/images/wood.jpg), rgba(69, 67, 67, 0.1);
+  background-blend-mode: color;
 }
 
 .header {
@@ -15,21 +16,84 @@
   margin-top: 30px;
   margin-right: auto;
   display: grid;
-  grid-template-columns: 3fr 6fr;
+  grid-template-columns: 4fr 6fr;
   grid-template-areas: "sliderSideBar text";
 
   background-color: #5d6c5d;
   box-shadow: 0px 0px 10px #000;
 }
 
+.main .birdInfo a {
+  font-size: 1.5rem;
+
+  color: #fff;
+}
+
+.main .birdInfo a:hover {
+  color: #6b0b3d;
+}
+
 .main .birdInfo .sliderSideBar {
   grid-area: "sliderSideBar";
+  padding: 50px 30px;
+}
+
+.main .birdInfo .sliderSideBar .slider {
+  width: 465px;
+  height: 350px;
+
+  background-color: rgb(38, 38, 38);
+  border: 5px solid rgb(77, 76, 76);
+}
+
+.main .birdInfo .sliderSideBar .slider img {
+  width: 100%;
+  height: 100%;
+  filter: saturate(0.8);
+}
+
+.main .birdInfo .sliderSideBar .audio button {
+  width: 300px;
+  height: 40px;
+  margin-top: 40px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
 }
 
 .main .birdInfo .text {
   grid-area: "text";
   text-align: center;
+  padding: 20px 20px;
   font-size: 1.5rem;
 
   color: #fff;
+}
+
+.main .birdInfo .text h2 {
+  font-weight: normal;
+  font-style: italic;
+}
+
+.main .birdInfo .sliderSideBar .seeAlso {
+  margin-top: 50px;
+  font-size: 1.3rem;
+
+  color: #fff;
+}
+
+.main .birdInfo .sliderSideBar .seeAlso .anotherBirds {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+
+  color: #000;
+}
+
+.main .birdInfo .sliderSideBar .seeAlso .anotherBirds .anotherBird {
+  width: 45%;
+  height: 125px;
+
+  background-color: #fff;
 }
