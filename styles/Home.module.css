@@ -1,4 +1,4 @@
-.overlayContent {
+.content {
   padding-top: 20px;
   opacity: 1;
   text-align: center;
@@ -8,9 +8,10 @@
   background-image: url(../assets/images/birds-container.png);
   background-repeat: no-repeat;
   background-position: 50% 100%;
+  box-shadow: 0px 0px 20px #000;
 }
 
-.overlayContent nav {
+.content nav {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -18,12 +19,12 @@
   gap: 12px;
 }
 
-.overlayContent .birdCard {
+.content .birdCard {
   width: 280px;
   height: 320px;
 }
 
-.overlayContent .birdCard .player {
+.content .birdCard .player {
   width: 280px;
   height: 280px;
 
@@ -31,14 +32,40 @@
   border-radius: 25px;
 }
 
-.overlayContent .birdCard a {
-  font-size: 1.5rem;
+.content .birdCard .player .photo {
+  width: 280px;
+  height: 280px;
+  filter: contrast(1.2);
+
+  border-radius: 25px;
+}
+
+.content .birdCard a {
+  font-size: 1.3rem;
   text-decoration: none;
 
   color: #fff;
 }
 
-.overlayContent .birdCard a:hover {
+.content .birdCard a:hover {
   font-weight: bold;
-  color: #6b0b3d;;
+  color: #6b0b3d;
+}
+
+.content .filterByLetter {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  padding-bottom: 20px;
+}
+
+.content .filterByLetter .letter {
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+}
+
+.content .filterByLetter .selected {
+  color: #6b0b3d;
 }
