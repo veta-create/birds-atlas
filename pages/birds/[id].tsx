@@ -2,9 +2,12 @@ import Link from "next/link";
 import React from "react";
 import { kebabCase } from "../../utils";
 import styles from "./[id].module.css";
+import { Swiper, SwiperSlide } from "swiper/react";
+import SwiperCore, { Autoplay } from "swiper";
+import "swiper/css";
 
 export default function BirdPage(props: any) {
-
+  SwiperCore.use([Autoplay]);
   return (
     <div className={styles.main}>
       <div className={styles.header}>
@@ -14,12 +17,26 @@ export default function BirdPage(props: any) {
       </div>
       <div className={styles.birdInfo}>
         <div className={styles.sliderSideBar}>
-          <div className={styles.slider}>
-            <img src={`${props.bird.imagesPaths[0]}`} />
-          </div>
+          <Swiper
+            modules={[Autoplay]}
+            autoplay
+            spaceBetween={5}
+            slidesPerView={1}
+            className={styles.slider}
+          >
+            {props.bird.imagesPaths.map((p: string) => {
+              return (
+                <SwiperSlide className={styles.slide}>
+                  <img src={p} alt="bird" />
+                </SwiperSlide>
+              );
+            })}
+          </Swiper>
+
           <div className={styles.audio}>
-            <audio controls src={props.bird.audioPath}>AUDIO</audio>
-            {/* controls нужен */}
+            <audio controls src={props.bird.audioPath}>
+              AUDIO
+            </audio>
           </div>
           <div className={styles.seeAlso}>
             Смотри также:
@@ -58,7 +75,7 @@ export async function getStaticProps(context: any) {
   return {
     props: {
       bird: currentBird,
-      birds
+      birds,
     },
   };
 }

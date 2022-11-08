@@ -29,7 +29,8 @@
                 "/birdsData/aist-belyy/images/aist-belyy-4.jpeg",
                 "/birdsData/aist-belyy/images/aist-belyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/aist-belyy/audio/aist-belyy.mp3"
+            "audioPath": "/birdsData/aist-belyy/audio/aist-belyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Aist chernyy",
@@ -54,7 +55,8 @@
                 "/birdsData/aist-chernyy/images/aist-chernyy-4.jpeg",
                 "/birdsData/aist-chernyy/images/aist-chernyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/aist-chernyy/audio/aist-chernyy.mp3"
+            "audioPath": "/birdsData/aist-chernyy/audio/aist-chernyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Baklan bolshoy",
@@ -72,7 +74,8 @@
                 "/birdsData/baklan-bolshoy/images/baklan-bolshoy-4.jpeg",
                 "/birdsData/baklan-bolshoy/images/baklan-bolshoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/baklan-bolshoy/audio/baklan-bolshoy.mp3"
+            "audioPath": "/birdsData/baklan-bolshoy/audio/baklan-bolshoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Bekas",
@@ -91,7 +94,8 @@
                 "/birdsData/bekas/images/bekas-4.jpeg",
                 "/birdsData/bekas/images/bekas-5.jpeg"
             ],
-            "audioPath": "/birdsData/bekas/audio/bekas.mp3"
+            "audioPath": "/birdsData/bekas/audio/bekas.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Berkut",
@@ -157,7 +161,8 @@
                 "/birdsData/berkut/images/berkut-4.jpeg",
                 "/birdsData/berkut/images/berkut-5.jpeg"
             ],
-            "audioPath": "/birdsData/berkut/audio/berkut.mp3"
+            "audioPath": "/birdsData/berkut/audio/berkut.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Voron",
@@ -222,7 +227,8 @@
                 "/birdsData/voron/images/voron-4.jpeg",
                 "/birdsData/voron/images/voron-5.jpeg"
             ],
-            "audioPath": "/birdsData/voron/audio/voron.mp3"
+            "audioPath": "/birdsData/voron/audio/voron.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Vorona seraya",
@@ -252,7 +258,8 @@
                 "/birdsData/vorona-seraya/images/vorona-seraya-4.jpeg",
                 "/birdsData/vorona-seraya/images/vorona-seraya-5.jpeg"
             ],
-            "audioPath": "/birdsData/vorona-seraya/audio/vorona-seraya.mp3"
+            "audioPath": "/birdsData/vorona-seraya/audio/vorona-seraya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Gaga obyknovennaya",
@@ -304,7 +311,8 @@
                 "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-4.jpeg",
                 "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/gaga-obyknovennaya/audio/gaga-obyknovennaya.mp3"
+            "audioPath": "/birdsData/gaga-obyknovennaya/audio/gaga-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Gagara krasnozobaya",
@@ -352,7 +360,8 @@
                 "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-4.jpeg",
                 "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/gagara-krasnozobaya/audio/gagara-krasnozobaya.mp3"
+            "audioPath": "/birdsData/gagara-krasnozobaya/audio/gagara-krasnozobaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Gogol obyknovennyy",
@@ -380,7 +389,8 @@
                 "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-4.jpeg",
                 "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/gogol-obyknovennyy/audio/gogol-obyknovennyy.mp3"
+            "audioPath": "/birdsData/gogol-obyknovennyy/audio/gogol-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Grach",
@@ -409,7 +419,8 @@
                 "/birdsData/grach/images/grach-4.jpeg",
                 "/birdsData/grach/images/grach-5.jpeg"
             ],
-            "audioPath": "/birdsData/grach/audio/grach.mp3"
+            "audioPath": "/birdsData/grach/audio/grach.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Gumennik",
@@ -431,7 +442,8 @@
                 "/birdsData/gumennik/images/gumennik-4.jpeg",
                 "/birdsData/gumennik/images/gumennik-5.jpeg"
             ],
-            "audioPath": "/birdsData/gumennik/audio/gumennik.mp3"
+            "audioPath": "/birdsData/gumennik/audio/gumennik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Gus belolobyy",
@@ -449,7 +461,8 @@
                 "/birdsData/gus-belolobyy/images/gus-belolobyy-4.jpeg",
                 "/birdsData/gus-belolobyy/images/gus-belolobyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/gus-belolobyy/audio/gus-belolobyy.mp3"
+            "audioPath": "/birdsData/gus-belolobyy/audio/gus-belolobyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Derbnik",
@@ -483,7 +496,8 @@
                 "/birdsData/derbnik/images/derbnik-4.jpeg",
                 "/birdsData/derbnik/images/derbnik-5.jpeg"
             ],
-            "audioPath": "/birdsData/derbnik/audio/derbnik.mp3"
+            "audioPath": "/birdsData/derbnik/audio/derbnik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Drozd-belobrovik",
@@ -524,7 +538,8 @@
                 "/birdsData/drozd-belobrovik/images/drozd-belobrovik-4.jpeg",
                 "/birdsData/drozd-belobrovik/images/drozd-belobrovik-5.jpeg"
             ],
-            "audioPath": "/birdsData/drozd-belobrovik/audio/drozd-belobrovik.mp3"
+            "audioPath": "/birdsData/drozd-belobrovik/audio/drozd-belobrovik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Dubonos obyknovennyy",
@@ -542,7 +557,8 @@
                 "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-4.jpeg",
                 "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/dubonos-obyknovennyy/audio/dubonos-obyknovennyy.mp3"
+            "audioPath": "/birdsData/dubonos-obyknovennyy/audio/dubonos-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Dubrovnik",
@@ -620,7 +636,8 @@
                 "/birdsData/dubrovnik/images/dubrovnik-4.jpeg",
                 "/birdsData/dubrovnik/images/dubrovnik-5.jpeg"
             ],
-            "audioPath": "/birdsData/dubrovnik/audio/dubrovnik.mp3"
+            "audioPath": "/birdsData/dubrovnik/audio/dubrovnik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Dupel",
@@ -642,7 +659,8 @@
                 "/birdsData/dupel/images/dupel-4.jpeg",
                 "/birdsData/dupel/images/dupel-5.jpeg"
             ],
-            "audioPath": "/birdsData/dupel/audio/dupel.mp3"
+            "audioPath": "/birdsData/dupel/audio/dupel.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Dyatel belospinnyy",
@@ -670,7 +688,8 @@
                 "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-4.jpeg",
                 "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/dyatel-belospinnyy/audio/dyatel-belospinnyy.mp3"
+            "audioPath": "/birdsData/dyatel-belospinnyy/audio/dyatel-belospinnyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zhavoronok lesnoy (Yula)",
@@ -688,7 +707,8 @@
                 "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-4.jpeg",
                 "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-5.jpeg"
             ],
-            "audioPath": "/birdsData/zhavoronok-lesnoy-(yula)/audio/zhavoronok-lesnoy-(yula).mp3"
+            "audioPath": "/birdsData/zhavoronok-lesnoy-(yula)/audio/zhavoronok-lesnoy-(yula).mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zhulan obyknovennyy",
@@ -711,7 +731,8 @@
                 "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-4.jpeg",
                 "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/zhulan-obyknovennyy/audio/zhulan-obyknovennyy.mp3"
+            "audioPath": "/birdsData/zhulan-obyknovennyy/audio/zhulan-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zhuravl seryy",
@@ -740,7 +761,8 @@
                 "/birdsData/zhuravl-seryy/images/zhuravl-seryy-4.jpeg",
                 "/birdsData/zhuravl-seryy/images/zhuravl-seryy-5.jpeg"
             ],
-            "audioPath": "/birdsData/zhuravl-seryy/audio/zhuravl-seryy.mp3"
+            "audioPath": "/birdsData/zhuravl-seryy/audio/zhuravl-seryy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zavirushka lesnaya",
@@ -769,7 +791,8 @@
                 "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-4.jpeg",
                 "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/zavirushka-lesnaya/audio/zavirushka-lesnaya.mp3"
+            "audioPath": "/birdsData/zavirushka-lesnaya/audio/zavirushka-lesnaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zaryanka, ili malinovka",
@@ -787,7 +810,8 @@
                 "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-4.jpeg",
                 "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-5.jpeg"
             ],
-            "audioPath": "/birdsData/zaryanka,-ili-malinovka/audio/zaryanka,-ili-malinovka.mp3"
+            "audioPath": "/birdsData/zaryanka,-ili-malinovka/audio/zaryanka,-ili-malinovka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zelenushka obyknovennaya",
@@ -813,7 +837,8 @@
                 "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-4.jpeg",
                 "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/zelenushka-obyknovennaya/audio/zelenushka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/zelenushka-obyknovennaya/audio/zelenushka-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zimnyak",
@@ -834,7 +859,8 @@
                 "/birdsData/zimnyak/images/zimnyak-4.jpeg",
                 "/birdsData/zimnyak/images/zimnyak-5.jpeg"
             ],
-            "audioPath": "/birdsData/zimnyak/audio/zimnyak.mp3"
+            "audioPath": "/birdsData/zimnyak/audio/zimnyak.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zimorodok obyknovennyy",
@@ -866,7 +892,8 @@
                 "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-4.jpeg",
                 "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/zimorodok-obyknovennyy/audio/zimorodok-obyknovennyy.mp3"
+            "audioPath": "/birdsData/zimorodok-obyknovennyy/audio/zimorodok-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zuek malyy",
@@ -886,7 +913,8 @@
                 "/birdsData/zuek-malyy/images/zuek-malyy-4.jpeg",
                 "/birdsData/zuek-malyy/images/zuek-malyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/zuek-malyy/audio/zuek-malyy.mp3"
+            "audioPath": "/birdsData/zuek-malyy/audio/zuek-malyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Zyablik",
@@ -937,7 +965,8 @@
                 "/birdsData/zyablik/images/zyablik-4.jpeg",
                 "/birdsData/zyablik/images/zyablik-5.jpeg"
             ],
-            "audioPath": "/birdsData/zyablik/audio/zyablik.mp3"
+            "audioPath": "/birdsData/zyablik/audio/zyablik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Ivolga obyknovennaya",
@@ -971,7 +1000,8 @@
                 "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-4.jpeg",
                 "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/ivolga-obyknovennaya/audio/ivolga-obyknovennaya.mp3"
+            "audioPath": "/birdsData/ivolga-obyknovennaya/audio/ivolga-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kazarka beloschekaya",
@@ -989,7 +1019,8 @@
                 "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-4.jpeg",
                 "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/kazarka-beloschekaya/audio/kazarka-beloschekaya.mp3"
+            "audioPath": "/birdsData/kazarka-beloschekaya/audio/kazarka-beloschekaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kamenka obyknovennaya",
@@ -1011,7 +1042,8 @@
                 "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-4.jpeg",
                 "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/kamenka-obyknovennaya/audio/kamenka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/kamenka-obyknovennaya/audio/kamenka-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kamyshnica",
@@ -1051,7 +1083,8 @@
                 "/birdsData/kamyshnica/images/kamyshnica-4.jpeg",
                 "/birdsData/kamyshnica/images/kamyshnica-5.jpeg"
             ],
-            "audioPath": "/birdsData/kamyshnica/audio/kamyshnica.mp3"
+            "audioPath": "/birdsData/kamyshnica/audio/kamyshnica.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kamyshovka-barsuchok",
@@ -1072,7 +1105,8 @@
                 "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-4.jpeg",
                 "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-5.jpeg"
             ],
-            "audioPath": "/birdsData/kamyshovka-barsuchok/audio/kamyshovka-barsuchok.mp3"
+            "audioPath": "/birdsData/kamyshovka-barsuchok/audio/kamyshovka-barsuchok.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kanyuk obyknovennyy",
@@ -1094,7 +1128,8 @@
                 "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-4.jpeg",
                 "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/kanyuk-obyknovennyy/audio/kanyuk-obyknovennyy.mp3"
+            "audioPath": "/birdsData/kanyuk-obyknovennyy/audio/kanyuk-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kedrovka",
@@ -1118,7 +1153,8 @@
                 "/birdsData/kedrovka/images/kedrovka-4.jpeg",
                 "/birdsData/kedrovka/images/kedrovka-5.jpeg"
             ],
-            "audioPath": "/birdsData/kedrovka/audio/kedrovka.mp3"
+            "audioPath": "/birdsData/kedrovka/audio/kedrovka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Klest belokrylyy",
@@ -1136,7 +1172,8 @@
                 "/birdsData/klest-belokrylyy/images/klest-belokrylyy-4.jpeg",
                 "/birdsData/klest-belokrylyy/images/klest-belokrylyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/klest-belokrylyy/audio/klest-belokrylyy.mp3"
+            "audioPath": "/birdsData/klest-belokrylyy/audio/klest-belokrylyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Klintuh",
@@ -1163,7 +1200,8 @@
                 "/birdsData/klintuh/images/klintuh-4.jpeg",
                 "/birdsData/klintuh/images/klintuh-5.jpeg"
             ],
-            "audioPath": "/birdsData/klintuh/audio/klintuh.mp3"
+            "audioPath": "/birdsData/klintuh/audio/klintuh.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kobchik",
@@ -1183,7 +1221,8 @@
                 "/birdsData/kobchik/images/kobchik-4.jpeg",
                 "/birdsData/kobchik/images/kobchik-5.jpeg"
             ],
-            "audioPath": "/birdsData/kobchik/audio/kobchik.mp3"
+            "audioPath": "/birdsData/kobchik/audio/kobchik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kozodoy obyknovennyy",
@@ -1220,7 +1259,8 @@
                 "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-4.jpeg",
                 "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/kozodoy-obyknovennyy/audio/kozodoy-obyknovennyy.mp3"
+            "audioPath": "/birdsData/kozodoy-obyknovennyy/audio/kozodoy-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Konek lesnoy",
@@ -1238,7 +1278,8 @@
                 "/birdsData/konek-lesnoy/images/konek-lesnoy-4.jpeg",
                 "/birdsData/konek-lesnoy/images/konek-lesnoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/konek-lesnoy/audio/konek-lesnoy.mp3"
+            "audioPath": "/birdsData/konek-lesnoy/audio/konek-lesnoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Konoplyanka",
@@ -1266,7 +1307,8 @@
                 "/birdsData/konoplyanka/images/konoplyanka-4.jpeg",
                 "/birdsData/konoplyanka/images/konoplyanka-5.jpeg"
             ],
-            "audioPath": "/birdsData/konoplyanka/audio/konoplyanka.mp3"
+            "audioPath": "/birdsData/konoplyanka/audio/konoplyanka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Korolek zheltogolovyy",
@@ -1303,7 +1345,8 @@
                 "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-4.jpeg",
                 "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/korolek-zheltogolovyy/audio/korolek-zheltogolovyy.mp3"
+            "audioPath": "/birdsData/korolek-zheltogolovyy/audio/korolek-zheltogolovyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Korostel",
@@ -1369,7 +1412,8 @@
                 "/birdsData/korostel/images/korostel-4.jpeg",
                 "/birdsData/korostel/images/korostel-5.jpeg"
             ],
-            "audioPath": "/birdsData/korostel/audio/korostel.mp3"
+            "audioPath": "/birdsData/korostel/audio/korostel.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Korshun chernyy",
@@ -1393,7 +1437,8 @@
                 "/birdsData/korshun-chernyy/images/korshun-chernyy-4.jpeg",
                 "/birdsData/korshun-chernyy/images/korshun-chernyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/korshun-chernyy/audio/korshun-chernyy.mp3"
+            "audioPath": "/birdsData/korshun-chernyy/audio/korshun-chernyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Krapivnik",
@@ -1430,7 +1475,8 @@
                 "/birdsData/krapivnik/images/krapivnik-4.jpeg",
                 "/birdsData/krapivnik/images/krapivnik-5.jpeg"
             ],
-            "audioPath": "/birdsData/krapivnik/audio/krapivnik.mp3"
+            "audioPath": "/birdsData/krapivnik/audio/krapivnik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Krachka belokrylaya",
@@ -1448,7 +1494,8 @@
                 "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-4.jpeg",
                 "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/krachka-belokrylaya/audio/krachka-belokrylaya.mp3"
+            "audioPath": "/birdsData/krachka-belokrylaya/audio/krachka-belokrylaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Krechet",
@@ -1480,7 +1527,8 @@
                 "/birdsData/krechet/images/krechet-4.jpeg",
                 "/birdsData/krechet/images/krechet-5.jpeg"
             ],
-            "audioPath": "/birdsData/krechet/audio/krechet.mp3"
+            "audioPath": "/birdsData/krechet/audio/krechet.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kronshnep bolshoy",
@@ -1502,7 +1550,8 @@
                 "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-4.jpeg",
                 "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/kronshnep-bolshoy/audio/kronshnep-bolshoy.mp3"
+            "audioPath": "/birdsData/kronshnep-bolshoy/audio/kronshnep-bolshoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Krohal bolshoy",
@@ -1529,7 +1578,8 @@
                 "/birdsData/krohal-bolshoy/images/krohal-bolshoy-4.jpeg",
                 "/birdsData/krohal-bolshoy/images/krohal-bolshoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/krohal-bolshoy/audio/krohal-bolshoy.mp3"
+            "audioPath": "/birdsData/krohal-bolshoy/audio/krohal-bolshoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kryakva",
@@ -1638,7 +1688,8 @@
                 "/birdsData/kryakva/images/kryakva-4.jpeg",
                 "/birdsData/kryakva/images/kryakva-5.jpeg"
             ],
-            "audioPath": "/birdsData/kryakva/audio/kryakva.mp3"
+            "audioPath": "/birdsData/kryakva/audio/kryakva.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kukushka gluhaya",
@@ -1660,7 +1711,8 @@
                 "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-4.jpeg",
                 "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/kukushka-gluhaya/audio/kukushka-gluhaya.mp3"
+            "audioPath": "/birdsData/kukushka-gluhaya/audio/kukushka-gluhaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kuksha",
@@ -1692,7 +1744,8 @@
                 "/birdsData/kuksha/images/kuksha-4.jpeg",
                 "/birdsData/kuksha/images/kuksha-5.jpeg"
             ],
-            "audioPath": "/birdsData/kuksha/audio/kuksha.mp3"
+            "audioPath": "/birdsData/kuksha/audio/kuksha.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kulik-soroka",
@@ -1723,7 +1776,8 @@
                 "/birdsData/kulik-soroka/images/kulik-soroka-4.jpeg",
                 "/birdsData/kulik-soroka/images/kulik-soroka-5.jpeg"
             ],
-            "audioPath": "/birdsData/kulik-soroka/audio/kulik-soroka.mp3"
+            "audioPath": "/birdsData/kulik-soroka/audio/kulik-soroka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Kuropatka belaya",
@@ -1771,7 +1825,8 @@
                 "/birdsData/kuropatka-belaya/images/kuropatka-belaya-4.jpeg",
                 "/birdsData/kuropatka-belaya/images/kuropatka-belaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/kuropatka-belaya/audio/kuropatka-belaya.mp3"
+            "audioPath": "/birdsData/kuropatka-belaya/audio/kuropatka-belaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Lastochka-beregovushka",
@@ -1798,7 +1853,8 @@
                 "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-4.jpeg",
                 "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-5.jpeg"
             ],
-            "audioPath": "/birdsData/lastochka-beregovushka/audio/lastochka-beregovushka.mp3"
+            "audioPath": "/birdsData/lastochka-beregovushka/audio/lastochka-beregovushka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Lebed-klikun",
@@ -1823,7 +1879,8 @@
                 "/birdsData/lebed-klikun/images/lebed-klikun-4.jpeg",
                 "/birdsData/lebed-klikun/images/lebed-klikun-5.jpeg"
             ],
-            "audioPath": "/birdsData/lebed-klikun/audio/lebed-klikun.mp3"
+            "audioPath": "/birdsData/lebed-klikun/audio/lebed-klikun.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Lun bolotnyy",
@@ -1841,7 +1898,8 @@
                 "/birdsData/lun-bolotnyy/images/lun-bolotnyy-4.jpeg",
                 "/birdsData/lun-bolotnyy/images/lun-bolotnyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/lun-bolotnyy/audio/lun-bolotnyy.mp3"
+            "audioPath": "/birdsData/lun-bolotnyy/audio/lun-bolotnyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Lutok",
@@ -1870,7 +1928,8 @@
                 "/birdsData/lutok/images/lutok-4.jpeg",
                 "/birdsData/lutok/images/lutok-5.jpeg"
             ],
-            "audioPath": "/birdsData/lutok/audio/lutok.mp3"
+            "audioPath": "/birdsData/lutok/audio/lutok.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Lysuha",
@@ -1913,7 +1972,8 @@
                 "/birdsData/lysuha/images/lysuha-4.jpeg",
                 "/birdsData/lysuha/images/lysuha-5.jpeg"
             ],
-            "audioPath": "/birdsData/lysuha/audio/lysuha.mp3"
+            "audioPath": "/birdsData/lysuha/audio/lysuha.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Morodunka",
@@ -1941,7 +2001,8 @@
                 "/birdsData/morodunka/images/morodunka-4.jpeg",
                 "/birdsData/morodunka/images/morodunka-5.jpeg"
             ],
-            "audioPath": "/birdsData/morodunka/audio/morodunka.mp3"
+            "audioPath": "/birdsData/morodunka/audio/morodunka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Muholovka malaya",
@@ -1963,7 +2024,8 @@
                 "/birdsData/muholovka-malaya/images/muholovka-malaya-4.jpeg",
                 "/birdsData/muholovka-malaya/images/muholovka-malaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/muholovka-malaya/audio/muholovka-malaya.mp3"
+            "audioPath": "/birdsData/muholovka-malaya/audio/muholovka-malaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Neyasyt borodataya",
@@ -1991,7 +2053,8 @@
                 "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-4.jpeg",
                 "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-5.jpeg"
             ],
-            "audioPath": "/birdsData/neyasyt-borodataya/audio/neyasyt-borodataya.mp3"
+            "audioPath": "/birdsData/neyasyt-borodataya/audio/neyasyt-borodataya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Nyrok krasnogolovyy",
@@ -2020,7 +2083,8 @@
                 "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-4.jpeg",
                 "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/nyrok-krasnogolovyy/audio/nyrok-krasnogolovyy.mp3"
+            "audioPath": "/birdsData/nyrok-krasnogolovyy/audio/nyrok-krasnogolovyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Ovsyanka kamyshovaya",
@@ -2038,7 +2102,8 @@
                 "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-4.jpeg",
                 "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/ovsyanka-kamyshovaya/audio/ovsyanka-kamyshovaya.mp3"
+            "audioPath": "/birdsData/ovsyanka-kamyshovaya/audio/ovsyanka-kamyshovaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Olyapka obyknovennaya",
@@ -2069,7 +2134,8 @@
                 "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-4.jpeg",
                 "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/olyapka-obyknovennaya/audio/olyapka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/olyapka-obyknovennaya/audio/olyapka-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Orlan-belohvost",
@@ -2103,7 +2169,8 @@
                 "/birdsData/orlan-belohvost/images/orlan-belohvost-4.jpeg",
                 "/birdsData/orlan-belohvost/images/orlan-belohvost-5.jpeg"
             ],
-            "audioPath": "/birdsData/orlan-belohvost/audio/orlan-belohvost.mp3"
+            "audioPath": "/birdsData/orlan-belohvost/audio/orlan-belohvost.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Osoed obyknovennyy",
@@ -2122,7 +2189,8 @@
                 "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-4.jpeg",
                 "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/osoed-obyknovennyy/audio/osoed-obyknovennyy.mp3"
+            "audioPath": "/birdsData/osoed-obyknovennyy/audio/osoed-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Pastushok vodyanoy",
@@ -2140,7 +2208,8 @@
                 "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-4.jpeg",
                 "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/pastushok-vodyanoy/audio/pastushok-vodyanoy.mp3"
+            "audioPath": "/birdsData/pastushok-vodyanoy/audio/pastushok-vodyanoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Penochka-vesnichka",
@@ -2165,7 +2234,8 @@
                 "/birdsData/penochka-vesnichka/images/penochka-vesnichka-4.jpeg",
                 "/birdsData/penochka-vesnichka/images/penochka-vesnichka-5.jpeg"
             ],
-            "audioPath": "/birdsData/penochka-vesnichka/audio/penochka-vesnichka.mp3"
+            "audioPath": "/birdsData/penochka-vesnichka/audio/penochka-vesnichka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Perevozchik",
@@ -2181,7 +2251,8 @@
                 "/birdsData/perevozchik/images/perevozchik-4.jpeg",
                 "/birdsData/perevozchik/images/perevozchik-5.jpeg"
             ],
-            "audioPath": "/birdsData/perevozchik/audio/perevozchik.mp3"
+            "audioPath": "/birdsData/perevozchik/audio/perevozchik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Peresmeshka zelenaya",
@@ -2199,7 +2270,8 @@
                 "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-4.jpeg",
                 "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/peresmeshka-zelenaya/audio/peresmeshka-zelenaya.mp3"
+            "audioPath": "/birdsData/peresmeshka-zelenaya/audio/peresmeshka-zelenaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Perepel obyknovennyy",
@@ -2234,7 +2306,8 @@
                 "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-4.jpeg",
                 "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/perepel-obyknovennyy/audio/perepel-obyknovennyy.mp3"
+            "audioPath": "/birdsData/perepel-obyknovennyy/audio/perepel-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Piskulka",
@@ -2257,7 +2330,8 @@
                 "/birdsData/piskulka/images/piskulka-4.jpeg",
                 "/birdsData/piskulka/images/piskulka-5.jpeg"
             ],
-            "audioPath": "/birdsData/piskulka/audio/piskulka.mp3"
+            "audioPath": "/birdsData/piskulka/audio/piskulka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Pischuha obyknovennaya",
@@ -2293,7 +2367,8 @@
                 "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-4.jpeg",
                 "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/pischuha-obyknovennaya/audio/pischuha-obyknovennaya.mp3"
+            "audioPath": "/birdsData/pischuha-obyknovennaya/audio/pischuha-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Poganka bolshaya (Chomga)",
@@ -2311,7 +2386,8 @@
                 "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-4.jpeg",
                 "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-5.jpeg"
             ],
-            "audioPath": "/birdsData/poganka-bolshaya-(chomga)/audio/poganka-bolshaya-(chomga).mp3"
+            "audioPath": "/birdsData/poganka-bolshaya-(chomga)/audio/poganka-bolshaya-(chomga).mp3",
+            "relatedBirds": []
         },
         {
             "id": "Pogonysh",
@@ -2338,7 +2414,8 @@
                 "/birdsData/pogonysh/images/pogonysh-4.jpeg",
                 "/birdsData/pogonysh/images/pogonysh-5.jpeg"
             ],
-            "audioPath": "/birdsData/pogonysh/audio/pogonysh.mp3"
+            "audioPath": "/birdsData/pogonysh/audio/pogonysh.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Podorlik bolshoy",
@@ -2360,7 +2437,8 @@
                 "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-4.jpeg",
                 "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/podorlik-bolshoy/audio/podorlik-bolshoy.mp3"
+            "audioPath": "/birdsData/podorlik-bolshoy/audio/podorlik-bolshoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Podorozhnik laplandskiy",
@@ -2378,7 +2456,8 @@
                 "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-4.jpeg",
                 "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-5.jpeg"
             ],
-            "audioPath": "/birdsData/podorozhnik-laplandskiy/audio/podorozhnik-laplandskiy.mp3"
+            "audioPath": "/birdsData/podorozhnik-laplandskiy/audio/podorozhnik-laplandskiy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Popolzen obyknovennyy",
@@ -2405,7 +2484,8 @@
                 "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-4.jpeg",
                 "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/popolzen-obyknovennyy/audio/popolzen-obyknovennyy.mp3"
+            "audioPath": "/birdsData/popolzen-obyknovennyy/audio/popolzen-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Porucheynik",
@@ -2425,7 +2505,8 @@
                 "/birdsData/porucheynik/images/porucheynik-4.jpeg",
                 "/birdsData/porucheynik/images/porucheynik-5.jpeg"
             ],
-            "audioPath": "/birdsData/porucheynik/audio/porucheynik.mp3"
+            "audioPath": "/birdsData/porucheynik/audio/porucheynik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Punochka",
@@ -2450,7 +2531,8 @@
                 "/birdsData/punochka/images/punochka-4.jpeg",
                 "/birdsData/punochka/images/punochka-5.jpeg"
             ],
-            "audioPath": "/birdsData/punochka/audio/punochka.mp3"
+            "audioPath": "/birdsData/punochka/audio/punochka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Pustelga obyknovennaya",
@@ -2503,7 +2585,8 @@
                 "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-4.jpeg",
                 "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/pustelga-obyknovennaya/audio/pustelga-obyknovennaya.mp3"
+            "audioPath": "/birdsData/pustelga-obyknovennaya/audio/pustelga-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Ryabchik",
@@ -2545,7 +2628,8 @@
                 "/birdsData/ryabchik/images/ryabchik-4.jpeg",
                 "/birdsData/ryabchik/images/ryabchik-5.jpeg"
             ],
-            "audioPath": "/birdsData/ryabchik/audio/ryabchik.mp3"
+            "audioPath": "/birdsData/ryabchik/audio/ryabchik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sapsan",
@@ -2599,7 +2683,8 @@
                 "/birdsData/sapsan/images/sapsan-4.jpeg",
                 "/birdsData/sapsan/images/sapsan-5.jpeg"
             ],
-            "audioPath": "/birdsData/sapsan/audio/sapsan.mp3"
+            "audioPath": "/birdsData/sapsan/audio/sapsan.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sverchok obyknovennyy",
@@ -2620,7 +2705,8 @@
                 "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-4.jpeg",
                 "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/sverchok-obyknovennyy/audio/sverchok-obyknovennyy.mp3"
+            "audioPath": "/birdsData/sverchok-obyknovennyy/audio/sverchok-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sviristel obyknovennyy",
@@ -2643,7 +2729,8 @@
                 "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-4.jpeg",
                 "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/sviristel-obyknovennyy/audio/sviristel-obyknovennyy.mp3"
+            "audioPath": "/birdsData/sviristel-obyknovennyy/audio/sviristel-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sviyaz",
@@ -2671,7 +2758,8 @@
                 "/birdsData/sviyaz/images/sviyaz-4.jpeg",
                 "/birdsData/sviyaz/images/sviyaz-5.jpeg"
             ],
-            "audioPath": "/birdsData/sviyaz/audio/sviyaz.mp3"
+            "audioPath": "/birdsData/sviyaz/audio/sviyaz.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sizovoronka",
@@ -2692,7 +2780,8 @@
                 "/birdsData/sizovoronka/images/sizovoronka-4.jpeg",
                 "/birdsData/sizovoronka/images/sizovoronka-5.jpeg"
             ],
-            "audioPath": "/birdsData/sizovoronka/audio/sizovoronka.mp3"
+            "audioPath": "/birdsData/sizovoronka/audio/sizovoronka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sinica bolshaya",
@@ -2737,7 +2826,8 @@
                 "/birdsData/sinica-bolshaya/images/sinica-bolshaya-4.jpeg",
                 "/birdsData/sinica-bolshaya/images/sinica-bolshaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/sinica-bolshaya/audio/sinica-bolshaya.mp3"
+            "audioPath": "/birdsData/sinica-bolshaya/audio/sinica-bolshaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Skvorec obyknovennyy",
@@ -2789,7 +2879,8 @@
                 "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-4.jpeg",
                 "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/skvorec-obyknovennyy/audio/skvorec-obyknovennyy.mp3"
+            "audioPath": "/birdsData/skvorec-obyknovennyy/audio/skvorec-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Skopa",
@@ -2831,7 +2922,8 @@
                 "/birdsData/skopa/images/skopa-4.jpeg",
                 "/birdsData/skopa/images/skopa-5.jpeg"
             ],
-            "audioPath": "/birdsData/skopa/audio/skopa.mp3"
+            "audioPath": "/birdsData/skopa/audio/skopa.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Slavka-zavirushka",
@@ -2855,7 +2947,8 @@
                 "/birdsData/slavka-zavirushka/images/slavka-zavirushka-4.jpeg",
                 "/birdsData/slavka-zavirushka/images/slavka-zavirushka-5.jpeg"
             ],
-            "audioPath": "/birdsData/slavka-zavirushka/audio/slavka-zavirushka.mp3"
+            "audioPath": "/birdsData/slavka-zavirushka/audio/slavka-zavirushka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Snegir obyknovennyy",
@@ -2888,7 +2981,8 @@
                 "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-4.jpeg",
                 "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/snegir-obyknovennyy/audio/snegir-obyknovennyy.mp3"
+            "audioPath": "/birdsData/snegir-obyknovennyy/audio/snegir-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sova belaya",
@@ -2938,7 +3032,8 @@
                 "/birdsData/sova-belaya/images/sova-belaya-4.jpeg",
                 "/birdsData/sova-belaya/images/sova-belaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/sova-belaya/audio/sova-belaya.mp3"
+            "audioPath": "/birdsData/sova-belaya/audio/sova-belaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Soyka obyknovennaya",
@@ -2956,7 +3051,8 @@
                 "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-4.jpeg",
                 "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/soyka-obyknovennaya/audio/soyka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/soyka-obyknovennaya/audio/soyka-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Solovey obyknovennyy",
@@ -2974,7 +3070,8 @@
                 "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-4.jpeg",
                 "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/solovey-obyknovennyy/audio/solovey-obyknovennyy.mp3"
+            "audioPath": "/birdsData/solovey-obyknovennyy/audio/solovey-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Soroka obyknovennaya",
@@ -3013,7 +3110,8 @@
                 "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-4.jpeg",
                 "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/soroka-obyknovennaya/audio/soroka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/soroka-obyknovennaya/audio/soroka-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sorokoput seryy",
@@ -3041,7 +3139,8 @@
                 "/birdsData/sorokoput-seryy/images/sorokoput-seryy-4.jpeg",
                 "/birdsData/sorokoput-seryy/images/sorokoput-seryy-5.jpeg"
             ],
-            "audioPath": "/birdsData/sorokoput-seryy/audio/sorokoput-seryy.mp3"
+            "audioPath": "/birdsData/sorokoput-seryy/audio/sorokoput-seryy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Splyushka",
@@ -3063,7 +3162,8 @@
                 "/birdsData/splyushka/images/splyushka-4.jpeg",
                 "/birdsData/splyushka/images/splyushka-5.jpeg"
             ],
-            "audioPath": "/birdsData/splyushka/audio/splyushka.mp3"
+            "audioPath": "/birdsData/splyushka/audio/splyushka.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Strizh chernyy",
@@ -3092,7 +3192,8 @@
                 "/birdsData/strizh-chernyy/images/strizh-chernyy-4.jpeg",
                 "/birdsData/strizh-chernyy/images/strizh-chernyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/strizh-chernyy/audio/strizh-chernyy.mp3"
+            "audioPath": "/birdsData/strizh-chernyy/audio/strizh-chernyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sychik vorobinyy",
@@ -3115,7 +3216,8 @@
                 "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-4.jpeg",
                 "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/sychik-vorobinyy/audio/sychik-vorobinyy.mp3"
+            "audioPath": "/birdsData/sychik-vorobinyy/audio/sychik-vorobinyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Sych domovyy",
@@ -3133,7 +3235,8 @@
                 "/birdsData/sych-domovyy/images/sych-domovyy-4.jpeg",
                 "/birdsData/sych-domovyy/images/sych-domovyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/sych-domovyy/audio/sych-domovyy.mp3"
+            "audioPath": "/birdsData/sych-domovyy/audio/sych-domovyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Teterev",
@@ -3149,7 +3252,8 @@
                 "/birdsData/teterev/images/teterev-4.jpeg",
                 "/birdsData/teterev/images/teterev-5.jpeg"
             ],
-            "audioPath": "/birdsData/teterev/audio/teterev.mp3"
+            "audioPath": "/birdsData/teterev/audio/teterev.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Travnik",
@@ -3165,7 +3269,8 @@
                 "/birdsData/travnik/images/travnik-4.jpeg",
                 "/birdsData/travnik/images/travnik-5.jpeg"
             ],
-            "audioPath": "/birdsData/travnik/audio/travnik.mp3"
+            "audioPath": "/birdsData/travnik/audio/travnik.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Tryasoguzka belaya",
@@ -3199,7 +3304,8 @@
                 "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-4.jpeg",
                 "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/tryasoguzka-belaya/audio/tryasoguzka-belaya.mp3"
+            "audioPath": "/birdsData/tryasoguzka-belaya/audio/tryasoguzka-belaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Turuhtan",
@@ -3263,7 +3369,8 @@
                 "/birdsData/turuhtan/images/turuhtan-4.jpeg",
                 "/birdsData/turuhtan/images/turuhtan-5.jpeg"
             ],
-            "audioPath": "/birdsData/turuhtan/audio/turuhtan.mp3"
+            "audioPath": "/birdsData/turuhtan/audio/turuhtan.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Udod",
@@ -3316,7 +3423,8 @@
                 "/birdsData/udod/images/udod-4.jpeg",
                 "/birdsData/udod/images/udod-5.jpeg"
             ],
-            "audioPath": "/birdsData/udod/audio/udod.mp3"
+            "audioPath": "/birdsData/udod/audio/udod.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Ulit bolshoy",
@@ -3336,7 +3444,8 @@
                 "/birdsData/ulit-bolshoy/images/ulit-bolshoy-4.jpeg",
                 "/birdsData/ulit-bolshoy/images/ulit-bolshoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/ulit-bolshoy/audio/ulit-bolshoy.mp3"
+            "audioPath": "/birdsData/ulit-bolshoy/audio/ulit-bolshoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Filin",
@@ -3388,7 +3497,8 @@
                 "/birdsData/filin/images/filin-4.jpeg",
                 "/birdsData/filin/images/filin-5.jpeg"
             ],
-            "audioPath": "/birdsData/filin/audio/filin.mp3"
+            "audioPath": "/birdsData/filin/audio/filin.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Fifi",
@@ -3407,7 +3517,8 @@
                 "/birdsData/fifi/images/fifi-4.jpeg",
                 "/birdsData/fifi/images/fifi-5.jpeg"
             ],
-            "audioPath": "/birdsData/fifi/audio/fifi.mp3"
+            "audioPath": "/birdsData/fifi/audio/fifi.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Caplya seraya",
@@ -3531,7 +3642,8 @@
                 "/birdsData/caplya-seraya/images/caplya-seraya-4.jpeg",
                 "/birdsData/caplya-seraya/images/caplya-seraya-5.jpeg"
             ],
-            "audioPath": "/birdsData/caplya-seraya/audio/caplya-seraya.mp3"
+            "audioPath": "/birdsData/caplya-seraya/audio/caplya-seraya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chayka malaya",
@@ -3549,7 +3661,8 @@
                 "/birdsData/chayka-malaya/images/chayka-malaya-4.jpeg",
                 "/birdsData/chayka-malaya/images/chayka-malaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/chayka-malaya/audio/chayka-malaya.mp3"
+            "audioPath": "/birdsData/chayka-malaya/audio/chayka-malaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Cheglok",
@@ -3577,7 +3690,8 @@
                 "/birdsData/cheglok/images/cheglok-4.jpeg",
                 "/birdsData/cheglok/images/cheglok-5.jpeg"
             ],
-            "audioPath": "/birdsData/cheglok/audio/cheglok.mp3"
+            "audioPath": "/birdsData/cheglok/audio/cheglok.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chekan lugovoy",
@@ -3602,7 +3716,8 @@
                 "/birdsData/chekan-lugovoy/images/chekan-lugovoy-4.jpeg",
                 "/birdsData/chekan-lugovoy/images/chekan-lugovoy-5.jpeg"
             ],
-            "audioPath": "/birdsData/chekan-lugovoy/audio/chekan-lugovoy.mp3"
+            "audioPath": "/birdsData/chekan-lugovoy/audio/chekan-lugovoy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chernet morskaya",
@@ -3629,7 +3744,8 @@
                 "/birdsData/chernet-morskaya/images/chernet-morskaya-4.jpeg",
                 "/birdsData/chernet-morskaya/images/chernet-morskaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/chernet-morskaya/audio/chernet-morskaya.mp3"
+            "audioPath": "/birdsData/chernet-morskaya/audio/chernet-morskaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chernysh",
@@ -3647,7 +3763,8 @@
                 "/birdsData/chernysh/images/chernysh-4.jpeg",
                 "/birdsData/chernysh/images/chernysh-5.jpeg"
             ],
-            "audioPath": "/birdsData/chernysh/audio/chernysh.mp3"
+            "audioPath": "/birdsData/chernysh/audio/chernysh.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chechevica obyknovennaya",
@@ -3661,7 +3778,8 @@
                 "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-4.jpeg",
                 "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/chechevica-obyknovennaya/audio/chechevica-obyknovennaya.mp3"
+            "audioPath": "/birdsData/chechevica-obyknovennaya/audio/chechevica-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chechetka obyknovennaya",
@@ -3684,7 +3802,8 @@
                 "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-4.jpeg",
                 "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/chechetka-obyknovennaya/audio/chechetka-obyknovennaya.mp3"
+            "audioPath": "/birdsData/chechetka-obyknovennaya/audio/chechetka-obyknovennaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chibis",
@@ -3713,7 +3832,8 @@
                 "/birdsData/chibis/images/chibis-4.jpeg",
                 "/birdsData/chibis/images/chibis-5.jpeg"
             ],
-            "audioPath": "/birdsData/chibis/audio/chibis.mp3"
+            "audioPath": "/birdsData/chibis/audio/chibis.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chizh",
@@ -3741,7 +3861,8 @@
                 "/birdsData/chizh/images/chizh-4.jpeg",
                 "/birdsData/chizh/images/chizh-5.jpeg"
             ],
-            "audioPath": "/birdsData/chizh/audio/chizh.mp3"
+            "audioPath": "/birdsData/chizh/audio/chizh.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Chirok-svistunok",
@@ -3776,7 +3897,8 @@
                 "/birdsData/chirok-svistunok/images/chirok-svistunok-4.jpeg",
                 "/birdsData/chirok-svistunok/images/chirok-svistunok-5.jpeg"
             ],
-            "audioPath": "/birdsData/chirok-svistunok/audio/chirok-svistunok.mp3"
+            "audioPath": "/birdsData/chirok-svistunok/audio/chirok-svistunok.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Shilohvost",
@@ -3803,7 +3925,8 @@
                 "/birdsData/shilohvost/images/shilohvost-4.jpeg",
                 "/birdsData/shilohvost/images/shilohvost-5.jpeg"
             ],
-            "audioPath": "/birdsData/shilohvost/audio/shilohvost.mp3"
+            "audioPath": "/birdsData/shilohvost/audio/shilohvost.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Shirokonoska",
@@ -3830,7 +3953,8 @@
                 "/birdsData/shirokonoska/images/shirokonoska-4.jpeg",
                 "/birdsData/shirokonoska/images/shirokonoska-5.jpeg"
             ],
-            "audioPath": "/birdsData/shirokonoska/audio/shirokonoska.mp3"
+            "audioPath": "/birdsData/shirokonoska/audio/shirokonoska.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Schegol chernogolovyy",
@@ -3848,7 +3972,8 @@
                 "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-4.jpeg",
                 "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/schegol-chernogolovyy/audio/schegol-chernogolovyy.mp3"
+            "audioPath": "/birdsData/schegol-chernogolovyy/audio/schegol-chernogolovyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Schur obyknovennyy",
@@ -3866,7 +3991,8 @@
                 "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-4.jpeg",
                 "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-5.jpeg"
             ],
-            "audioPath": "/birdsData/schur-obyknovennyy/audio/schur-obyknovennyy.mp3"
+            "audioPath": "/birdsData/schur-obyknovennyy/audio/schur-obyknovennyy.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Schurka zolotistaya",
@@ -3892,7 +4018,8 @@
                 "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-4.jpeg",
                 "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-5.jpeg"
             ],
-            "audioPath": "/birdsData/schurka-zolotistaya/audio/schurka-zolotistaya.mp3"
+            "audioPath": "/birdsData/schurka-zolotistaya/audio/schurka-zolotistaya.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Yurok",
@@ -3908,7 +4035,8 @@
                 "/birdsData/yurok/images/yurok-4.jpeg",
                 "/birdsData/yurok/images/yurok-5.jpeg"
             ],
-            "audioPath": "/birdsData/yurok/audio/yurok.mp3"
+            "audioPath": "/birdsData/yurok/audio/yurok.mp3",
+            "relatedBirds": []
         },
         {
             "id": "Yastreb-perepelyatnik",
@@ -3933,7 +4061,8 @@
                 "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-4.jpeg",
                 "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-5.jpeg"
             ],
-            "audioPath": "/birdsData/yastreb-perepelyatnik/audio/yastreb-perepelyatnik.mp3"
+            "audioPath": "/birdsData/yastreb-perepelyatnik/audio/yastreb-perepelyatnik.mp3",
+            "relatedBirds": []
         }
     ]
 }

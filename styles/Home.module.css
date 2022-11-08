@@ -105,10 +105,16 @@
 }
 
 .content .filterByLetter .letter {
+  text-transform: uppercase;
+  padding: 5px;
   font-size: 1.2rem;
   font-weight: bold;
   cursor: pointer;
   color: var(--detail-color);
+}
+
+.content .filterByLetter .letter:hover {
+  color: var(--second-base-color);
 }
 
 .content .filterByLetter .selected {

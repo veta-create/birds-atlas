@@ -57,11 +57,10 @@
   width: 465px;
   height: 350px;
 
-  background-color: rgb(38, 38, 38);
   border: 5px solid rgb(77, 76, 76);
 }
 
-.main .birdInfo .sliderSideBar .slider img {
+.main .birdInfo .sliderSideBar .slider .slide img {
   width: 100%;
   height: 100%;
   filter: saturate(0.8);

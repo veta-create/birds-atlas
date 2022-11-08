@@ -7,8 +7,6 @@ import styles from "../styles/Home.module.css";
 import cn from "classnames";
 import { useState } from "react";
 import Play from "../assets/images/play.svg";
-import logo from "../assets/images/logo.png";
-import Image from "next/image";
 interface HomeProps {
   birds: Array<Bird>;
 }
@@ -64,7 +62,7 @@ const Home = ({ birds }: HomeProps) => {
       <Head>
         <title>Атлас Птичек</title>
         <meta name="description" content="Классный сайт-атлас про птичек!" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon.svg" />
       </Head>
       <div className={styles.header}>
         <div className={styles.logo}>
@@ -122,6 +120,7 @@ const Home = ({ birds }: HomeProps) => {
               }
               const regExp = new RegExp("^" + currentSubstr.toLowerCase());
               const hasSubstr = b.name.toLowerCase().match(regExp);
+              return hasSubstr;
             })
             .map((bird) => (
               <div className={styles.birdCard}>
