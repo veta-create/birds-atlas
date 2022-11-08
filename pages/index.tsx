@@ -120,10 +120,8 @@ const Home = ({ birds }: HomeProps) => {
               if (currentSubstr === "") {
                 return b;
               }
-              const hasSubstr = b.name
-                .toLocaleLowerCase()
-                .includes(currentSubstr.toLocaleLowerCase());
-              return hasSubstr;
+              const regExp = new RegExp("^" + currentSubstr.toLowerCase());
+              const hasSubstr = b.name.toLowerCase().match(regExp);
             })
             .map((bird) => (
               <div className={styles.birdCard}>
