@@ -9,7 +9,7 @@ export default function BirdPage(props: any) {
     <div className={styles.main}>
       <div className={styles.header}>
         <div className={styles.logo}>
-          <img src="../../assets/images/logo.png" />
+          Пере<span>звон</span>
         </div>
       </div>
       <div className={styles.birdInfo}>
@@ -18,7 +18,6 @@ export default function BirdPage(props: any) {
             <img src={`${props.bird.imagesPaths[0]}`} />
           </div>
           <div className={styles.audio}>
-            <button><p>нажмите, чтобы слушать</p></button>
             <audio controls src={props.bird.audioPath}>AUDIO</audio>
             {/* controls нужен */}
           </div>

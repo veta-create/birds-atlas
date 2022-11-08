@@ -4,10 +4,25 @@
 }
 
 .header {
+  display: flex;
   width: 100%;
-  height: 70px;
+  height: 90px;
 
   background-color: black;
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+  font-family: "JetBrainsMono";
+  text-transform: uppercase;
+
+  color: var(--detail-color);
+}
+
+.header .logo span {
+  color: var(--second-base-color);
 }
 
 .main .birdInfo {
@@ -52,25 +67,9 @@
   filter: saturate(0.8);
 }
 
-.main .birdInfo .sliderSideBar .audio button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 300px;
-  height: 50px;
-  margin-top: 40px;
-  font-size: 1rem;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.main .birdInfo .sliderSideBar .audio button p {
-  display: inline-block;
-}
-
-.main .birdInfo .sliderSideBar .audio button::after {
-  content: url(../../assets/images/player-triangle.svg);
-  padding-left: 10px;
+.main .birdInfo .sliderSideBar .audio audio {
+  width: 70%;
+  margin-top: 10%;
 }
 
 .main .birdInfo .text {
@@ -107,4 +106,11 @@
   height: 125px;
 
   background-color: #fff;
+}
+
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("../../fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
 }

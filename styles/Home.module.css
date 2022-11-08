@@ -115,6 +115,18 @@
   color: var(--second-base-color);
 }
 
+.content .filterByLetter .resetFilter {
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+
+  color: var(--detail-color);
+}
+
+.content .filterByLetter .resetFilter:hover {
+  color: var(--second-base-color);
+}
+
 @font-face {
   font-family: "JetBrainsMono";
   src: url("../fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype");

@@ -54,6 +54,10 @@ const Home = ({ birds }: HomeProps) => {
     setCurrentSubstr(name);
   }
 
+  function onResetFilter() {
+    setCurrentLetter("");
+  }
+
   console.log(currentLetter);
   return (
     <div className={styles.container}>
@@ -92,7 +96,16 @@ const Home = ({ birds }: HomeProps) => {
               </span>
             );
           })}
+          <div
+            className={styles.resetFilter}
+            onClick={(e) => {
+              onResetFilter();
+            }}
+          >
+            сбросить
+          </div>
         </div>
+
         <nav>
           {birds
             .slice(0, 128)
