@@ -1,3 +1,12 @@
+:root {
+  --base-color: #95b196;
+  --second-base-color: #6b0b3d;
+  --header-color: #000;
+  --detail-color: #fff;
+  --substrate-color: #1d261d;
+}
+
+
 html,
 body {
   height: 100%;
@@ -33,6 +42,6 @@ video {
 
   body {
     color: white;
-    background: black;
+    background: var(--header-color);
   }
 }

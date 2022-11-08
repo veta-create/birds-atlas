@@ -4,11 +4,11 @@ import { kebabCase } from "../utils";
 import Head from "next/head";
 import Link from "next/link";
 import styles from "../styles/Home.module.css";
-import Header from "./header/header";
-import cn from "classnames"
-// import play from "../assets/images/play";
-
-
+import cn from "classnames";
+import { useState } from "react";
+import Play from "../assets/images/play.svg";
+import logo from "../assets/images/logo.png";
+import Image from "next/image";
 interface HomeProps {
   birds: Array<Bird>;
 }
@@ -20,12 +20,9 @@ const Home = ({ birds }: HomeProps) => {
     "в",
     "г",
     "д",
-    "е",
-    "ё",
     "ж",
     "з",
     "и",
-    "й",
     "к",
     "л",
     "м",
@@ -37,15 +34,27 @@ const Home = ({ birds }: HomeProps) => {
     "т",
     "у",
     "ф",
-    "х",
     "ц",
     "ч",
     "ш",
     "щ",
     "э",
     "ю",
-    "я",
   ];
+
+  const [currentLetter, setCurrentLetter] = useState<string>("");
+  const [currentSubstr, setCurrentSubstr] = useState<string>("");
+  const [play, setPlay] = useState("");
+
+  function onLetterChanged(letter: string) {
+    setCurrentLetter(letter);
+  }
+
+  function onFilterByNameChanged(name: string) {
+    setCurrentSubstr(name);
+  }
+
+  console.log(currentLetter);
   return (
     <div className={styles.container}>
       <Head>
@@ -53,35 +62,70 @@ const Home = ({ birds }: HomeProps) => {
         <meta name="description" content="Классный сайт-атлас про птичек!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
-      <div className={styles.content}>
-      <div className={styles.filterByLetter}>
-        {alphabet.map((l) => {
-          return (
-            <span className={cn(styles.letter, l === 'а' ? styles.selected : "")}>
-              {l}
-            </span>
-          );
-        })}
+      <div className={styles.header}>
+        <div className={styles.logo}>
+          Пере<span>звон</span>
+        </div>
+        <div className={styles.searchByName}>
+          <input
+            onChange={(e) => {
+              onFilterByNameChanged(e.target.value);
+            }}
+            placeholder="введите имя птички"
+          />
+        </div>
       </div>
+      <div className={styles.content}>
+        <div className={styles.filterByLetter}>
+          {alphabet.map((l) => {
+            return (
+              <span
+                onClick={(e) => {
+                  onLetterChanged(l);
+                }}
+                className={cn(
+                  styles.letter,
+                  currentLetter === l ? styles.selected : ""
+                )}
+              >
+                {l}
+              </span>
+            );
+          })}
+        </div>
         <nav>
-          {birds.slice(0, 128).map((bird) => (
-            <div className={styles.birdCard}>
-              <div className={styles.player}>
-                <img className={styles.photo} src={`${bird.imagesPaths[1]}`} />
-                {/* <div className={styles.playButton}>
-                  {true ? (
-                    <img src='#' />
-                  ) : (
-                    <img src="../../assets/images/pause.svg" />
-                  )}
-                </div> */}
+          {birds
+            .slice(0, 128)
+            .filter((b) => {
+              if (currentLetter === "") {
+                return b;
+              }
+              const firstLetter = b.name[0].toLowerCase() === currentLetter;
+              return firstLetter;
+            })
+            .filter((b) => {
+              if (currentSubstr === "") {
+                return b;
+              }
+              const hasSubstr = b.name
+                .toLocaleLowerCase()
+                .includes(currentSubstr.toLocaleLowerCase());
+              return hasSubstr;
+            })
+            .map((bird) => (
+              <div className={styles.birdCard}>
+                <div className={styles.player}>
+                  <Play className={styles.playButton} />
+                  <img
+                    className={styles.photo}
+                    src={`${bird.imagesPaths[1]}`}
+                  />
+                </div>
+                <Link key={bird.name} href={`/birds/${kebabCase(bird.id)}`}>
+                  {bird.name}
+                </Link>
               </div>
-              <Link key={bird.name} href={`/birds/${kebabCase(bird.id)}`}>
-                {bird.name}
-              </Link>
-            </div>
-          ))}
+            ))}
         </nav>
       </div>
     </div>

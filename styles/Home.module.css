@@ -1,14 +1,50 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 90px;
+  padding: 0px 10px;
+
+  background-color: var(--header-color);
+}
+
+.header .searchByName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header .searchByName input {
+  width: 100%;
+  min-width: 135px;
+  max-width: 250px;
+  height: 40px;
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+  font-family: "JetBrainsMono";
+  text-transform: uppercase;
+
+  color: var(--detail-color);
+}
+
+.header .logo span {
+  color: var(--second-base-color);
+}
+
 .content {
   padding-top: 20px;
   opacity: 1;
   text-align: center;
   pointer-events: all;
 
-  background-color: #95b196;
+  background-color: var(--base-color);
   background-image: url(../assets/images/birds-container.png);
   background-repeat: no-repeat;
   background-position: 50% 100%;
-  box-shadow: 0px 0px 20px #000;
+  box-shadow: 0px 0px 20px var(--header-color);
 }
 
 .content nav {
@@ -27,8 +63,9 @@
 .content .birdCard .player {
   width: 280px;
   height: 280px;
+  position: relative;
 
-  background-color: #1d261d;
+  background-color: var(--substrate-color);
   border-radius: 25px;
 }
 
@@ -36,20 +73,28 @@
   width: 280px;
   height: 280px;
   filter: contrast(1.2);
+  z-index: 1;
 
   border-radius: 25px;
+}
+
+.content .birdCard .player .playButton {
+  position: absolute;
+  margin-left: 95px;
+  margin-top: 95px;
+  z-index: 2;
 }
 
 .content .birdCard a {
   font-size: 1.3rem;
   text-decoration: none;
 
-  color: #fff;
+  color: var(--detail-color);
 }
 
 .content .birdCard a:hover {
   font-weight: bold;
-  color: #6b0b3d;
+  color: var(--second-base-color);
 }
 
 .content .filterByLetter {
@@ -63,9 +108,16 @@
   font-size: 1.2rem;
   font-weight: bold;
   cursor: pointer;
-  color: #fff;
+  color: var(--detail-color);
 }
 
 .content .filterByLetter .selected {
-  color: #6b0b3d;
+  color: var(--second-base-color);
+}
+
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("../fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
 }

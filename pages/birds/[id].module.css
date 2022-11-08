@@ -53,6 +53,9 @@
 }
 
 .main .birdInfo .sliderSideBar .audio button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 300px;
   height: 50px;
   margin-top: 40px;
@@ -61,15 +64,17 @@
   cursor: pointer;
 }
 
+.main .birdInfo .sliderSideBar .audio button p {
+  display: inline-block;
+}
+
 .main .birdInfo .sliderSideBar .audio button::after {
   content: url(../../assets/images/player-triangle.svg);
-  position: absolute;
   padding-left: 10px;
 }
 
 .main .birdInfo .text {
   grid-area: "text";
-  text-align: center;
   padding: 20px 20px;
   font-size: 1.5rem;
 

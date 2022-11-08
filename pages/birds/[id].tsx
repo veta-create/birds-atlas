@@ -4,6 +4,7 @@ import { kebabCase } from "../../utils";
 import styles from "./[id].module.css";
 
 export default function BirdPage(props: any) {
+
   return (
     <div className={styles.main}>
       <div className={styles.header}>
@@ -17,7 +18,9 @@ export default function BirdPage(props: any) {
             <img src={`${props.bird.imagesPaths[0]}`} />
           </div>
           <div className={styles.audio}>
-            <button>нажмите, чтобы слушать</button>
+            <button><p>нажмите, чтобы слушать</p></button>
+            <audio controls src={props.bird.audioPath}>AUDIO</audio>
+            {/* controls нужен */}
           </div>
           <div className={styles.seeAlso}>
             Смотри также:
@@ -38,7 +41,7 @@ export default function BirdPage(props: any) {
         <div className={styles.text}>
           <h1>{props.bird.name}</h1>
           <h2>{props.bird.nameInLatin}</h2>
-          {props.bird.article.map((p: { id: string }) => {
+          {props.bird.article.map((p: number) => {
             return <p>{p}</p>;
           })}
         </div>
@@ -56,6 +59,7 @@ export async function getStaticProps(context: any) {
   return {
     props: {
       bird: currentBird,
+      birds
     },
   };
 }
@@ -68,6 +72,6 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: false, // can also be true or 'blocking'
+    fallback: false, // can also be true or 'blocking'б
   };
 }
