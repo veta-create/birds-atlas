@@ -1,11 +1,10 @@
 {
     "birds": [
         {
-            "id": "aist-belyy",
+            "id": "aist-belyy использовано+",
             "name": "Аист белый",
             "nameInLatin": "Ciconia ciconia",
             "article": [
-                "Места обитания Места зимовки",
                 "Белый аист (лат. Ciconia ciconia) — крупная болотная птица из семейства аистовых.",
                 "Белый аист — самый известный из аистов. Это белая птица с чёрными концами крыльев, длинной шеей, длинным, тонким, красным клювом и длинными красноватыми ногами. Когда крылья у аиста сложены, создаётся впечатление, что вся задняя часть тела аиста чёрная. Отсюда его украинское название — черногуз. Самки по окрасу неотличимы от самцов, но несколько меньше. Рост белого аиста составляет 100—125 см, размах крыльев 155—200 см. Масса взрослой птицы достигает 4-5 кг. Продолжительность жизни белого аиста в среднем составляет 20 лет. Внешне на белого аиста похож дальневосточный аист, но в последнее время он считается отдельным видом. Белый аист — один из символов Республики Беларусь.",
                 "Белый аист обитает в Европе и Азии. В Европе его ареал простирается на севере до Южной Швеции и Ленинградской области, на восток до Смоленска, Брянска и Липецка, причём в последние годы ареал расширяется в восточном направлении. Зимует в Индии, тропической Африке. Популяция аистов, обитающих на юге Африки, оседла. Также не улетают на зимовку некоторые аисты, живущие в Западной Европе, в местах, где относительно тёплые зимы. На зимовку белые аисты летят двумя маршрутами. Птицы, живущие к западу от реки Эльба, пересекают Гибралтарский пролив и остаются зимовать в Африке между Сахарой и тропическими дождевыми лесами. Аисты, гнездящиеся к востоку от Эльбы, летят через Малую Азию и Израиль и остаются зимовать в Восточной Африке между Южным Суданом и ЮАР. Некоторые аисты оседают в Эфиопии и Южной Аравии. На всех местах зимовок белые аисты собираются в тысячные стаи. Молодые неполовозрелые птицы иногда остаются в Африке на всё лето. Перелёт на зимовку аисты совершают днём. Они летят на большой высоте, часто паря. Для этого они выбирают самые удобные в аэродинамическом отношении маршруты. Над морем аисты летать избегают.",
@@ -30,10 +29,10 @@
                 "/birdsData/aist-belyy/images/aist-belyy-5.jpeg"
             ],
             "audioPath": "/birdsData/aist-belyy/audio/aist-belyy.mp3",
-            "relatedBirds": ["udod", "chirok-svistunok"]
+            "relatedBirds": []
         },
         {
-            "id": "aist-chernyy",
+            "id": "aist-chernyyиспользовано+",
             "name": "Аист чёрный",
             "nameInLatin": "Ciconia nigra",
             "article": [
@@ -56,10 +55,10 @@
                 "/birdsData/aist-chernyy/images/aist-chernyy-5.jpeg"
             ],
             "audioPath": "/birdsData/aist-chernyy/audio/aist-chernyy.mp3",
-            "relatedBirds": ["sychik-vorobinyy", "teterev"]
+            "relatedBirds": []
         },
         {
-            "id": "baklan-bolshoy",
+            "id": "baklan-bolshoyиспользовано+",
             "name": "Баклан большой",
             "nameInLatin": "Phalacrocorax carbo",
             "article": [
@@ -75,10 +74,10 @@
                 "/birdsData/baklan-bolshoy/images/baklan-bolshoy-5.jpeg"
             ],
             "audioPath": "/birdsData/baklan-bolshoy/audio/baklan-bolshoy.mp3",
-            "relatedBirds": ["sizovoronka", "sinica-bolshaya"]
+            "relatedBirds": []
         },
         {
-            "id": "bekas",
+            "id": "bekasиспользовано+",
             "name": "Бекас",
             "nameInLatin": "Gallinago gallinago",
             "article": [
@@ -95,10 +94,10 @@
                 "/birdsData/bekas/images/bekas-5.jpeg"
             ],
             "audioPath": "/birdsData/bekas/audio/bekas.mp3",
-            "relatedBirds": ["podorozhnik-laplandskiy", "ryabchik"]
+            "relatedBirds": []
         },
         {
-            "id": "berkut",
+            "id": "berkutиспользовано+",
             "name": "Беркут",
             "nameInLatin": "Aquila chrysaetos",
             "article": [
@@ -162,10 +161,10 @@
                 "/birdsData/berkut/images/berkut-5.jpeg"
             ],
             "audioPath": "/birdsData/berkut/audio/berkut.mp3",
-            "relatedBirds": ["perevozchik", "peresmeshka-zelenaya"]
+            "relatedBirds": []
         },
         {
-            "id": "voron",
+            "id": "voronиспользовано+",
             "name": "Ворон",
             "nameInLatin": "Corvus corax",
             "article": [
@@ -228,10 +227,10 @@
                 "/birdsData/voron/images/voron-5.jpeg"
             ],
             "audioPath": "/birdsData/voron/audio/voron.mp3",
-            "relatedBirds": ["olyapka-obyknovennaya", "pastushok-vodyanoy"]
+            "relatedBirds": []
         },
         {
-            "id": "vorona-seraya",
+            "id": "vorona-serayaиспользовано+",
             "name": "Ворона серая",
             "nameInLatin": "Corvus cornix",
             "article": [
@@ -259,10 +258,10 @@
                 "/birdsData/vorona-seraya/images/vorona-seraya-5.jpeg"
             ],
             "audioPath": "/birdsData/vorona-seraya/audio/vorona-seraya.mp3",
-            "relatedBirds": ["lysuha", "nyrok-krasnogolovyy"]
+            "relatedBirds": []
         },
         {
-            "id": "gaga-obyknovennaya",
+            "id": "gaga-obyknovennayaиспользовано+",
             "name": "Гага обыкновенная",
             "nameInLatin": "Somateria mollissima",
             "article": [
@@ -312,10 +311,10 @@
                 "/birdsData/gaga-obyknovennaya/images/gaga-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/gaga-obyknovennaya/audio/gaga-obyknovennaya.mp3",
-            "relatedBirds": ["kozodoy-obyknovennyy", "kuksha"]
+            "relatedBirds": []
         },
         {
-            "id": "gagara-krasnozobaya",
+            "id": "gagara-krasnozobayaиспользовано+",
             "name": "Гагара краснозобая",
             "nameInLatin": "Gavia stellata",
             "article": [
@@ -361,10 +360,10 @@
                 "/birdsData/gagara-krasnozobaya/images/gagara-krasnozobaya-5.jpeg"
             ],
             "audioPath": "/birdsData/gagara-krasnozobaya/audio/gagara-krasnozobaya.mp3",
-            "relatedBirds": ["grach", "gaga-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "gogol-obyknovennyy",
+            "id": "gogol-obyknovennyyиспользовано+",
             "name": "Гоголь обыкновенный",
             "nameInLatin": "Bucephala clangula",
             "article": [
@@ -390,10 +389,10 @@
                 "/birdsData/gogol-obyknovennyy/images/gogol-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/gogol-obyknovennyy/audio/gogol-obyknovennyy.mp3",
-            "relatedBirds": ["zavirushka-lesnaya", "gumennik"]
+            "relatedBirds": []
         },
         {
-            "id": "grach",
+            "id": "grachиспользовано+",
             "name": "Грач",
             "nameInLatin": "Corvus frugilegus",
             "article": [
@@ -420,10 +419,10 @@
                 "/birdsData/grach/images/grach-5.jpeg"
             ],
             "audioPath": "/birdsData/grach/audio/grach.mp3",
-            "relatedBirds": ["zimorodok-obyknovennyy", "zaryanka,-ili-malinovka"]
+            "relatedBirds": []
         },
         {
-            "id": "gumennik",
+            "id": "gumennikиспользовано+",
             "name": "Гуменник",
             "nameInLatin": "Anser fabalis",
             "article": [
@@ -443,10 +442,10 @@
                 "/birdsData/gumennik/images/gumennik-5.jpeg"
             ],
             "audioPath": "/birdsData/gumennik/audio/gumennik.mp3",
-            "relatedBirds": ["poganka-bolshaya-(chomga)", "lebed-klikun"]
+            "relatedBirds": []
         },
         {
-            "id": "gus-belolobyy",
+            "id": "gus-belolobyyиспользовано+",
             "name": "Гусь белолобый",
             "nameInLatin": "Anser albifrons",
             "article": [
@@ -462,10 +461,10 @@
                 "/birdsData/gus-belolobyy/images/gus-belolobyy-5.jpeg"
             ],
             "audioPath": "/birdsData/gus-belolobyy/audio/gus-belolobyy.mp3",
-            "relatedBirds": ["slavka-zavirushka", "chizh"]
+            "relatedBirds": []
         },
         {
-            "id": "derbnik",
+            "id": "derbnikиспользовано+",
             "name": "Дербник",
             "nameInLatin": "Falco columbarius",
             "article": [
@@ -497,10 +496,10 @@
                 "/birdsData/derbnik/images/derbnik-5.jpeg"
             ],
             "audioPath": "/birdsData/derbnik/audio/derbnik.mp3",
-            "relatedBirds": ["korostel", "kamenka-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "drozd-belobrovik",
+            "id": "drozd-belobrovikиспользовано+",
             "name": "Дрозд-белобровик",
             "nameInLatin": "Turdus iliacus",
             "article": [
@@ -539,10 +538,10 @@
                 "/birdsData/drozd-belobrovik/images/drozd-belobrovik-5.jpeg"
             ],
             "audioPath": "/birdsData/drozd-belobrovik/audio/drozd-belobrovik.mp3",
-            "relatedBirds": ["fifi", "kronshnep-bolshoy"]
+            "relatedBirds": []
         },
         {
-            "id": "dubonos-obyknovennyy",
+            "id": "dubonos-obyknovennyyиспользовано+",
             "name": "Дубонос обыкновенный",
             "nameInLatin": "Coccothraustes coccothraustes",
             "article": [
@@ -558,10 +557,10 @@
                 "/birdsData/dubonos-obyknovennyy/images/dubonos-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/dubonos-obyknovennyy/audio/dubonos-obyknovennyy.mp3",
-            "relatedBirds": ["zuek-malyy", "dyatel-belospinnyy"]
+            "relatedBirds": []
         },
         {
-            "id": "dubrovnik",
+            "id": "dubrovnikиспользовано+",
             "name": "Дубровник",
             "nameInLatin": "Emberiza aureola",
             "article": [
@@ -637,10 +636,10 @@
                 "/birdsData/dubrovnik/images/dubrovnik-5.jpeg"
             ],
             "audioPath": "/birdsData/dubrovnik/audio/dubrovnik.mp3",
-            "relatedBirds": ["klest-belokrylyy", "ulit-bolshoy"]
+            "relatedBirds": []
         },
         {
-            "id": "dupel",
+            "id": "dupelиспользовано+",
             "name": "Дупель",
             "nameInLatin": "Gallinago media",
             "article": [
@@ -660,10 +659,10 @@
                 "/birdsData/dupel/images/dupel-5.jpeg"
             ],
             "audioPath": "/birdsData/dupel/audio/dupel.mp3",
-            "relatedBirds": ["zhulan-obyknovennyy", "zhavoronok-lesnoy-(yula)"]
+            "relatedBirds": []
         },
         {
-            "id": "dyatel-belospinnyy",
+            "id": "dyatel-belospinnyyиспользовано+",
             "name": "Дятел белоспинный",
             "nameInLatin": "Dendrocopos leucotos",
             "article": [
@@ -689,10 +688,10 @@
                 "/birdsData/dyatel-belospinnyy/images/dyatel-belospinnyy-5.jpeg"
             ],
             "audioPath": "/birdsData/dyatel-belospinnyy/audio/dyatel-belospinnyy.mp3",
-            "relatedBirds": ["derbnik", "ovsyanka-kamyshovaya"]
+            "relatedBirds": []
         },
         {
-            "id": "zhavoronok-lesnoy-(yula)",
+            "id": "zhavoronok-lesnoy-(yula)использовано+",
             "name": "Жаворонок лесной (Юла)",
             "nameInLatin": "Lullula arborea",
             "article": [
@@ -708,10 +707,10 @@
                 "/birdsData/zhavoronok-lesnoy-(yula)/images/zhavoronok-lesnoy-(yula)-5.jpeg"
             ],
             "audioPath": "/birdsData/zhavoronok-lesnoy-(yula)/audio/zhavoronok-lesnoy-(yula).mp3",
-            "relatedBirds": ["lun-bolotnyy", "kobchik"]
+            "relatedBirds": []
         },
         {
-            "id": "zhulan-obyknovennyy",
+            "id": "zhulan-obyknovennyyиспользовано+",
             "name": "Жулан обыкновенный",
             "nameInLatin": "Lanius collurio",
             "article": [
@@ -732,10 +731,10 @@
                 "/birdsData/zhulan-obyknovennyy/images/zhulan-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/zhulan-obyknovennyy/audio/zhulan-obyknovennyy.mp3",
-            "relatedBirds": ["kazarka-beloschekaya", "chayka-malaya"]
+            "relatedBirds": []
         },
         {
-            "id": "zhuravl-seryy",
+            "id": "zhuravl-seryyиспользовано+",
             "name": "Журавль серый",
             "nameInLatin": "Grus grus",
             "article": [
@@ -762,10 +761,10 @@
                 "/birdsData/zhuravl-seryy/images/zhuravl-seryy-5.jpeg"
             ],
             "audioPath": "/birdsData/zhuravl-seryy/audio/zhuravl-seryy.mp3",
-            "relatedBirds": ["travnik", "shilohvost"]
+            "relatedBirds": []
         },
         {
-            "id": "zavirushka-lesnaya",
+            "id": "zavirushka-lesnayaиспользовано+",
             "name": "Завирушка лесная",
             "nameInLatin": "Prunella modularis",
             "article": [
@@ -792,10 +791,10 @@
                 "/birdsData/zavirushka-lesnaya/images/zavirushka-lesnaya-5.jpeg"
             ],
             "audioPath": "/birdsData/zavirushka-lesnaya/audio/zavirushka-lesnaya.mp3",
-            "relatedBirds": ["skvorec-obyknovennyy", "chernet-morskaya"]
+            "relatedBirds": []
         },
         {
-            "id": "zaryanka,-ili-malinovka",
+            "id": "zaryanka,-ili-malinovkaиспользовано+",
             "name": "Зарянка, или малиновка",
             "nameInLatin": "Erithacus rubecula",
             "article": [
@@ -811,10 +810,10 @@
                 "/birdsData/zaryanka,-ili-malinovka/images/zaryanka,-ili-malinovka-5.jpeg"
             ],
             "audioPath": "/birdsData/zaryanka,-ili-malinovka/audio/zaryanka,-ili-malinovka.mp3",
-            "relatedBirds": ["schur-obyknovennyy", "kanyuk-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "zelenushka-obyknovennaya",
+            "id": "zelenushka-obyknovennayaиспользовано+",
             "name": "Зеленушка обыкновенная",
             "nameInLatin": "Chloris chloris",
             "article": [
@@ -838,10 +837,10 @@
                 "/birdsData/zelenushka-obyknovennaya/images/zelenushka-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/zelenushka-obyknovennaya/audio/zelenushka-obyknovennaya.mp3",
-            "relatedBirds": ["cheglok", "schegol-chernogolovyy"]
+            "relatedBirds": []
         },
         {
-            "id": "zimnyak",
+            "id": "zimnyakиспользовано+",
             "name": "Зимняк",
             "nameInLatin": "Buteo lagopus",
             "article": [
@@ -860,10 +859,10 @@
                 "/birdsData/zimnyak/images/zimnyak-5.jpeg"
             ],
             "audioPath": "/birdsData/zimnyak/audio/zimnyak.mp3",
-            "relatedBirds": ["pogonysh", "baklan-bolshoy"]
+            "relatedBirds": []
         },
         {
-            "id": "zimorodok-obyknovennyy",
+            "id": "zimorodok-obyknovennyyиспользовано+",
             "name": "Зимородок обыкновенный",
             "nameInLatin": "Alcedo atthis",
             "article": [
@@ -893,10 +892,10 @@
                 "/birdsData/zimorodok-obyknovennyy/images/zimorodok-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/zimorodok-obyknovennyy/audio/zimorodok-obyknovennyy.mp3",
-            "relatedBirds": ["bekas", "soyka-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "zuek-malyy",
+            "id": "zuek-malyyиспользовано+",
             "name": "Зуёк малый",
             "nameInLatin": "Charadrius dubius",
             "article": [
@@ -914,10 +913,10 @@
                 "/birdsData/zuek-malyy/images/zuek-malyy-5.jpeg"
             ],
             "audioPath": "/birdsData/zuek-malyy/audio/zuek-malyy.mp3",
-            "relatedBirds": ["dupel", "porucheynik"]
+            "relatedBirds": []
         },
         {
-            "id": "zyablik",
+            "id": "zyablikиспользовано+",
             "name": "Зяблик",
             "nameInLatin": "Fringilla coelebs",
             "article": [
@@ -966,10 +965,10 @@
                 "/birdsData/zyablik/images/zyablik-5.jpeg"
             ],
             "audioPath": "/birdsData/zyablik/audio/zyablik.mp3",
-            "relatedBirds": ["piskulka", "korolek-zheltogolovyy"]
+            "relatedBirds": []
         },
         {
-            "id": "ivolga-obyknovennaya",
+            "id": "ivolga-obyknovennayaиспользовано+",
             "name": "Иволга обыкновенная",
             "nameInLatin": "Oriolus oriolusтGolden",
             "article": [
@@ -1001,10 +1000,10 @@
                 "/birdsData/ivolga-obyknovennaya/images/ivolga-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/ivolga-obyknovennaya/audio/ivolga-obyknovennaya.mp3",
-            "relatedBirds": ["kedrovka", "kazarka-beloschekaya"]
+            "relatedBirds": []
         },
         {
-            "id": "kazarka-beloschekaya",
+            "id": "kazarka-beloschekayaиспользовано+",
             "name": "Казарка белощёкая",
             "nameInLatin": "Branta leucopsis",
             "article": [
@@ -1020,10 +1019,10 @@
                 "/birdsData/kazarka-beloschekaya/images/kazarka-beloschekaya-5.jpeg"
             ],
             "audioPath": "/birdsData/kazarka-beloschekaya/audio/kazarka-beloschekaya.mp3",
-            "relatedBirds": ["yastreb-perepelyatnik", "kuropatka-belaya"]
+            "relatedBirds": []
         },
         {
-            "id": "kamenka-obyknovennaya",
+            "id": "kamenka-obyknovennayaиспользовано+",
             "name": "Каменка обыкновенная",
             "nameInLatin": "Oenanthe oenanthe",
             "article": [
@@ -1043,10 +1042,10 @@
                 "/birdsData/kamenka-obyknovennaya/images/kamenka-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/kamenka-obyknovennaya/audio/kamenka-obyknovennaya.mp3",
-            "relatedBirds": ["lastochka-beregovushka", "ivolga-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "kamyshnica",
+            "id": "kamyshnicaиспользовано+",
             "name": "Камышница",
             "nameInLatin": "Gallinula chloropus",
             "article": [
@@ -1084,10 +1083,10 @@
                 "/birdsData/kamyshnica/images/kamyshnica-5.jpeg"
             ],
             "audioPath": "/birdsData/kamyshnica/audio/kamyshnica.mp3",
-            "relatedBirds": ["osoed-obyknovennyy", "chechevica-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "kamyshovka-barsuchok",
+            "id": "kamyshovka-barsuchokиспоьзовано+",
             "name": "Камышовка-барсучок",
             "nameInLatin": "Acrocephalus schoenobaenus",
             "article": [
@@ -1106,10 +1105,10 @@
                 "/birdsData/kamyshovka-barsuchok/images/kamyshovka-barsuchok-5.jpeg"
             ],
             "audioPath": "/birdsData/kamyshovka-barsuchok/audio/kamyshovka-barsuchok.mp3",
-            "relatedBirds": ["neyasyt-borodataya", "drozd-belobrovik"]
+            "relatedBirds": []
         },
         {
-            "id": "kanyuk-obyknovennyy",
+            "id": "kanyuk-obyknovennyyиспользовано+",
             "name": "Канюк обыкновенный",
             "nameInLatin": "Buteo buteo",
             "article": [
@@ -1129,10 +1128,10 @@
                 "/birdsData/kanyuk-obyknovennyy/images/kanyuk-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/kanyuk-obyknovennyy/audio/kanyuk-obyknovennyy.mp3",
-            "relatedBirds": ["klintuh", "gaga-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "kedrovka",
+            "id": "kedrovkaиспользовано+",
             "name": "Кедровка",
             "nameInLatin": "Nucifraga caryocatactes",
             "article": [
@@ -1154,10 +1153,10 @@
                 "/birdsData/kedrovka/images/kedrovka-5.jpeg"
             ],
             "audioPath": "/birdsData/kedrovka/audio/kedrovka.mp3",
-            "relatedBirds": ["gogol-obyknovennyy", "sverchok-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "klest-belokrylyy",
+            "id": "klest-belokrylyyиспользовано+",
             "name": "Клёст белокрылый",
             "nameInLatin": "Loxia leucoptera",
             "article": [
@@ -1173,10 +1172,10 @@
                 "/birdsData/klest-belokrylyy/images/klest-belokrylyy-5.jpeg"
             ],
             "audioPath": "/birdsData/klest-belokrylyy/audio/klest-belokrylyy.mp3",
-            "relatedBirds": ["sych-domovyy", "krohal-bolshoy"]
+            "relatedBirds": []
         },
         {
-            "id": "klintuh",
+            "id": "klintuhиспользовано+",
             "name": "Клинтух",
             "nameInLatin": "Columba oenas",
             "article": [
@@ -1201,10 +1200,10 @@
                 "/birdsData/klintuh/images/klintuh-5.jpeg"
             ],
             "audioPath": "/birdsData/klintuh/audio/klintuh.mp3",
-            "relatedBirds": ["sorokoput-seryy", "pischuha-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "kobchik",
+            "id": "kobchikиспользовано+",
             "name": "Кобчик",
             "nameInLatin": "Falco vespertinus",
             "article": [
@@ -1222,10 +1221,10 @@
                 "/birdsData/kobchik/images/kobchik-5.jpeg"
             ],
             "audioPath": "/birdsData/kobchik/audio/kobchik.mp3",
-            "relatedBirds": ["kamyshnica", "chernysh"]
+            "relatedBirds": []
         },
         {
-            "id": "kozodoy-obyknovennyy",
+            "id": "kozodoy-obyknovennyyиспользовано+",
             "name": "Козодой обыкновенный",
             "nameInLatin": "Caprimulgus europaeus",
             "article": [
@@ -1260,10 +1259,10 @@
                 "/birdsData/kozodoy-obyknovennyy/images/kozodoy-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/kozodoy-obyknovennyy/audio/kozodoy-obyknovennyy.mp3",
-            "relatedBirds": ["krapivnik", "punochka"]
+            "relatedBirds": []
         },
         {
-            "id": "konek-lesnoy",
+            "id": "konek-lesnoyиспользовано+",
             "name": "Конёк лесной",
             "nameInLatin": "Anthus trivialis",
             "article": [
@@ -1279,10 +1278,10 @@
                 "/birdsData/konek-lesnoy/images/konek-lesnoy-5.jpeg"
             ],
             "audioPath": "/birdsData/konek-lesnoy/audio/konek-lesnoy.mp3",
-            "relatedBirds": ["kamyshovka-barsuchok", "solovey-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "konoplyanka",
+            "id": "konoplyankaиспользовано+",
             "name": "Коноплянка",
             "nameInLatin": "Acanthis cannabina",
             "article": [
@@ -1308,10 +1307,10 @@
                 "/birdsData/konoplyanka/images/konoplyanka-5.jpeg"
             ],
             "audioPath": "/birdsData/konoplyanka/audio/konoplyanka.mp3",
-            "relatedBirds": ["zelenushka-obyknovennaya", "podorlik-bolshoy"]
+            "relatedBirds": []
         },
         {
-            "id": "korolek-zheltogolovyy",
+            "id": "korolek-zheltogolovyyиспользовано+",
             "name": "Королёк жёлтоголовый",
             "nameInLatin": "Regulus regulus",
             "article": [
@@ -1346,10 +1345,10 @@
                 "/birdsData/korolek-zheltogolovyy/images/korolek-zheltogolovyy-5.jpeg"
             ],
             "audioPath": "/birdsData/korolek-zheltogolovyy/audio/korolek-zheltogolovyy.mp3",
-            "relatedBirds": ["voron", "splyushka"]
+            "relatedBirds": []
         },
         {
-            "id": "korostel",
+            "id": "korostelиспользовано+",
             "name": "Коростель",
             "nameInLatin": "Crex crex",
             "article": [
@@ -1413,10 +1412,10 @@
                 "/birdsData/korostel/images/korostel-5.jpeg"
             ],
             "audioPath": "/birdsData/korostel/audio/korostel.mp3",
-            "relatedBirds": ["tryasoguzka-belaya", "perepel-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "korshun-chernyy",
+            "id": "korshun-chernyyиспользовано+",
             "name": "Коршун чёрный",
             "nameInLatin": "Milvus migrans",
             "article": [
@@ -1438,10 +1437,10 @@
                 "/birdsData/korshun-chernyy/images/korshun-chernyy-5.jpeg"
             ],
             "audioPath": "/birdsData/korshun-chernyy/audio/korshun-chernyy.mp3",
-            "relatedBirds": ["kulik-soroka", "zimnyak"]
+            "relatedBirds": []
         },
         {
-            "id": "krapivnik",
+            "id": "krapivnikиспользовано+",
             "name": "Крапивник",
             "nameInLatin": "Troglodytes troglodytes",
             "article": [
@@ -1476,10 +1475,10 @@
                 "/birdsData/krapivnik/images/krapivnik-5.jpeg"
             ],
             "audioPath": "/birdsData/krapivnik/audio/krapivnik.mp3",
-            "relatedBirds": ["berkut", "chechetka-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "krachka-belokrylaya",
+            "id": "krachka-belokrylayaиспользовано+",
             "name": "Крачка белокрылая",
             "nameInLatin": "Chlidonias leucopterus",
             "article": [
@@ -1495,10 +1494,10 @@
                 "/birdsData/krachka-belokrylaya/images/krachka-belokrylaya-5.jpeg"
             ],
             "audioPath": "/birdsData/krachka-belokrylaya/audio/krachka-belokrylaya.mp3",
-            "relatedBirds": ["sviyaz", "pustelga-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "krechet",
+            "id": "krechetиспользовано+",
             "name": "Кречет",
             "nameInLatin": "Falco rusticolus",
             "article": [
@@ -1528,10 +1527,10 @@
                 "/birdsData/krechet/images/krechet-5.jpeg"
             ],
             "audioPath": "/birdsData/krechet/audio/krechet.mp3",
-            "relatedBirds": ["gus-belolobyy", "vorona-seraya"]
+            "relatedBirds": []
         },
         {
-            "id": "kronshnep-bolshoy",
+            "id": "kronshnep-bolshoyиспользовано+",
             "name": "Кроншнеп большой",
             "nameInLatin": "Numenius arquata",
             "article": [
@@ -1551,10 +1550,10 @@
                 "/birdsData/kronshnep-bolshoy/images/kronshnep-bolshoy-5.jpeg"
             ],
             "audioPath": "/birdsData/kronshnep-bolshoy/audio/kronshnep-bolshoy.mp3",
-            "relatedBirds": ["chekan-lugovoy", "skopa"]
+            "relatedBirds": []
         },
         {
-            "id": "krohal-bolshoy",
+            "id": "krohal-bolshoyиспользовано+",
             "name": "Крохаль большой",
             "nameInLatin": "Mergus merganser",
             "article": [
@@ -1579,10 +1578,10 @@
                 "/birdsData/krohal-bolshoy/images/krohal-bolshoy-5.jpeg"
             ],
             "audioPath": "/birdsData/krohal-bolshoy/audio/krohal-bolshoy.mp3",
-            "relatedBirds": ["morodunka", "snegir-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "kryakva",
+            "id": "kryakvaиспользовано+",
             "name": "Кряква",
             "nameInLatin": "Anas platyrhynchos",
             "article": [
@@ -1689,10 +1688,10 @@
                 "/birdsData/kryakva/images/kryakva-5.jpeg"
             ],
             "audioPath": "/birdsData/kryakva/audio/kryakva.mp3",
-            "relatedBirds": ["krechet", "dubonos-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "kukushka-gluhaya",
+            "id": "kukushka-gluhayaиспользовано+",
             "name": "Кукушка глухая",
             "nameInLatin": "Cuculus saturatus",
             "article": [
@@ -1712,10 +1711,10 @@
                 "/birdsData/kukushka-gluhaya/images/kukushka-gluhaya-5.jpeg"
             ],
             "audioPath": "/birdsData/kukushka-gluhaya/audio/kukushka-gluhaya.mp3",
-            "relatedBirds": ["aist-chernyy", "orlan-belohvost"]
+            "relatedBirds": []
         },
         {
-            "id": "kuksha",
+            "id": "kukshaиспользовано+",
             "name": "Кукша",
             "nameInLatin": "Perisoreus infaustus",
             "article": [
@@ -1745,10 +1744,10 @@
                 "/birdsData/kuksha/images/kuksha-5.jpeg"
             ],
             "audioPath": "/birdsData/kuksha/audio/kuksha.mp3",
-            "relatedBirds": ["filin", "korshun-chernyy"]
+            "relatedBirds": []
         },
         {
-            "id": "kulik-soroka",
+            "id": "kulik-sorokaиспользовано+",
             "name": "Кулик-сорока",
             "nameInLatin": "Haematopus ostralegus",
             "article": [
@@ -1777,10 +1776,10 @@
                 "/birdsData/kulik-soroka/images/kulik-soroka-5.jpeg"
             ],
             "audioPath": "/birdsData/kulik-soroka/audio/kulik-soroka.mp3",
-            "relatedBirds": ["zhuravl-seryy", "chibis"]
+            "relatedBirds": []
         },
         {
-            "id": "kuropatka-belaya",
+            "id": "kuropatka-belayaиспользовано+",
             "name": "Куропатка белая",
             "nameInLatin": "Lagopus lagopus",
             "article": [
@@ -1826,10 +1825,10 @@
                 "/birdsData/kuropatka-belaya/images/kuropatka-belaya-5.jpeg"
             ],
             "audioPath": "/birdsData/kuropatka-belaya/audio/kuropatka-belaya.mp3",
-            "relatedBirds": ["sapsan", "konek-lesnoy"]
+            "relatedBirds": []
         },
         {
-            "id": "lastochka-beregovushka",
+            "id": "lastochka-beregovushkaиспользовано+",
             "name": "Ласточка-береговушка",
             "nameInLatin": "Riparia riparia",
             "article": [
@@ -1854,10 +1853,10 @@
                 "/birdsData/lastochka-beregovushka/images/lastochka-beregovushka-5.jpeg"
             ],
             "audioPath": "/birdsData/lastochka-beregovushka/audio/lastochka-beregovushka.mp3",
-            "relatedBirds": ["kukushka-gluhaya", "caplya-seraya"]
+            "relatedBirds": []
         },
         {
-            "id": "lebed-klikun",
+            "id": "lebed-klikunиспользовано+",
             "name": "Лебедь-кликун",
             "nameInLatin": "Cygnus cygnus",
             "article": [
@@ -1880,10 +1879,10 @@
                 "/birdsData/lebed-klikun/images/lebed-klikun-5.jpeg"
             ],
             "audioPath": "/birdsData/lebed-klikun/audio/lebed-klikun.mp3",
-            "relatedBirds": ["dubrovnik", "sviristel-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "lun-bolotnyy",
+            "id": "lun-bolotnyyиспользовано+",
             "name": "Лунь болотный",
             "nameInLatin": "Circus aeruginosus",
             "article": [
@@ -1899,10 +1898,10 @@
                 "/birdsData/lun-bolotnyy/images/lun-bolotnyy-5.jpeg"
             ],
             "audioPath": "/birdsData/lun-bolotnyy/audio/lun-bolotnyy.mp3",
-            "relatedBirds": ["soroka-obyknovennaya", "lutok"]
+            "relatedBirds": []
         },
         {
-            "id": "lutok",
+            "id": "lutokиспользовано+",
             "name": "Луток",
             "nameInLatin": "Mergus albellus",
             "article": [
@@ -1929,10 +1928,10 @@
                 "/birdsData/lutok/images/lutok-5.jpeg"
             ],
             "audioPath": "/birdsData/lutok/audio/lutok.mp3",
-            "relatedBirds": ["konoplyanka", "aist-belyy"]
+            "relatedBirds": []
         },
         {
-            "id": "lysuha",
+            "id": "lysuhaиспользовано+",
             "name": "Лысуха",
             "nameInLatin": "Fulica atra Common coot",
             "article": [
@@ -1973,10 +1972,10 @@
                 "/birdsData/lysuha/images/lysuha-5.jpeg"
             ],
             "audioPath": "/birdsData/lysuha/audio/lysuha.mp3",
-            "relatedBirds": ["zyablik", "turuhtan"]
+            "relatedBirds": []
         },
         {
-            "id": "morodunka",
+            "id": "morodunkaиспользовано+",
             "name": "Мородунка",
             "nameInLatin": "Xenus cinereus",
             "article": [
@@ -2002,10 +2001,10 @@
                 "/birdsData/morodunka/images/morodunka-5.jpeg"
             ],
             "audioPath": "/birdsData/morodunka/audio/morodunka.mp3",
-            "relatedBirds": ["sova-belaya", "kryakva"]
+            "relatedBirds": []
         },
         {
-            "id": "muholovka-malaya",
+            "id": "muholovka-malayaиспользовано",
             "name": "Мухоловка малая",
             "nameInLatin": "Ficedula parva",
             "article": [
@@ -2025,10 +2024,10 @@
                 "/birdsData/muholovka-malaya/images/muholovka-malaya-5.jpeg"
             ],
             "audioPath": "/birdsData/muholovka-malaya/audio/muholovka-malaya.mp3",
-            "relatedBirds": ["penochka-vesnichka", "gagara-krasnozobaya"]
+            "relatedBirds": []
         },
         {
-            "id": "neyasyt-borodataya",
+            "id": "neyasyt-borodatayaиспользовано+",
             "name": "Неясыть бородатая",
             "nameInLatin": "Strix nebulosa",
             "article": [
@@ -2054,10 +2053,10 @@
                 "/birdsData/neyasyt-borodataya/images/neyasyt-borodataya-5.jpeg"
             ],
             "audioPath": "/birdsData/neyasyt-borodataya/audio/neyasyt-borodataya.mp3",
-            "relatedBirds": ["krachka-belokrylaya", "strizh-chernyy"]
+            "relatedBirds": []
         },
         {
-            "id": "nyrok-krasnogolovyy",
+            "id": "nyrok-krasnogolovyyиспользовано+",
             "name": "Нырок красноголовый",
             "nameInLatin": "Aythya ferina",
             "article": [
@@ -2084,10 +2083,10 @@
                 "/birdsData/nyrok-krasnogolovyy/images/nyrok-krasnogolovyy-5.jpeg"
             ],
             "audioPath": "/birdsData/nyrok-krasnogolovyy/audio/nyrok-krasnogolovyy.mp3",
-            "relatedBirds": ["yurok", "popolzen-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "ovsyanka-kamyshovaya",
+            "id": "ovsyanka-kamyshovayaиспользовано+",
             "name": "Овсянка камышовая",
             "nameInLatin": "Emberiza schoeniclus",
             "article": [
@@ -2103,10 +2102,10 @@
                 "/birdsData/ovsyanka-kamyshovaya/images/ovsyanka-kamyshovaya-5.jpeg"
             ],
             "audioPath": "/birdsData/ovsyanka-kamyshovaya/audio/ovsyanka-kamyshovaya.mp3",
-            "relatedBirds": ["travnik", "caplya-seraya"]
+            "relatedBirds": []
         },
         {
-            "id": "olyapka-obyknovennaya",
+            "id": "olyapka-obyknovennayaиспользовано+",
             "name": "Оляпка обыкновенная",
             "nameInLatin": "Cinclus cinclus",
             "article": [
@@ -2135,10 +2134,10 @@
                 "/birdsData/olyapka-obyknovennaya/images/olyapka-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/olyapka-obyknovennaya/audio/olyapka-obyknovennaya.mp3",
-            "relatedBirds": ["punochka", "teterev"]
+            "relatedBirds": []
         },
         {
-            "id": "orlan-belohvost",
+            "id": "orlan-belohvostиспользовано+",
             "name": "Орлан-белохвост",
             "nameInLatin": "Haliaeetus albicilla",
             "article": [
@@ -2170,10 +2169,10 @@
                 "/birdsData/orlan-belohvost/images/orlan-belohvost-5.jpeg"
             ],
             "audioPath": "/birdsData/orlan-belohvost/audio/orlan-belohvost.mp3",
-            "relatedBirds": ["popolzen-obyknovennyy", "sorokoput-seryy"]
+            "relatedBirds": []
         },
         {
-            "id": "osoed-obyknovennyy",
+            "id": "osoed-obyknovennyyиспользовано+",
             "name": "Осоед обыкновенный",
             "nameInLatin": "Pernis apivorus",
             "article": [
@@ -2190,10 +2189,10 @@
                 "/birdsData/osoed-obyknovennyy/images/osoed-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/osoed-obyknovennyy/audio/osoed-obyknovennyy.mp3",
-            "relatedBirds": ["podorlik-bolshoy", "podorozhnik-laplandskiy"]
+            "relatedBirds": []
         },
         {
-            "id": "pastushok-vodyanoy",
+            "id": "pastushok-vodyanoyиспользовано+",
             "name": "Пастушок водяной",
             "nameInLatin": "Rallus aquaticus",
             "article": [
@@ -2209,10 +2208,10 @@
                 "/birdsData/pastushok-vodyanoy/images/pastushok-vodyanoy-5.jpeg"
             ],
             "audioPath": "/birdsData/pastushok-vodyanoy/audio/pastushok-vodyanoy.mp3",
-            "relatedBirds": ["perepel-obyknovennyy", "sova-belaya"]
+            "relatedBirds": []
         },
         {
-            "id": "penochka-vesnichka",
+            "id": "penochka-vesnichkaиспользовано+",
             "name": "Пеночка-весничка",
             "nameInLatin": "Phylloscopus trochilus",
             "article": [
@@ -2235,10 +2234,10 @@
                 "/birdsData/penochka-vesnichka/images/penochka-vesnichka-5.jpeg"
             ],
             "audioPath": "/birdsData/penochka-vesnichka/audio/penochka-vesnichka.mp3",
-            "relatedBirds": ["peresmeshka-zelenaya", "sverchok-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "perevozchik",
+            "id": "perevozchikиспользовано+",
             "name": "Перевозчик",
             "nameInLatin": "Actitis hypoleucos",
             "article": [
@@ -2252,10 +2251,10 @@
                 "/birdsData/perevozchik/images/perevozchik-5.jpeg"
             ],
             "audioPath": "/birdsData/perevozchik/audio/perevozchik.mp3",
-            "relatedBirds": ["olyapka-obyknovennaya", "osoed-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "peresmeshka-zelenaya",
+            "id": "peresmeshka-zelenayaиспользовано+",
             "name": "Пересмешка зелёная",
             "nameInLatin": "Hippolais icterina",
             "article": [
@@ -2271,10 +2270,10 @@
                 "/birdsData/peresmeshka-zelenaya/images/peresmeshka-zelenaya-5.jpeg"
             ],
             "audioPath": "/birdsData/peresmeshka-zelenaya/audio/peresmeshka-zelenaya.mp3",
-            "relatedBirds": ["kuropatka-belaya", "morodunka"]
+            "relatedBirds": []
         },
         {
-            "id": "perepel-obyknovennyy",
+            "id": "perepel-obyknovennyyиспользовано+",
             "name": "Перепел обыкновенный",
             "nameInLatin": "Coturnix coturnix",
             "article": [
@@ -2307,10 +2306,10 @@
                 "/birdsData/perepel-obyknovennyy/images/perepel-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/perepel-obyknovennyy/audio/perepel-obyknovennyy.mp3",
-            "relatedBirds": ["kryakva", "kulik-soroka"]
+            "relatedBirds": []
         },
         {
-            "id": "piskulka",
+            "id": "piskulkaиспользовано+",
             "name": "Пискулька",
             "nameInLatin": "Anser erythropus",
             "article": [
@@ -2331,10 +2330,10 @@
                 "/birdsData/piskulka/images/piskulka-5.jpeg"
             ],
             "audioPath": "/birdsData/piskulka/audio/piskulka.mp3",
-            "relatedBirds": ["krechet", "krohal-bolshoy"]
+            "relatedBirds": []
         },
         {
-            "id": "pischuha-obyknovennaya",
+            "id": "pischuha-obyknovennayaиспользовано+",
             "name": "Пищуха обыкновенная",
             "nameInLatin": "Certhia familiaris",
             "article": [
@@ -2368,10 +2367,10 @@
                 "/birdsData/pischuha-obyknovennaya/images/pischuha-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/pischuha-obyknovennaya/audio/pischuha-obyknovennaya.mp3",
-            "relatedBirds": ["kobchik", "krapivnik"]
+            "relatedBirds": []
         },
         {
-            "id": "poganka-bolshaya-(chomga)",
+            "id": "poganka-bolshaya-(chomga)использовано+",
             "name": "Поганка большая (Чомга)",
             "nameInLatin": "Podiceps cristatus",
             "article": [
@@ -2387,10 +2386,10 @@
                 "/birdsData/poganka-bolshaya-(chomga)/images/poganka-bolshaya-(chomga)-5.jpeg"
             ],
             "audioPath": "/birdsData/poganka-bolshaya-(chomga)/audio/poganka-bolshaya-(chomga).mp3",
-            "relatedBirds": ["kedrovka", "klintuh"]
+            "relatedBirds": []
         },
         {
-            "id": "pogonysh",
+            "id": "pogonyshиспользовано+",
             "name": "Погоныш",
             "nameInLatin": "Porzana porzana",
             "article": [
@@ -2415,10 +2414,10 @@
                 "/birdsData/pogonysh/images/pogonysh-5.jpeg"
             ],
             "audioPath": "/birdsData/pogonysh/audio/pogonysh.mp3",
-            "relatedBirds": ["kamenka-obyknovennaya", "kamyshovka-barsuchok"]
+            "relatedBirds": []
         },
         {
-            "id": "podorlik-bolshoy",
+            "id": "podorlik-bolshoyиспользовано+",
             "name": "Подорлик большой",
             "nameInLatin": "Aquila clanga",
             "article": [
@@ -2438,10 +2437,10 @@
                 "/birdsData/podorlik-bolshoy/images/podorlik-bolshoy-5.jpeg"
             ],
             "audioPath": "/birdsData/podorlik-bolshoy/audio/podorlik-bolshoy.mp3",
-            "relatedBirds": ["krachka-belokrylaya",  "kazarka-beloschekaya"]
+            "relatedBirds": []
         },
         {
-            "id": "podorozhnik-laplandskiy",
+            "id": "podorozhnik-laplandskiyиспользовано",
             "name": "Подорожник лапландский",
             "nameInLatin": "Calcarius lapponicus",
             "article": [
@@ -2457,10 +2456,10 @@
                 "/birdsData/podorozhnik-laplandskiy/images/podorozhnik-laplandskiy-5.jpeg"
             ],
             "audioPath": "/birdsData/podorozhnik-laplandskiy/audio/podorozhnik-laplandskiy.mp3",
-            "relatedBirds": ["schegol-chernogolovyy", "lutok"]
+            "relatedBirds": []
         },
         {
-            "id": "popolzen-obyknovennyy",
+            "id": "popolzen-obyknovennyyиспользовано+",
             "name": "Поползень обыкновенный",
             "nameInLatin": "Sitta europaea",
             "article": [
@@ -2485,10 +2484,10 @@
                 "/birdsData/popolzen-obyknovennyy/images/popolzen-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/popolzen-obyknovennyy/audio/popolzen-obyknovennyy.mp3",
-            "relatedBirds": ["nyrok-krasnogolovyy", "zimorodok-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "porucheynik",
+            "id": "porucheynikиспользовано+",
             "name": "Поручейник",
             "nameInLatin": "Tringa stagnatilis",
             "article": [
@@ -2506,10 +2505,10 @@
                 "/birdsData/porucheynik/images/porucheynik-5.jpeg"
             ],
             "audioPath": "/birdsData/porucheynik/audio/porucheynik.mp3",
-            "relatedBirds": ["korostel", "chirok-svistunok"]
+            "relatedBirds": []
         },
         {
-            "id": "punochka",
+            "id": "punochkaиспользовано+",
             "name": "Пуночка",
             "nameInLatin": "Plectrophenax nivalis",
             "article": [
@@ -2532,10 +2531,10 @@
                 "/birdsData/punochka/images/punochka-5.jpeg"
             ],
             "audioPath": "/birdsData/punochka/audio/punochka.mp3",
-            "relatedBirds": ["sviyaz", "piskulka"]
+            "relatedBirds": []
         },
         {
-            "id": "pustelga-obyknovennaya",
+            "id": "pustelga-obyknovennayaиспользовано+",
             "name": "Пустельга обыкновенная",
             "nameInLatin": "Falco tinnunculus",
             "article": [
@@ -2586,10 +2585,10 @@
                 "/birdsData/pustelga-obyknovennaya/images/pustelga-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/pustelga-obyknovennaya/audio/pustelga-obyknovennaya.mp3",
-            "relatedBirds": ["zhavoronok-lesnoy-(yula)", "strizh-chernyy"]
+            "relatedBirds": []
         },
         {
-            "id": "ryabchik",
+            "id": "ryabchikиспользовано+",
             "name": "Рябчик",
             "nameInLatin": "Tetrastes bonasia",
             "article": [
@@ -2629,10 +2628,10 @@
                 "/birdsData/ryabchik/images/ryabchik-5.jpeg"
             ],
             "audioPath": "/birdsData/ryabchik/audio/ryabchik.mp3",
-            "relatedBirds": ["lebed-klikun", "cheglok"]
+            "relatedBirds": []
         },
         {
-            "id": "sapsan",
+            "id": "sapsanиспользовано+",
             "name": "Сапсан",
             "nameInLatin": "Falco peregrinus",
             "article": [
@@ -2684,10 +2683,10 @@
                 "/birdsData/sapsan/images/sapsan-5.jpeg"
             ],
             "audioPath": "/birdsData/sapsan/audio/sapsan.mp3",
-            "relatedBirds": ["shilohvost", "penochka-vesnichka"]
+            "relatedBirds": []
         },
         {
-            "id": "sverchok-obyknovennyy",
+            "id": "sverchok-obyknovennyyиспользовано+",
             "name": "Сверчок обыкновенный",
             "nameInLatin": "Locustella naevia",
             "article": [
@@ -2706,10 +2705,10 @@
                 "/birdsData/sverchok-obyknovennyy/images/sverchok-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/sverchok-obyknovennyy/audio/sverchok-obyknovennyy.mp3",
-            "relatedBirds": ["kanyuk-obyknovennyy", "filin"]
+            "relatedBirds": []
         },
         {
-            "id": "sviristel-obyknovennyy",
+            "id": "sviristel-obyknovennyyиспользовано+",
             "name": "Свиристель обыкновенный",
             "nameInLatin": "Bombycilla garrulus",
             "article": [
@@ -2730,10 +2729,10 @@
                 "/birdsData/sviristel-obyknovennyy/images/sviristel-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/sviristel-obyknovennyy/audio/sviristel-obyknovennyy.mp3",
-            "relatedBirds": ["neyasyt-borodataya", "konek-lesnoy"]
+            "relatedBirds": []
         },
         {
-            "id": "sviyaz",
+            "id": "sviyazиспользовано+",
             "name": "Свиязь",
             "nameInLatin": "Anas penelope",
             "article": [
@@ -2759,10 +2758,10 @@
                 "/birdsData/sviyaz/images/sviyaz-5.jpeg"
             ],
             "audioPath": "/birdsData/sviyaz/audio/sviyaz.mp3",
-            "relatedBirds": ["chibis", "sizovoronka"]
+            "relatedBirds": []
         },
         {
-            "id": "sizovoronka",
+            "id": "sizovoronkaиспользовано+",
             "name": "Сизоворонка",
             "nameInLatin": "Coracias garrulus",
             "article": [
@@ -2781,10 +2780,10 @@
                 "/birdsData/sizovoronka/images/sizovoronka-5.jpeg"
             ],
             "audioPath": "/birdsData/sizovoronka/audio/sizovoronka.mp3",
-            "relatedBirds": ["drozd-belobrovik", "snegir-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "sinica-bolshaya",
+            "id": "sinica-bolshayaиспользовано+",
             "name": "Синица большая",
             "nameInLatin": "Parus major",
             "article": [
@@ -2827,10 +2826,10 @@
                 "/birdsData/sinica-bolshaya/images/sinica-bolshaya-5.jpeg"
             ],
             "audioPath": "/birdsData/sinica-bolshaya/audio/sinica-bolshaya.mp3",
-            "relatedBirds": ["korshun-chernyy", "korshun-chernyy"]
+            "relatedBirds": []
         },
         {
-            "id": "skvorec-obyknovennyy",
+            "id": "skvorec-obyknovennyy использовано+",
             "name": "Скворец обыкновенный",
             "nameInLatin": "Sturnus vulgaris",
             "article": [
@@ -2880,10 +2879,10 @@
                 "/birdsData/skvorec-obyknovennyy/images/skvorec-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/skvorec-obyknovennyy/audio/skvorec-obyknovennyy.mp3",
-            "relatedBirds": ["shirokonoska", "pastushok-vodyanoy"]
+            "relatedBirds": []
         },
         {
-            "id": "skopa",
+            "id": "skopaиспользовано+",
             "name": "Скопа",
             "nameInLatin": "Pandion haliaetus",
             "article": [
@@ -2923,10 +2922,10 @@
                 "/birdsData/skopa/images/skopa-5.jpeg"
             ],
             "audioPath": "/birdsData/skopa/audio/skopa.mp3",
-            "relatedBirds": ["konoplyanka", "chechetka-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "slavka-zavirushka",
+            "id": "slavka-zavirushkaиспользовано+",
             "name": "Славка-завирушка",
             "nameInLatin": "Sylvia currucaLesser",
             "article": [
@@ -2948,13 +2947,14 @@
                 "/birdsData/slavka-zavirushka/images/slavka-zavirushka-5.jpeg"
             ],
             "audioPath": "/birdsData/slavka-zavirushka/audio/slavka-zavirushka.mp3",
-            "relatedBirds": ["sapsan", "orlan-belohvost"]
+            "relatedBirds": []
         },
         {
-            "id": "snegir-obyknovennyy",
+            "id": "snegir-obyknovennyyиспользовано+",
             "name": "Снегирь обыкновенный",
             "nameInLatin": "Pyrrhula pyrrhula",
             "article": [
+                " Только гнездится Круглогодично",
                 "Снеги́рь, или обыкнове́нный снеги́рь (лат. Pyrrhula pyrrhula) — певчая птица рода снегирей (Pyrrhula), семейства вьюрковых.",
                 "Птица мелких размеров, чуть больше воробья. Голова сверху, вокруг клюва и глаз — чёрная. Маховые и рулевые перья тоже чёрные, с синим металлическим отливом. Поясница и подхвостье — белые. Спина, плечи и зашеек у самца серые. Щёки, шея снизу, брюхо и бока — красные. Тон и интенсивность окраски нижней стороны тела зависит от подвидовой принадлежности и индивидуальных особенностей. Зашеек и плечи самки серые. Спина буровато-коричневая. Щёки, шея снизу, живот и бока — серо-коричневые. Оперение птенцов преимущественно охристо-коричневого цвета. «Чёрной шапочки», как у взрослых особей, на голове у птенцов нет.",
                 "Снегири населяют всю Европу, Переднюю Азию, Восточную Азию, включая Сибирь, Камчатку, а также Японию. Южная граница проходит примерно по широте северной Испании, Апеннинам, северной Греции и по северу Малой Азии. Снегири населяют как низменные, так и горные леса, отсутствуют на безлесных территориях и к северу от лесной зоны. В России снегири распространены по всей лесной и, частично, лесостепной зоне, где встречаются хвойные деревья, с запада на восток.",
@@ -2981,10 +2981,10 @@
                 "/birdsData/snegir-obyknovennyy/images/snegir-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/snegir-obyknovennyy/audio/snegir-obyknovennyy.mp3",
-            "relatedBirds": ["chernysh", "tryasoguzka-belaya"]
+            "relatedBirds": []
         },
         {
-            "id": "sova-belaya",
+            "id": "sova-belayaиспользовано+",
             "name": "Сова белая",
             "nameInLatin": "Nyctea scandiaca",
             "article": [
@@ -3032,10 +3032,10 @@
                 "/birdsData/sova-belaya/images/sova-belaya-5.jpeg"
             ],
             "audioPath": "/birdsData/sova-belaya/audio/sova-belaya.mp3",
-            "relatedBirds": ["fifi", "vorona-seraya"]
+            "relatedBirds": []
         },
         {
-            "id": "soyka-obyknovennaya",
+            "id": "soyka-obyknovennayaиспользовано+",
             "name": "Сойка обыкновенная",
             "nameInLatin": "Garrulus glandarius",
             "article": [
@@ -3051,10 +3051,10 @@
                 "/birdsData/soyka-obyknovennaya/images/soyka-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/soyka-obyknovennaya/audio/soyka-obyknovennaya.mp3",
-            "relatedBirds": ["soroka-obyknovennaya", "muholovka-malaya"]
+            "relatedBirds": []
         },
         {
-            "id": "solovey-obyknovennyy",
+            "id": "solovey-obyknovennyyиспользовано+",
             "name": "Соловей обыкновенный",
             "nameInLatin": "Luscinia luscinia",
             "article": [
@@ -3070,10 +3070,10 @@
                 "/birdsData/solovey-obyknovennyy/images/solovey-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/solovey-obyknovennyy/audio/solovey-obyknovennyy.mp3",
-            "relatedBirds": ["kuksha", "berkut"]
+            "relatedBirds": []
         },
         {
-            "id": "soroka-obyknovennaya",
+            "id": "soroka-obyknovennayaиспользовано+",
             "name": "Сорока обыкновенная",
             "nameInLatin": "Pica pica",
             "article": [
@@ -3110,10 +3110,10 @@
                 "/birdsData/soroka-obyknovennaya/images/soroka-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/soroka-obyknovennaya/audio/soroka-obyknovennaya.mp3",
-            "relatedBirds": ["udod", "schur-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "sorokoput-seryy",
+            "id": "sorokoput-seryyиспользовано+",
             "name": "Сорокопут серый",
             "nameInLatin": "Lanius excubitor",
             "article": [
@@ -3139,10 +3139,10 @@
                 "/birdsData/sorokoput-seryy/images/sorokoput-seryy-5.jpeg"
             ],
             "audioPath": "/birdsData/sorokoput-seryy/audio/sorokoput-seryy.mp3",
-            "relatedBirds": ["pischuha-obyknovennaya", "zavirushka-lesnaya"]
+            "relatedBirds": [ ]
         },
         {
-            "id": "splyushka",
+            "id": "splyushkaиспользовано+",
             "name": "Сплюшка",
             "nameInLatin": "Otus scops",
             "article": [
@@ -3162,10 +3162,10 @@
                 "/birdsData/splyushka/images/splyushka-5.jpeg"
             ],
             "audioPath": "/birdsData/splyushka/audio/splyushka.mp3",
-            "relatedBirds": ["dubonos-obyknovennyy", "sviristel-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "strizh-chernyy",
+            "id": "strizh-chernyyиспользовано+",
             "name": "Стриж чёрный",
             "nameInLatin": "Apus apus",
             "article": [
@@ -3192,10 +3192,10 @@
                 "/birdsData/strizh-chernyy/images/strizh-chernyy-5.jpeg"
             ],
             "audioPath": "/birdsData/strizh-chernyy/audio/strizh-chernyy.mp3",
-            "relatedBirds": ["perevozchik", "ryabchik"]
+            "relatedBirds": []
         },
         {
-            "id": "sychik-vorobinyy",
+            "id": "sychik-vorobinyyиспользовано+",
             "name": "Сычик воробьиный",
             "nameInLatin": "Glauidium passerinum",
             "article": [
@@ -3216,10 +3216,10 @@
                 "/birdsData/sychik-vorobinyy/images/sychik-vorobinyy-5.jpeg"
             ],
             "audioPath": "/birdsData/sychik-vorobinyy/audio/sychik-vorobinyy.mp3",
-            "relatedBirds": ["kulik-soroka", "slavka-zavirushka"]
+            "relatedBirds": []
         },
         {
-            "id": "sych-domovyy",
+            "id": "sych-domovyyиспользовано+",
             "name": "Сыч домовый",
             "nameInLatin": "Athene noctua",
             "article": [
@@ -3235,10 +3235,10 @@
                 "/birdsData/sych-domovyy/images/sych-domovyy-5.jpeg"
             ],
             "audioPath": "/birdsData/sych-domovyy/audio/sych-domovyy.mp3",
-            "relatedBirds": ["chechevica-obyknovennaya", "porucheynik"]
+            "relatedBirds": []
         },
         {
-            "id": "teterev",
+            "id": "teterevиспользовано+",
             "name": "Тетерев",
             "nameInLatin": "Lyrurus tetrix",
             "article": [
@@ -3252,10 +3252,10 @@
                 "/birdsData/teterev/images/teterev-5.jpeg"
             ],
             "audioPath": "/birdsData/teterev/audio/teterev.mp3",
-            "relatedBirds": ["lysuha", "soyka-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "travnik",
+            "id": "travnikиспользовано+",
             "name": "Травник",
             "nameInLatin": "Tringa totanus",
             "article": [
@@ -3269,10 +3269,10 @@
                 "/birdsData/travnik/images/travnik-5.jpeg"
             ],
             "audioPath": "/birdsData/travnik/audio/travnik.mp3",
-            "relatedBirds": ["chizh", "zaryanka,-ili-malinovka"]
+            "relatedBirds": []
         },
         {
-            "id": "tryasoguzka-belaya",
+            "id": "tryasoguzka-belayaиспользовано+",
             "name": "Трясогузка белая",
             "nameInLatin": "Motacilla alba",
             "article": [
@@ -3304,10 +3304,10 @@
                 "/birdsData/tryasoguzka-belaya/images/tryasoguzka-belaya-5.jpeg"
             ],
             "audioPath": "/birdsData/tryasoguzka-belaya/audio/tryasoguzka-belaya.mp3",
-            "relatedBirds": ["chayka-malaya", "zuek-malyy"]
+            "relatedBirds": []
         },
         {
-            "id": "turuhtan",
+            "id": "turuhtanиспользовано+",
             "name": "Турухтан",
             "nameInLatin": "Philomachus pugnax",
             "article": [
@@ -3369,13 +3369,16 @@
                 "/birdsData/turuhtan/images/turuhtan-5.jpeg"
             ],
             "audioPath": "/birdsData/turuhtan/audio/turuhtan.mp3",
-            "relatedBirds": ["poganka-bolshaya-(chomga)", "bekas"]
+            "relatedBirds": []
         },
         {
-            "id": "udod",
+            "id": "udodиспользовано+",
             "name": "Удод",
             "nameInLatin": "Upupa epops",
             "article": [
+                " Места гнездовий",
+                " Круглогодично",
+                " Миграции",
                 "Удо́д (лат. Upupa epops) — небольшая ярко окрашенная птица с длинным узким клювом и хохолком, иногда раскрываемым в виде веера. Широко распространён в южных и центральных областях Европы и Азии, а также почти на всей территории Африки. Излюбленным местом обитания является открытая местность с редким кустарником или деревьями, такая как саванна, луг или пастбище. Также встречается на культивируемых ландшафтах во фруктовых садах и виноградниках. Осторожен, но не пуглив — как правило, сторонится человека и улетает при его приближении. Много времени проводит на земле, охотясь на насекомых.",
                 "Представитель семейства удодовых (Upupidae) из отряда Птиц-носорогов (Bucerotiformes). Мнения орнитологов о систематическом положении этого вида весьма разнообразны. Некоторые учёные рассматривают подвиды обыкновенного удода как отдельные виды, а также выделяли удодов в отдельный отряд удодообразных (Upupiformes).",
                 "По данным Международного союза охраны природы, довольно многочисленный вид. Несмотря на то, что общая популяция птиц за последние годы снизилась, её динамика в настоящее время не позволяет рассматривать этот вид как уязвимый. В Международной Красной книге удод имеет статус таксона минимального риска (категория LC).",
@@ -3420,10 +3423,10 @@
                 "/birdsData/udod/images/udod-5.jpeg"
             ],
             "audioPath": "/birdsData/udod/audio/udod.mp3",
-            "relatedBirds": ["ivolga-obyknovennaya", "grach"]
+            "relatedBirds": []
         },
         {
-            "id": "ulit-bolshoy",
+            "id": "ulit-bolshoyиспользовано+",
             "name": "Улит большой",
             "nameInLatin": "Tringa nebularia",
             "article": [
@@ -3441,10 +3444,10 @@
                 "/birdsData/ulit-bolshoy/images/ulit-bolshoy-5.jpeg"
             ],
             "audioPath": "/birdsData/ulit-bolshoy/audio/ulit-bolshoy.mp3",
-            "relatedBirds": ["zhulan-obyknovennyy", "ovsyanka-kamyshovaya"]
+            "relatedBirds": []
         },
         {
-            "id": "filin",
+            "id": "filinиспользовано+",
             "name": "Филин",
             "nameInLatin": "Bubo bubo",
             "article": [
@@ -3494,10 +3497,10 @@
                 "/birdsData/filin/images/filin-5.jpeg"
             ],
             "audioPath": "/birdsData/filin/audio/filin.mp3",
-            "relatedBirds": ["chekan-lugovoy", "solovey-obyknovennyy"]
+            "relatedBirds": []
         },
         {
-            "id": "fifi",
+            "id": "fifiиспользовано+",
             "name": "Фифи",
             "nameInLatin": "Tringa glareola",
             "article": [
@@ -3514,10 +3517,10 @@
                 "/birdsData/fifi/images/fifi-5.jpeg"
             ],
             "audioPath": "/birdsData/fifi/audio/fifi.mp3",
-            "relatedBirds": ["schurka-zolotistaya", "dubrovnik"]
+            "relatedBirds": []
         },
         {
-            "id": "caplya-seraya",
+            "id": "caplya-serayaиспользовано+",
             "name": "Цапля серая",
             "nameInLatin": "Ardea cinerea",
             "article": [
@@ -3638,10 +3641,10 @@
                 "/birdsData/caplya-seraya/images/caplya-seraya-5.jpeg"
             ],
             "audioPath": "/birdsData/caplya-seraya/audio/caplya-seraya.mp3",
-            "relatedBirds": ["zyablik", "chernet-morskaya"]
+            "relatedBirds": []
         },
         {
-            "id": "chayka-malaya",
+            "id": "chayka-malayaиспользовано+",
             "name": "Чайка малая",
             "nameInLatin": "Larus minutus",
             "article": [
@@ -3657,13 +3660,14 @@
                 "/birdsData/chayka-malaya/images/chayka-malaya-5.jpeg"
             ],
             "audioPath": "/birdsData/chayka-malaya/audio/chayka-malaya.mp3",
-            "relatedBirds": ["voron", "lun-bolotnyy"]
+            "relatedBirds": []
         },
         {
-            "id": "cheglok",
+            "id": "cheglokиспользовано+",
             "name": "Чеглок",
             "nameInLatin": "Falco subbuteo",
             "article": [
+                " Только гнездится Круглогодично Маршруты миграции",
                 "Чегло́к (лат. Falco subbuteo) — небольшая хищная птица из семейства соколиных, обитающая на обширной территории Евразии и в Северной Африке. Предпочитает светлые леса в сочетании с открытыми ландшафтами. На большей части ареала перелётная птица, зимует в Африке и тропической Азии. Питается насекомыми и мелкими птицами, которых ловит на лету. Достаточно распространённый вид.",
                 "Относится к роду соколов (Falco). Несколько схожих видов этого рода, также имеющих в своём названии слово «чеглок», иногда выделяются в отдельную группу Hypotriorchis. Общими признаками этой группы являются преимущественно тёмно-серое оперение, чёрные «усы» и чёрные продольные пестрины на брюхе.",
                 "Этимология русского названия до конца не выяснена. По мнению сотрудников Московского педагогического государственного университета И. Г. Лебедева и В. М. Константинова, название «чеглок» происходит от древнерусского слова «чеглъ» в значении «исконный, подлинный». Предполагают, что таким образом эта птица причислена к другим ловчим, благородным соколам — сапсану, кречету и балобану, хотя и отличается от них меньшими размерами. В противоположность выделяли мелких, не используемых в охоте соколов — пустельгу и кобчика.",
@@ -3685,10 +3689,10 @@
                 "/birdsData/cheglok/images/cheglok-5.jpeg"
             ],
             "audioPath": "/birdsData/cheglok/audio/cheglok.mp3",
-            "relatedBirds": ["pogonysh", "turuhtan"]
+            "relatedBirds": []
         },
         {
-            "id": "chekan-lugovoy",
+            "id": "chekan-lugovoyиспользовано+",
             "name": "Чекан луговой",
             "nameInLatin": "Saxicola rubetra",
             "article": [
@@ -3711,10 +3715,10 @@
                 "/birdsData/chekan-lugovoy/images/chekan-lugovoy-5.jpeg"
             ],
             "audioPath": "/birdsData/chekan-lugovoy/audio/chekan-lugovoy.mp3",
-            "relatedBirds": ["zimnyak", "pustelga-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "chernet-morskaya",
+            "id": "chernet-morskayaиспользовано+",
             "name": "Чернеть морская",
             "nameInLatin": "Aythya marila",
             "article": [
@@ -3739,10 +3743,10 @@
                 "/birdsData/chernet-morskaya/images/chernet-morskaya-5.jpeg"
             ],
             "audioPath": "/birdsData/chernet-morskaya/audio/chernet-morskaya.mp3",
-            "relatedBirds": ["kronshnep-bolshoy", "splyushka"]
+            "relatedBirds": []
         },
         {
-            "id": "chernysh",
+            "id": "chernyshиспользовано+",
             "name": "Черныш",
             "nameInLatin": "Tringa ochropus",
             "article": [
@@ -3758,10 +3762,10 @@
                 "/birdsData/chernysh/images/chernysh-5.jpeg"
             ],
             "audioPath": "/birdsData/chernysh/audio/chernysh.mp3",
-            "relatedBirds": ["sychik-vorobinyy", "kukushka-gluhaya"]
+            "relatedBirds": []
         },
         {
-            "id": "chechevica-obyknovennaya",
+            "id": "chechevica-obyknovennayaиспользовано+",
             "name": "Чечевица обыкновенная",
             "nameInLatin": "Carpodacus erythrinus",
             "article": [],
@@ -3773,10 +3777,10 @@
                 "/birdsData/chechevica-obyknovennaya/images/chechevica-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/chechevica-obyknovennaya/audio/chechevica-obyknovennaya.mp3",
-            "relatedBirds": ["ulit-bolshoy", "kamyshnica"]
+            "relatedBirds": []
         },
         {
-            "id": "chechetka-obyknovennaya",
+            "id": "chechetka-obyknovennayaиспользовано+",
             "name": "Чечётка обыкновенная",
             "nameInLatin": "Acanthis flammea",
             "article": [
@@ -3797,10 +3801,10 @@
                 "/birdsData/chechetka-obyknovennaya/images/chechetka-obyknovennaya-5.jpeg"
             ],
             "audioPath": "/birdsData/chechetka-obyknovennaya/audio/chechetka-obyknovennaya.mp3",
-            "relatedBirds": ["sinica-bolshaya", "korolek-zheltogolovyy"]
+            "relatedBirds": []
         },
         {
-            "id": "chibis",
+            "id": "chibisиспользовано+",
             "name": "Чибис",
             "nameInLatin": "Vanellus vanellus",
             "article": [
@@ -3827,10 +3831,10 @@
                 "/birdsData/chibis/images/chibis-5.jpeg"
             ],
             "audioPath": "/birdsData/chibis/audio/chibis.mp3",
-            "relatedBirds": ["kozodoy-obyknovennyy", "zhuravl-seryy"]
+            "relatedBirds": []
         },
         {
-            "id": "chizh",
+            "id": "chizhиспользовано+",
             "name": "Чиж",
             "nameInLatin": "Spinus spinus",
             "article": [
@@ -3856,10 +3860,10 @@
                 "/birdsData/chizh/images/chizh-5.jpeg"
             ],
             "audioPath": "/birdsData/chizh/audio/chizh.mp3",
-            "relatedBirds": ["aist-chernyy", "yastreb-perepelyatnik"]
+            "relatedBirds": []
         },
         {
-            "id": "chirok-svistunok",
+            "id": "chirok-svistunokиспользовано+",
             "name": "Чирок-свистунок",
             "nameInLatin": "Anas crecca",
             "article": [
@@ -3892,10 +3896,10 @@
                 "/birdsData/chirok-svistunok/images/chirok-svistunok-5.jpeg"
             ],
             "audioPath": "/birdsData/chirok-svistunok/audio/chirok-svistunok.mp3",
-            "relatedBirds": ["skopa", "zelenushka-obyknovennaya"]
+            "relatedBirds": []
         },
         {
-            "id": "shilohvost",
+            "id": "shilohvostиспользовано+",
             "name": "Шилохвость",
             "nameInLatin": "Anas acuta",
             "article": [
@@ -3920,10 +3924,10 @@
                 "/birdsData/shilohvost/images/shilohvost-5.jpeg"
             ],
             "audioPath": "/birdsData/shilohvost/audio/shilohvost.mp3",
-            "relatedBirds": ["skvorec-obyknovennyy", "sych-domovyy"]
+            "relatedBirds": []
         },
         {
-            "id": "shirokonoska",
+            "id": "shirokonoskaиспользовано",
             "name": "Широконоска",
             "nameInLatin": "Anas clypeata",
             "article": [
@@ -3948,10 +3952,10 @@
                 "/birdsData/shirokonoska/images/shirokonoska-5.jpeg"
             ],
             "audioPath": "/birdsData/shirokonoska/audio/shirokonoska.mp3",
-            "relatedBirds": ["lastochka-beregovushka", "dupel"]
+            "relatedBirds": []
         },
         {
-            "id": "schegol-chernogolovyy",
+            "id": "schegol-chernogolovyyиспользовано+",
             "name": "Щегол черноголовый",
             "nameInLatin": "Carduelis carduelis",
             "article": [
@@ -3967,10 +3971,10 @@
                 "/birdsData/schegol-chernogolovyy/images/schegol-chernogolovyy-5.jpeg"
             ],
             "audioPath": "/birdsData/schegol-chernogolovyy/audio/schegol-chernogolovyy.mp3",
-            "relatedBirds": ["klest-belokrylyy", "lebed-klikun"]
+            "relatedBirds": []
         },
         {
-            "id": "schur-obyknovennyy",
+            "id": "schur-obyknovennyyиспользовано+",
             "name": "Щур обыкновенный",
             "nameInLatin": "Pinicola enucleator",
             "article": [
@@ -3986,10 +3990,10 @@
                 "/birdsData/schur-obyknovennyy/images/schur-obyknovennyy-5.jpeg"
             ],
             "audioPath": "/birdsData/schur-obyknovennyy/audio/schur-obyknovennyy.mp3",
-            "relatedBirds": ["gumennik", "dyatel-belospinnyy"]
+            "relatedBirds": []
         },
         {
-            "id": "schurka-zolotistaya",
+            "id": "schurka-zolotistayaиспользовано",
             "name": "Щурка золотистая",
             "nameInLatin": "Merops apiaster",
             "article": [
@@ -4013,10 +4017,10 @@
                 "/birdsData/schurka-zolotistaya/images/schurka-zolotistaya-5.jpeg"
             ],
             "audioPath": "/birdsData/schurka-zolotistaya/audio/schurka-zolotistaya.mp3",
-            "relatedBirds": ["gus-belolobyy", "derbnik"]
+            "relatedBirds": []
         },
         {
-            "id": "yurok",
+            "id": "yurokиспользовано",
             "name": "Юрок",
             "nameInLatin": "Fringilla montifringilla",
             "article": [
@@ -4030,13 +4034,14 @@
                 "/birdsData/yurok/images/yurok-5.jpeg"
             ],
             "audioPath": "/birdsData/yurok/audio/yurok.mp3",
-            "relatedBirds": ["gogol-obyknovennyy", "gagara-krasnozobaya"]
+            "relatedBirds": []
         },
         {
-            "id": "yastreb-perepelyatnik",
+            "id": "yastreb-perepelyatnikиспользовано+",
             "name": "Ястреб-перепелятник",
             "nameInLatin": "Accipiter nisus",
             "article": [
+                " Только гнездится Круглогодично Маршруты миграции",
                 "Ястреб-перепелятник (также -воробьятник), или малый ястреб (лат. Accipiter nisus) — вид хищных птиц из семейства ястребиных (Accipitridae). Самки ястреба-перепелятника почти вдвое крупнее самцов. Этот вид обитает преимущественно в лесных местностях и распространён почти по всей Евразии. Их добычей являются птицы малой и средней величины. Вследствие применения пестицидов, в середине XX века численность ястребов-перепелятников достигла исторического минимума, однако с тех пор его популяции вновь выросли.",
                 "Ястреб-перепелятник — это маленькая хищная птица с короткими и широкими крыльями, а также с длинным хвостом, что помогает ему маневрировать среди деревьев. Самки могут быть длиннее самцов на 25 % — половой диморфизм у хищных птиц, когда самка крупнее самца, частое явление.",
                 "Взрослый самец достигает 29—34 см в длину и 59—64 см размахе крыльев. Оба партнёра тёмно-серого цвета, но некоторые приобретают голубоватый оттенок. Нижняя часть имеет бледно-серые полоски и красноватый оттенок, смотря со стороны на расстоянии птица имеет рыжий цвет. Радужная оболочка ястреба-перепелятника оранжево-жёлтая или красновато-оранжевая. Самка же намного больше самца. Она вырастает до 35—41 см и в размахе 67—80 см, а весом в 186—345 грамм. Она имеет тёмно-коричневую или серовато-коричневую верхнюю сторону и красно-коричневую нижнюю сторону, а также светло-жёлтые глаза.",
@@ -4055,7 +4060,7 @@
                 "/birdsData/yastreb-perepelyatnik/images/yastreb-perepelyatnik-5.jpeg"
             ],
             "audioPath": "/birdsData/yastreb-perepelyatnik/audio/yastreb-perepelyatnik.mp3",
-            "relatedBirds": ["aist-belyy", "baklan-bolshoy"]
+            "relatedBirds": []
         }
     ]
 }

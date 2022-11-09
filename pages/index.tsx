@@ -142,14 +142,6 @@ const Home = ({ birds }: HomeProps) => {
   );
 };
 
-{
-  /* <main className={styles.main}>
-   */
-}
-
-/*
-  Эта функция работает только на сервере, она прокидывает данные в пропсы страницы
-*/
 export async function getStaticProps(context: any) {
   const { birds } = require("../database/birdsJSON");
 

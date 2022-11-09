@@ -7,8 +7,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 
 export default function BirdPage(props: any) {
-  console.log(Autoplay, 'Autoplay');
-
   return (
     <div className={styles.main}>
       <div className={styles.header}>
@@ -42,18 +40,30 @@ export default function BirdPage(props: any) {
           <div className={styles.seeAlso}>
             Смотри также:
             <div className={styles.anotherBirds}>
-              <div className={styles.anotherBird}>
-                <img src="#" />
-                Кукушка обыкновенная
-              </div>
-              <div className={styles.anotherBird}>
-                <img src="#" />
-                name
-              </div>
+              {props.bird.relatedBirds.map((b: string) => {
+                const relatedBird = props.birds.find(
+                  (bird: any) => bird.id === b
+                );
+                return (
+                  <div className={styles.anotherBird}>
+                    <img src={relatedBird.imagesPaths[0]} alt="bird" />
+                    <div className={styles.anotherBirdName}>
+                      <Link
+                        key={relatedBird.name}
+                        href={`/birds/${kebabCase(relatedBird.id)}`}
+                      >
+                        {relatedBird.name}
+                      </Link>
+                    </div>
+                  </div>
+                );
+              })}
             </div>
           </div>
 
-          <Link href="/">На главную</Link>
+          <div className={styles.back}>
+            <Link href="/">На главную</Link>
+          </div>
         </div>
         <div className={styles.text}>
           <h1>{props.bird.name}</h1>
