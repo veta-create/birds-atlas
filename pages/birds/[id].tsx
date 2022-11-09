@@ -2,12 +2,13 @@ import Link from "next/link";
 import React from "react";
 import { kebabCase } from "../../utils";
 import styles from "./[id].module.css";
+import { Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, { Autoplay } from "swiper";
 import "swiper/css";
 
 export default function BirdPage(props: any) {
-  SwiperCore.use([Autoplay]);
+  console.log(Autoplay, 'Autoplay');
+
   return (
     <div className={styles.main}>
       <div className={styles.header}>
@@ -24,9 +25,9 @@ export default function BirdPage(props: any) {
             slidesPerView={1}
             className={styles.slider}
           >
-            {props.bird.imagesPaths.map((p: string) => {
+            {props.bird.imagesPaths.map((p: string, index: number) => {
               return (
-                <SwiperSlide className={styles.slide}>
+                <SwiperSlide key={index} className={styles.slide}>
                   <img src={p} alt="bird" />
                 </SwiperSlide>
               );
