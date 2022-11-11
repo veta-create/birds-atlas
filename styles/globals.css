@@ -4,8 +4,20 @@
   --header-color: #000;
   --detail-color: #fff;
   --substrate-color: #1d261d;
+  --mobail-substrate-color: #334734b3;
 }
 
+@media (min-width: 200px) and (max-width: 500px) {
+  body {
+    width: 100%;
+  }
+}
+
+@media (min-width: 510px) and (max-width: 12450px) {
+  body {
+    width: 80%;
+  }
+}
 
 html,
 body {
@@ -17,7 +29,6 @@ body {
 }
 
 body {
-  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }

@@ -10,9 +10,11 @@ export default function BirdPage(props: any) {
   return (
     <div className={styles.main}>
       <div className={styles.header}>
-        <div className={styles.logo}>
-          Пере<span>звон</span>
-        </div>
+        <Link href="/">
+          <div className={styles.logo}>
+            Пере<span>звон</span>
+          </div>
+        </Link>
       </div>
       <div className={styles.birdInfo}>
         <div className={styles.sliderSideBar}>
@@ -61,9 +63,6 @@ export default function BirdPage(props: any) {
             </div>
           </div>
 
-          <div className={styles.back}>
-            <Link href="/">На главную</Link>
-          </div>
         </div>
         <div className={styles.text}>
           <h1>{props.bird.name}</h1>
