@@ -65,32 +65,44 @@ const Home = ({ birds }: HomeProps) => {
       if (el.id === id) {
         return el;
       }
+
       return false;
     });
   }
 
   function setPlayButtonValue(id: string) {
-
     if (findBirdInAudios(id) === undefined) {
       return false;
-    } else if (
-      findBirdInAudios(id) !== undefined &&
-      findBirdInAudios(id).play
-    ) {
-      return true;
-    } else if (
-      findBirdInAudios(id) !== undefined &&
-      findBirdInAudios(id).play === false
-    ) {
-      return false;
+    }
+
+    if(findBirdInAudios(id) !== undefined) {
+      console.log(findBirdInAudios(id), 'findBirdInAudios(id)');
+
+      return findBirdInAudios(id).play;
     }
   }
 
   function onClickPlay(id: string, path: string) {
     const checkExistEl = findBirdInAudios(id);
 
+    const newAudios = [...audios];
+
     if (checkExistEl) {
+
+      for(let i = 0; i < newAudios.length; i++) {
+        const audio = newAudios[i];
+
+        if(audio.id === id) {
+          const copy = { ...audio };
+                copy.play = true;
+
+          newAudios[i] = copy;
+        }
+      }
+
       checkExistEl.audio.play();
+
+      setAudios(newAudios);
     } else {
       let newAudio = new Audio(path);
       setAudios([ ...audios, { id: id, audio: newAudio, play: true }]);
@@ -101,10 +113,13 @@ const Home = ({ birds }: HomeProps) => {
 
   function onClickPause(id: string) {
     findBirdInAudios(id).audio.pause();
-    let muteAudios = audios;
+
+    let muteAudios = [...audios];
+
     for (let i = 0; i < muteAudios.length; i++) {
       muteAudios[i].play = false;
     }
+
     setAudios(muteAudios);
   }
 
@@ -175,6 +190,7 @@ const Home = ({ birds }: HomeProps) => {
             .map((bird) => (
               <div className={styles.birdCard}>
                 <div className={styles.player}>
+                  {console.log(setPlayButtonValue(bird.id), 'setPlayButtonValue(bird.id)')}
                   {setPlayButtonValue(bird.id) ? (
                     <Pause
                       onClick={() => onClickPause(bird.id)}
