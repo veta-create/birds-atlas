@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import React from "react";
 import { kebabCase } from "../../utils";
 import styles from "./[id].module.css";
@@ -28,7 +29,7 @@ export default function BirdPage(props: any) {
             {props.bird.imagesPaths.map((p: string, index: number) => {
               return (
                 <SwiperSlide key={index} className={styles.slide}>
-                  <img src={p} alt="bird" />
+                  <Image src={p} alt="bird" layout='fill'/>
                 </SwiperSlide>
               );
             })}
@@ -43,12 +44,10 @@ export default function BirdPage(props: any) {
             Смотри также:
             <div className={styles.anotherBirds}>
               {props.bird.relatedBirds.map((b: string) => {
-                const relatedBird = props.birds.find(
-                  (bird: any) => bird.id === b
-                );
+                const relatedBird = props.birds.find((bird: any) => bird.id === b);
                 return (
-                  <div className={styles.anotherBird}>
-                    <img src={relatedBird.imagesPaths[0]} alt="bird" />
+                  <div key={relatedBird.id} className={styles.anotherBird}>
+                    <Image src={relatedBird.imagesPaths[0]} alt="bird" width="200" height="150"/>
                     <div className={styles.anotherBirdName}>
                       <Link
                         key={relatedBird.name}
@@ -68,7 +67,7 @@ export default function BirdPage(props: any) {
           <h1>{props.bird.name}</h1>
           <h2>{props.bird.nameInLatin}</h2>
           {props.bird.article.map((p: number) => {
-            return <p>{p}</p>;
+            return <p key={p}>{p}</p>;
           })}
         </div>
       </div>

@@ -1,7 +1,7 @@
 import React from "react";
-import type { NextPage } from "next";
 import type { Bird } from "../types";
 import { kebabCase } from "../utils";
+import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import styles from "../styles/Home.module.css";
@@ -12,6 +12,14 @@ import Pause from "../assets/images/pause.svg";
 
 interface HomeProps {
   birds: Array<Bird>;
+}
+
+type Id = string;
+
+interface Audio {
+  id: Id;
+  audio: HTMLAudioElement;
+  play: boolean;
 }
 
 const Home = ({ birds }: HomeProps) => {
@@ -45,8 +53,7 @@ const Home = ({ birds }: HomeProps) => {
 
   const [currentLetter, setCurrentLetter] = useState<string>("");
   const [currentSubstr, setCurrentSubstr] = useState<string>("");
-  const [play, setPlay] = useState(false);
-  const [audios, setAudios] = useState([]);
+  const [audios, setAudios] = useState<Array<Audio>>([]);
 
   function onLetterChanged(letter: string) {
     setCurrentLetter(letter);
@@ -76,9 +83,7 @@ const Home = ({ birds }: HomeProps) => {
     }
 
     if(findBirdInAudios(id) !== undefined) {
-      console.log(findBirdInAudios(id), 'findBirdInAudios(id)');
-
-      return findBirdInAudios(id).play;
+      return findBirdInAudios(id)!.play;
     }
   }
 
@@ -112,7 +117,7 @@ const Home = ({ birds }: HomeProps) => {
   }
 
   function onClickPause(id: string) {
-    findBirdInAudios(id).audio.pause();
+    findBirdInAudios(id)!.audio.pause();
 
     let muteAudios = [...audios];
 
@@ -148,6 +153,7 @@ const Home = ({ birds }: HomeProps) => {
           {alphabet.map((l) => {
             return (
               <span
+                key={l}
                 onClick={(e) => {
                   onLetterChanged(l);
                 }}
@@ -188,9 +194,8 @@ const Home = ({ birds }: HomeProps) => {
               return hasSubstr;
             })
             .map((bird) => (
-              <div className={styles.birdCard}>
+              <div key={bird.id} className={styles.birdCard}>
                 <div className={styles.player}>
-                  {console.log(setPlayButtonValue(bird.id), 'setPlayButtonValue(bird.id)')}
                   {setPlayButtonValue(bird.id) ? (
                     <Pause
                       onClick={() => onClickPause(bird.id)}
@@ -204,9 +209,11 @@ const Home = ({ birds }: HomeProps) => {
                       className={styles.playButton}
                     />
                   )}
-                  <img
+                  <Image
+                    alt="Birdy"
                     className={styles.photo}
                     src={`${bird.imagesPaths[1]}`}
+                    layout='fill'
                   />
                 </div>
                 <Link key={bird.name} href={`/birds/${kebabCase(bird.id)}`}>

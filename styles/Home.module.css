@@ -206,8 +206,8 @@
 
 .content .birdCard .player .playButton {
   position: absolute;
-  margin-left: 95px;
-  margin-top: 95px;
+  top: calc(50% - 45px);
+  left: calc(50% - 45px);
   z-index: 2;
   cursor: pointer;
 }
