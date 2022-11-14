@@ -4,6 +4,7 @@ import { kebabCase } from "../utils";
 import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
+import { useBird } from '../hooks';
 import styles from "../styles/Home.module.css";
 import cn from "classnames";
 import { useRef, useState } from "react";
@@ -12,14 +13,6 @@ import Pause from "../assets/images/pause.svg";
 
 interface HomeProps {
   birds: Array<Bird>;
-}
-
-type Id = string;
-
-interface Audio {
-  id: Id;
-  audio: HTMLAudioElement;
-  play: boolean;
 }
 
 const Home = ({ birds }: HomeProps) => {
@@ -53,7 +46,8 @@ const Home = ({ birds }: HomeProps) => {
 
   const [currentLetter, setCurrentLetter] = useState<string>("");
   const [currentSubstr, setCurrentSubstr] = useState<string>("");
-  const [audios, setAudios] = useState<Array<Audio>>([]);
+
+  const { setPlayButtonValue, onClickPlay, onClickPause } = useBird();
 
   function onLetterChanged(letter: string) {
     setCurrentLetter(letter);
@@ -65,67 +59,6 @@ const Home = ({ birds }: HomeProps) => {
 
   function onResetFilter() {
     setCurrentLetter("");
-  }
-
-  function findBirdInAudios(id: string) {
-    return audios.find((el) => {
-      if (el.id === id) {
-        return el;
-      }
-
-      return false;
-    });
-  }
-
-  function setPlayButtonValue(id: string) {
-    if (findBirdInAudios(id) === undefined) {
-      return false;
-    }
-
-    if(findBirdInAudios(id) !== undefined) {
-      return findBirdInAudios(id)!.play;
-    }
-  }
-
-  function onClickPlay(id: string, path: string) {
-    const checkExistEl = findBirdInAudios(id);
-
-    const newAudios = [...audios];
-
-    if (checkExistEl) {
-
-      for(let i = 0; i < newAudios.length; i++) {
-        const audio = newAudios[i];
-
-        if(audio.id === id) {
-          const copy = { ...audio };
-                copy.play = true;
-
-          newAudios[i] = copy;
-        }
-      }
-
-      checkExistEl.audio.play();
-
-      setAudios(newAudios);
-    } else {
-      let newAudio = new Audio(path);
-      setAudios([ ...audios, { id: id, audio: newAudio, play: true }]);
-      newAudio.play();
-      console.log(audios, "play")
-    }
-  }
-
-  function onClickPause(id: string) {
-    findBirdInAudios(id)!.audio.pause();
-
-    let muteAudios = [...audios];
-
-    for (let i = 0; i < muteAudios.length; i++) {
-      muteAudios[i].play = false;
-    }
-
-    setAudios(muteAudios);
   }
 
   return (
