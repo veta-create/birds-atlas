@@ -1,6 +1,6 @@
 import React from "react";
 import type { NextPage } from "next";
-import type { Bird } from "../types";
+import type { Audio, Bird } from "../types";
 import { kebabCase } from "../utils";
 import Head from "next/head";
 import Link from "next/link";
@@ -9,9 +9,17 @@ import cn from "classnames";
 import { useRef, useState } from "react";
 import Play from "../assets/images/play.svg";
 import Pause from "../assets/images/pause.svg";
+import {
+  useFilterByFirstLetter,
+  useFilterByName,
+  useSwitchingPlay,
+} from "./useBird";
 
 interface HomeProps {
   birds: Array<Bird>;
+}
+interface Audios {
+  audios: Array<Audio>
 }
 
 const Home = ({ birds }: HomeProps) => {
@@ -42,11 +50,11 @@ const Home = ({ birds }: HomeProps) => {
     "э",
     "ю",
   ];
-
+  
   const [currentLetter, setCurrentLetter] = useState<string>("");
   const [currentSubstr, setCurrentSubstr] = useState<string>("");
-  const [play, setPlay] = useState(false);
   const [audios, setAudios] = useState([]);
+  
 
   function onLetterChanged(letter: string) {
     setCurrentLetter(letter);
@@ -75,53 +83,54 @@ const Home = ({ birds }: HomeProps) => {
       return false;
     }
 
-    if(findBirdInAudios(id) !== undefined) {
-      console.log(findBirdInAudios(id), 'findBirdInAudios(id)');
+    if (findBirdInAudios(id) !== undefined) {
+      console.log(findBirdInAudios(id), "findBirdInAudios(id)");
 
       return findBirdInAudios(id).play;
     }
   }
 
-  function onClickPlay(id: string, path: string) {
-    const checkExistEl = findBirdInAudios(id);
+  // function onClickPlay(play: boolean, id: string, path: string) {
+  //   // useSwitchingPlay(play, id, path);
 
-    const newAudios = [...audios];
+  //   const checkExistEl = findBirdInAudios(id);
 
-    if (checkExistEl) {
+  //   const newAudios = [...audios];
 
-      for(let i = 0; i < newAudios.length; i++) {
-        const audio = newAudios[i];
+  //   if (checkExistEl) {
+  //     for (let i = 0; i < newAudios.length; i++) {
+  //       const audio = newAudios[i];
 
-        if(audio.id === id) {
-          const copy = { ...audio };
-                copy.play = true;
+  //       if (audio.id === id) {
+  //         const copy = { ...audio };
+  //         copy.play = true;
 
-          newAudios[i] = copy;
-        }
-      }
+  //         newAudios[i] = copy;
+  //       }
+  //     }
 
-      checkExistEl.audio.play();
+  //     checkExistEl.audio.play();
 
-      setAudios(newAudios);
-    } else {
-      let newAudio = new Audio(path);
-      setAudios([ ...audios, { id: id, audio: newAudio, play: true }]);
-      newAudio.play();
-      console.log(audios, "play")
-    }
-  }
+  //     setAudios(newAudios);
+  //   } else {
+  //     let newAudio = new Audio(path);
+  //     setAudios([...audios, { id: id, audio: newAudio, play: true }]);
+  //     newAudio.play();
+  //     console.log(audios, "play");
+  //   }
+  // }
 
-  function onClickPause(id: string) {
-    findBirdInAudios(id).audio.pause();
+  // function onClickPause(id: string) {
+  //   findBirdInAudios(id).audio.pause();
 
-    let muteAudios = [...audios];
+  //   let muteAudios = [...audios];
 
-    for (let i = 0; i < muteAudios.length; i++) {
-      muteAudios[i].play = false;
-    }
+  //   for (let i = 0; i < muteAudios.length; i++) {
+  //     muteAudios[i].play = false;
+  //   }
 
-    setAudios(muteAudios);
-  }
+  //   setAudios(muteAudios);
+  // }
 
   return (
     <div className={styles.container}>
@@ -190,7 +199,6 @@ const Home = ({ birds }: HomeProps) => {
             .map((bird) => (
               <div className={styles.birdCard}>
                 <div className={styles.player}>
-                  {console.log(setPlayButtonValue(bird.id), 'setPlayButtonValue(bird.id)')}
                   {setPlayButtonValue(bird.id) ? (
                     <Pause
                       onClick={() => onClickPause(bird.id)}

@@ -6,3 +6,10 @@ export type Bird = {
   imagesPaths: string[];
   audioPath: string;
 }
+
+
+export type Audio = {
+  id: string,
+  audio: string, 
+  play: boolean
+}
