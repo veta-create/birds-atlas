@@ -1,9 +1,11 @@
 import React from "react";
 import type { NextPage } from "next";
-import type { Audio, Bird } from "../types";
+import type { Bird } from "../types";
 import { kebabCase } from "../utils";
+import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
+import { useBird } from '../hooks';
 import styles from "../styles/Home.module.css";
 import cn from "classnames";
 import { useRef, useState } from "react";
@@ -53,8 +55,8 @@ const Home = ({ birds }: HomeProps) => {
   
   const [currentLetter, setCurrentLetter] = useState<string>("");
   const [currentSubstr, setCurrentSubstr] = useState<string>("");
+  const [play, setPlay] = useState(false);
   const [audios, setAudios] = useState([]);
-  
 
   function onLetterChanged(letter: string) {
     setCurrentLetter(letter);
@@ -83,54 +85,53 @@ const Home = ({ birds }: HomeProps) => {
       return false;
     }
 
-    if (findBirdInAudios(id) !== undefined) {
-      console.log(findBirdInAudios(id), "findBirdInAudios(id)");
+    if(findBirdInAudios(id) !== undefined) {
+      console.log(findBirdInAudios(id), 'findBirdInAudios(id)');
 
       return findBirdInAudios(id).play;
     }
   }
 
-  // function onClickPlay(play: boolean, id: string, path: string) {
-  //   // useSwitchingPlay(play, id, path);
+  function onClickPlay(id: string, path: string) {
+    const checkExistEl = findBirdInAudios(id);
 
-  //   const checkExistEl = findBirdInAudios(id);
+    const newAudios = [...audios];
 
-  //   const newAudios = [...audios];
+    if (checkExistEl) {
 
-  //   if (checkExistEl) {
-  //     for (let i = 0; i < newAudios.length; i++) {
-  //       const audio = newAudios[i];
+      for(let i = 0; i < newAudios.length; i++) {
+        const audio = newAudios[i];
 
-  //       if (audio.id === id) {
-  //         const copy = { ...audio };
-  //         copy.play = true;
+        if(audio.id === id) {
+          const copy = { ...audio };
+                copy.play = true;
 
-  //         newAudios[i] = copy;
-  //       }
-  //     }
+          newAudios[i] = copy;
+        }
+      }
 
-  //     checkExistEl.audio.play();
+      checkExistEl.audio.play();
 
-  //     setAudios(newAudios);
-  //   } else {
-  //     let newAudio = new Audio(path);
-  //     setAudios([...audios, { id: id, audio: newAudio, play: true }]);
-  //     newAudio.play();
-  //     console.log(audios, "play");
-  //   }
-  // }
+      setAudios(newAudios);
+    } else {
+      let newAudio = new Audio(path);
+      setAudios([ ...audios, { id: id, audio: newAudio, play: true }]);
+      newAudio.play();
+      console.log(audios, "play")
+    }
+  }
 
-  // function onClickPause(id: string) {
-  //   findBirdInAudios(id).audio.pause();
+  function onClickPause(id: string) {
+    findBirdInAudios(id).audio.pause();
 
-  //   let muteAudios = [...audios];
+    let muteAudios = [...audios];
 
-  //   for (let i = 0; i < muteAudios.length; i++) {
-  //     muteAudios[i].play = false;
-  //   }
+    for (let i = 0; i < muteAudios.length; i++) {
+      muteAudios[i].play = false;
+    }
 
-  //   setAudios(muteAudios);
-  // }
+    setAudios(muteAudios);
+  }
 
   return (
     <div className={styles.container}>
@@ -157,6 +158,7 @@ const Home = ({ birds }: HomeProps) => {
           {alphabet.map((l) => {
             return (
               <span
+                key={l}
                 onClick={(e) => {
                   onLetterChanged(l);
                 }}
@@ -197,8 +199,9 @@ const Home = ({ birds }: HomeProps) => {
               return hasSubstr;
             })
             .map((bird) => (
-              <div className={styles.birdCard}>
+              <div key={bird.id} className={styles.birdCard}>
                 <div className={styles.player}>
+                  {console.log(setPlayButtonValue(bird.id), 'setPlayButtonValue(bird.id)')}
                   {setPlayButtonValue(bird.id) ? (
                     <Pause
                       onClick={() => onClickPause(bird.id)}
@@ -212,9 +215,11 @@ const Home = ({ birds }: HomeProps) => {
                       className={styles.playButton}
                     />
                   )}
-                  <img
+                  <Image
+                    alt="Birdy"
                     className={styles.photo}
                     src={`${bird.imagesPaths[1]}`}
+                    layout='fill'
                   />
                 </div>
                 <Link key={bird.name} href={`/birds/${kebabCase(bird.id)}`}>
